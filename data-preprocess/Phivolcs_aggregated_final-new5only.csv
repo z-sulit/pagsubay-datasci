@@ -1,0 +1,42 @@
+date,time,latitude,longitude,depth_km,mag,coordinates,Location,loc_latitude,loc_longitude,city,province,region,distance_km,ns,angle_deg,ew
+10/20/2025,19:35:00,7,127.36,20,5.7,094 km S 75° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),94,S,75,E
+10/19/2025,9:34:00,6.95,127.36,20,5.2,095 km S 72° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),95,S,72,E
+10/18/2025,20:31:00,8.84,126.45,34,5.5,019 km S 63° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),19,S,63,E
+10/17/2025,7:03:00,9.69,126.22,28,6,012 km S 33° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),12,S,33,E
+10/14/2025,10:00:00,7.47,127.05,18,5.6,063 km N 63° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),63,N,63,E
+10/13/2025,1:06:00,10.96,123.94,5,5.8,010 km S 24° W,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),10,S,24,W
+10/11/2025,22:32:00,8.94,126.55,24,6,028 km N 86° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),28,N,86,E
+10/11/2025,18:27:00,7.23,126.91,18,5.5,041 km N 87° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),41,N,87,E
+10/11/2025,17:32:00,15.24,120.23,112,5.1,022 km S 77° E,Botolan (Zambales),15.2889971,120.0247358,Botolan,Zambales,Central Luzon (Region III),22,S,77,E
+10/10/2025,19:12:00,7.07,126.9,37,6.8,043 km S 68° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),43,S,68,E
+10/10/2025,15:38:00,7.07,127.12,10,5.2,065 km S 76° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),65,S,76,E
+10/10/2025,11:32:00,7.03,126.99,19,5.8,054 km S 68° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),54,S,68,E
+10/10/2025,9:43:00,7.22,126.97,23,7.4,048 km N 89° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),48,N,89,E
+10/7/2025,8:03:00,9.92,121.99,9,5.1,052 km N 71° W,City Of Sipalay (Negros Occidental),9.7491266,122.4040602,City Of Sipalay,Negros Occidental,Western Visayas (Region VI),52,N,71,W
+10/3/2025,5:39:00,11.11,124.14,10,5.1,019 km N 68° E,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),19,N,68,E
+11/25/2025,18:45:00,6.17,126.27,64,5.3,058 km S 23° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),58,S,23,E
+11/15/2025,13:33:00,3.62,126.77,16,5.4,248 km S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),248,S,37,E
+11/3/2025,12:21:00,4.82,125.49,22,5.3,066 km S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),66,S,7,E
+11/3/2025,3:06:00,9.7,122.76,84,5.5,019 km S 41° E,Candoni (Negros Occidental),9.8306756,122.6429611,Candoni,Negros Occidental,Western Visayas (Region VI),19,S,41,E
+12/27/2025,23:05:00,24.65,122.04,68,6.6,429 km N 03° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),429,N,3,W
+12/22/2025,1:53:00,8.48,127.47,28,5.8,126 km N 84° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),126,N,84,E
+12/18/2025,15:27:00,20.15,121.32,15,5.5,100 km N 10° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),100,N,10,W
+1/28/2026,16:38:00,6.49,123.67,13,5.2,042 km S 81° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),42,S,81,W
+1/28/2026,16:34:00,6.49,123.67,16,5.2,043 km S 80° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),43,S,80,W
+1/28/2026,14:46:00,6.52,123.69,4,5.9,040 km S 84° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),40,S,84,W
+1/28/2026,9:41:00,6.47,123.73,2,5.2,037 km S 76° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),37,S,76,W
+1/28/2026,3:54:00,6.43,123.67,6,5.1,045 km S 72° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),45,S,72,W
+1/28/2026,1:05:00,6.42,123.68,14,5.4,043 km S 70° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),43,S,70,W
+1/21/2026,9:33:00,6.37,123.71,17,5.1,042 km S 62° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),42,S,62,W
+1/20/2026,3:00:00,6.34,123.7,5,5.2,045 km S 58° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),45,S,58,W
+1/13/2026,9:27:00,2.67,126.72,100,5.1,336 km S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),336,S,25,E
+1/10/2026,23:15:00,3.34,126.96,71,5.2,286 km S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),286,S,37,E
+1/10/2026,22:58:00,3.37,126.98,48,6.4,284 km S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),284,S,37,E
+1/7/2026,12:12:00,7.17,127.06,15,5.4,058 km S 86° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),58,S,86,E
+1/7/2026,11:02:00,7.2,127.07,16,6.4,058 km S 89° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),58,S,89,E
+1/4/2026,4:46:00,5,127.48,131,5.3,229 km S 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),229,S,77,E
+1/1/2026,10:56:00,4.92,127.48,112,5.1,231 km S 61° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),231,S,61,E
+2/15/2026,1:22:00,5.31,127.44,18,5.3,209 km S 71° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),209,S,71,E
+2/13/2026,23:55:00,4.22,127.84,62,5.1,298 km S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),298,S,62,E
+2/13/2026,22:56:00,3.95,128.62,53,5.6,387 km S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),387,S,64,E
+2/12/2026,6:27:00,20.6,119.99,32,5.3,194 km S 83° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),194,S,83,W

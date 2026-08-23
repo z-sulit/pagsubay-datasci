@@ -1,0 +1,773 @@
+﻿event_id,date,time,latitude,longitude,depth_km,mag,coordinates,Location,loc_latitude,loc_longitude,city,province,region,distance_km,ns,angle_deg,ew
+PHV-0001,2/15/2026,1:22:00,5.31,127.44,18,5.3,209 km S 71Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),209,S,71,E
+PHV-0002,2/13/2026,22:56:00,3.95,128.62,53,5.6,387 km S 64Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),387,S,64,E
+PHV-0003,2/13/2026,23:55:00,4.22,127.84,62,5.1,298 km S 62Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),298,S,62,E
+PHV-0004,2/12/2026,6:27:00,20.6,119.99,32,5.3,194 km S 83Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),194,S,83,W
+PHV-0005,1/28/2026,16:34:00,6.49,123.67,16,5.2,043 km S 80Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),43,S,80,W
+PHV-0006,1/28/2026,14:46:00,6.52,123.69,4,5.9,040 km S 84Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),40,S,84,W
+PHV-0007,1/28/2026,9:41:00,6.47,123.73,2,5.2,037 km S 76Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),37,S,76,W
+PHV-0008,1/28/2026,3:54:00,6.43,123.67,6,5.1,045 km S 72Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),45,S,72,W
+PHV-0009,1/28/2026,1:05:00,6.42,123.68,14,5.4,043 km S 70Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),43,S,70,W
+PHV-0010,1/28/2026,16:38:00,6.49,123.67,13,5.2,042 km S 81Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),42,S,81,W
+PHV-0011,1/21/2026,9:33:00,6.37,123.71,17,5.1,042 km S 62Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),42,S,62,W
+PHV-0012,1/20/2026,3:00:00,6.34,123.7,5,5.2,045 km S 58Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),45,S,58,W
+PHV-0013,1/13/2026,9:27:00,2.67,126.72,100,5.1,336 km S 25Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),336,S,25,E
+PHV-0014,1/10/2026,23:15:00,3.34,126.96,71,5.2,286 km S 37Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),286,S,37,E
+PHV-0015,1/10/2026,22:58:00,3.37,126.98,48,6.4,284 km S 37Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),284,S,37,E
+PHV-0016,1/7/2026,12:12:00,7.17,127.06,15,5.4,058 km S 86Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),58,S,86,E
+PHV-0017,1/7/2026,11:02:00,7.2,127.07,16,6.4,058 km S 89Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),58,S,89,E
+PHV-0018,1/4/2026,4:46:00,5,127.48,131,5.3,229 km S 77Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),229,S,77,E
+PHV-0019,1/1/2026,10:56:00,4.92,127.48,112,5.1,231 km S 61Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),231,S,61,E
+PHV-0020,12/27/2025,23:05:00,24.65,122.04,68,6.6,429 km N 03Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),429,N,3,W
+PHV-0021,12/22/2025,1:53:00,8.48,127.47,28,5.8,126 km N 84Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),126,N,84,E
+PHV-0022,12/18/2025,15:27:00,20.15,121.32,15,5.5,100 km N 10Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),100,N,10,W
+PHV-0023,11/25/2025,18:45:00,6.17,126.27,64,5.3,058 km S 23Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),58,S,23,E
+PHV-0024,11/15/2025,13:33:00,3.62,126.77,16,5.4,248 km S 37Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),248,S,37,E
+PHV-0025,11/3/2025,3:06:00,9.7,122.76,84,5.5,019 km S 41Â° E,Candoni (Negros Occidental),9.8306756,122.6429611,Candoni,Negros Occidental,Western Visayas (Region VI),19,S,41,E
+PHV-0026,11/3/2025,12:21:00,4.82,125.49,22,5.3,066 km S 07Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),66,S,7,E
+PHV-0027,10/20/2025,19:35:00,7,127.36,20,5.7,094 km S 75Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),94,S,75,E
+PHV-0028,10/19/2025,9:34:00,6.95,127.36,20,5.2,095 km S 72Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),95,S,72,E
+PHV-0029,10/18/2025,20:31:00,8.84,126.45,34,5.5,019 km S 63Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),19,S,63,E
+PHV-0030,10/17/2025,7:03:00,9.69,126.22,28,6,012 km S 33Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),12,S,33,E
+PHV-0031,10/14/2025,10:00:00,7.47,127.05,18,5.6,063 km N 63Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),63,N,63,E
+PHV-0032,10/13/2025,1:06:00,10.96,123.94,5,5.8,010 km S 24Â° W,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),10,S,24,W
+PHV-0033,10/11/2025,6:27 PM,7.23,126.91,18,5.5,041km N 87Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),41,N,87,E
+PHV-0034,10/11/2025,22:32:00,8.94,126.55,24,6,028 km N 86Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),28,N,86,E
+PHV-0035,10/11/2025,5:32 PM,15.24,120.23,112,5.1,022km S 77Â° E,Botolan (Zambales),15.2889971,120.0247358,Botolan,Zambales,Central Luzon (Region III),22,S,77,E
+PHV-0036,10/11/2025,10:32 PM,8.94,126.55,24,6,028km N 86Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),28,N,86,E
+PHV-0037,10/11/2025,18:27:00,7.23,126.91,18,5.5,041 km N 87Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),41,N,87,E
+PHV-0038,10/11/2025,17:32:00,15.24,120.23,112,5.1,022 km S 77Â° E,Botolan (Zambales),15.2889971,120.0247358,Botolan,Zambales,Central Luzon (Region III),22,S,77,E
+PHV-0039,10/10/2025,9:43:00,7.22,126.97,23,7.4,048 km N 89Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),48,N,89,E
+PHV-0040,10/10/2025,19:12:00,7.07,126.9,37,6.8,043 km S 68Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),43,S,68,E
+PHV-0041,10/10/2025,15:38:00,7.07,127.12,10,5.2,065 km S 76Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),65,S,76,E
+PHV-0042,10/10/2025,9:43 AM,7.22,126.97,23,7.4,048km N 89Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),48,N,89,E
+PHV-0043,10/10/2025,11:32 AM,7.03,126.99,19,5.8,054km S 68Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),54,S,68,E
+PHV-0044,10/10/2025,3:24 PM,7.06,127.28,14,5,083km S 78Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),83,S,78,E
+PHV-0045,10/10/2025,3:38 PM,7.07,127.12,10,5.2,065km S 76Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),65,S,76,E
+PHV-0046,10/10/2025,7:12 PM,7.07,126.9,37,6.8,043km S 68Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),43,S,68,E
+PHV-0047,10/10/2025,11:32:00,7.03,126.99,19,5.8,054 km S 68Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),54,S,68,E
+PHV-0048,10/7/2025,8:03:00,9.92,121.99,9,5.1,052 km N 71Â° W,City Of Sipalay (Negros Occidental),9.7491266,122.4040602,City Of Sipalay,Negros Occidental,Western Visayas (Region VI),52,N,71,W
+PHV-0049,10/7/2025,8:03 AM,9.92,121.99,9,5.1,052km N 71Â° W,City Of Sipalay (Negros Occidental),9.7491266,122.4040602,City Of Sipalay,Negros Occidental,Western Visayas (Region VI),52,N,71,W
+PHV-0050,10/3/2025,5:39:00,11.11,124.14,10,5.1,019 km N 68Â° E,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),19,N,68,E
+PHV-0051,10/3/2025,5:39 AM,11.11,124.14,10,5.1,019km N 68Â° E,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),19,N,68,E
+PHV-0052,10/1/2025,10:46 PM,11.15,124.17,7,5,023km N 62Â° E,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),23,N,62,E
+PHV-0053,9/30/2025,9:59 PM,11.1,124.14,5,6.9,019km N 70Â° E,City Of Bogo (Cebu),11.0515546,124.0035463,City Of Bogo,Cebu,Central Visayas (Region VII),19,N,70,E
+PHV-0054,9/19/2025,3:52 AM,16.95,119.9,20,5.5,052km N 78Â° W,Luna (La Union),16.8529495,120.3775805,Luna,La Union,Ilocos Region (Region I),52,N,78,W
+PHV-0055,9/9/2025,2:52 AM,9.93,125.57,123,5.3,005km S 58Â° W,Dinagat (Dinagat Islands),10.161868,125.5531897,Dinagat,Dinagat Islands,Caraga (Region XIII),5,S,58,W
+PHV-0056,9/7/2025,3:29 PM,9.26,127.13,3,5.1,098km N 71Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),98,N,71,E
+PHV-0057,9/2/2025,10:29 AM,19.09,120.5,3,5.1,066km N 14Â° W,Burgos (Ilocos Norte),18.5110086,120.6436311,Burgos,Ilocos Norte,Ilocos Region (Region I),66,N,14,W
+PHV-0058,8/12/2025,1:08 PM,5.4,126.2,136,5.3,082km S 84Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),82,S,84,E
+PHV-0059,8/9/2025,7:33 PM,6.08,126.72,86,5.3,096km S 48Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),96,S,48,E
+PHV-0060,7/26/2025,5:29 AM,1.88,126.51,126,5.9,409km S 17Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),409,S,17,E
+PHV-0061,7/20/2025,12:25 AM,8.32,127.6,19,5.5,134km N 77Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),134,N,77,E
+PHV-0062,7/20/2025,1:45 PM,19.73,121.4,33,5.5,052km N 09Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),52,N,9,W
+PHV-0063,7/19/2025,9:34 AM,19.97,121.21,21,5.2,083km N 19Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),83,N,19,W
+PHV-0064,7/15/2025,10:38 AM,18.49,120.25,44,5.5,042km N 71Â° W,Pasuquin (Ilocos Norte),18.3339819,120.6194886,Pasuquin,Ilocos Norte,Ilocos Region (Region I),42,N,71,W
+PHV-0065,7/14/2025,1:08 AM,7.23,127.46,23,5.1,099km S 84Â° E,Caraga (Davao Oriental),7.328232,126.5653582,Caraga,Davao Oriental,Davao Region (Region XI),99,S,84,E
+PHV-0066,6/28/2025,8:40 PM,2.68,126.77,126,5.1,338km S 26Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),338,S,26,E
+PHV-0067,6/28/2025,7:41 AM,5.28,126.01,77,5.2,063km S 71Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),63,S,71,E
+PHV-0068,6/28/2025,7:07 AM,5.09,126.22,85,6.1,093km S 63Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),93,S,63,E
+PHV-0069,6/24/2025,9:58 AM,8.15,129.77,34,6.3,360km N 80Â° E,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),360,N,80,E
+PHV-0070,6/17/2025,4:36 PM,8.09,126.73,26,5.4,036km N 81Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),36,N,81,E
+PHV-0071,6/17/2025,2:25 PM,2.17,126.35,28,5.1,372km S 16Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),372,S,16,E
+PHV-0072,6/10/2025,12:04 AM,13.67,120.52,159,5.1,022km S 35Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),22,S,35,W
+PHV-0073,5/27/2025,9:35 PM,20.89,122.34,5,5,054km N 77Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),54,N,77,E
+PHV-0074,5/24/2025,10:36 AM,16.88,120.08,16,5.2,032km N 85Â° W,Luna (La Union),16.8529495,120.3775805,Luna,La Union,Ilocos Region (Region I),32,N,85,W
+PHV-0075,5/17/2025,8:32 AM,9.87,121.98,5,5.1,051km N 78Â° W,City Of Sipalay (Negros Occidental),9.7491266,122.4040602,City Of Sipalay,Negros Occidental,Western Visayas (Region VI),51,N,78,W
+PHV-0076,4/28/2025,1:18 AM,19.74,120.96,66,5.8,075km N 20Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),75,N,20,W
+PHV-0077,4/28/2025,12:54 AM,19.43,121.16,41,5.5,036km N 08Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),36,N,8,W
+PHV-0078,4/22/2025,6:17 PM,4.49,127.87,134,6.3,287km S 68Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),287,S,68,E
+PHV-0079,4/20/2025,1:37 AM,5.82,124.06,12,5.4,046km S 18Â° W,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),46,S,18,W
+PHV-0080,4/20/2025,12:50 AM,5.84,124.09,10,5.1,042km S 15Â° W,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),42,S,15,W
+PHV-0081,4/20/2025,12:11 AM,5.94,124.1,10,5.9,031km S 18Â° W,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),31,S,18,W
+PHV-0082,4/16/2025,5:42 AM,5.73,124.15,2,5.7,052km S 47Â° W,Maitum (Sarangani),6.0610443,124.4965878,Maitum,Sarangani,SOCCSKSARGEN (Region XII),52,S,47,W
+PHV-0083,4/9/2025,3:25 AM,4.25,125.25,33,5.2,130km S 08Â° W,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),130,S,8,W
+PHV-0084,4/1/2025,5:25 PM,13.63,120.55,136,5,024km S 22Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),24,S,22,W
+PHV-0085,3/17/2025,11:41 PM,7.9,126.7,33,5,029km N 66Â° E,Cateel (Davao Oriental),7.7901142,126.4537908,Cateel,Davao Oriental,Davao Region (Region XI),29,N,66,E
+PHV-0086,3/12/2025,11:09 PM,8.4,127.54,10,5.6,131km N 72Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),131,N,72,E
+PHV-0087,3/4/2025,9:42 AM,6.71,125.21,17,5,000km N 56Â° W,Matanao (Davao Del Sur),6.709707,125.2170514,Matanao,Davao Del Sur,Davao Region (Region XI),0,N,56,W
+PHV-0088,2/15/2025,9:18 AM,11.54,125.95,12,5.2,043km N 60Â° E,Hernani (Eastern Samar),11.3232473,125.6190691,Hernani,Eastern Samar,Eastern Visayas (Region VIII),43,N,60,E
+PHV-0089,2/14/2025,8:50 PM,11.56,125.96,10,5.3,045km N 58Â° E,Hernani (Eastern Samar),11.3232473,125.6190691,Hernani,Eastern Samar,Eastern Visayas (Region VIII),45,N,58,E
+PHV-0090,2/6/2025,9:16 PM,3.67,126.93,85,5,255km S 41Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),255,S,41,E
+PHV-0091,2/4/2025,5:35 AM,2.98,128.45,132,5.9,431km S 51Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),431,S,51,E
+PHV-0092,2/2/2025,11:43 PM,10.22,125.61,105,5,008km N 74Â° E,Libjo (Dinagat Islands),10.1941944,125.5316075,Libjo,Dinagat Islands,Caraga (Region XIII),8,N,74,E
+PHV-0093,1/23/2025,7:39 AM,10.01,125.18,11,5.8,006km S 22Â° E,San Francisco (Southern Leyte),10.0563138,125.1580978,San Francisco,Southern Leyte,Eastern Visayas (Region VIII),6,S,22,E
+PHV-0094,1/23/2025,11:41 AM,7.69,122.12,39,5.4,002km S 34Â° W,Siocon (Zamboanga Del Norte),7.7064072,122.1359108,Siocon,Zamboanga Del Norte,Zamboanga Peninsula (Region IX),2,S,34,W
+PHV-0095,1/22/2025,2:48 AM,21.11,121.12,14,5,083km N 65Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),83,N,65,W
+PHV-0096,1/20/2025,6:42 PM,13.93,120.44,90,5.5,024km N 64Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),24,N,64,W
+PHV-0097,1/13/2025,8:19 AM,6.48,124.05,596,5.1,008km S 02Â° E,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),8,S,2,E
+PHV-0098,1/5/2025,5:16 PM,6.5,126.69,120,5.2,066km S 24Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),66,S,24,E
+PHV-0099,12/30/2024,10:56 AM,18.6,120.63,23,5.6,016km N 64Â° W,Bangui (Ilocos Norte),18.5367387,120.7657563,Bangui,Ilocos Norte,Ilocos Region (Region I),16,N,64,W
+PHV-0100,12/28/2024,2:42 AM,9.56,126.42,51,5.6,038km S 50Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),38,S,50,E
+PHV-0101,12/26/2024,6:26 PM,8.47,125.86,14,5.3,009km N 73Â° E,Talacogon (Agusan Del Sur),8.4486711,125.7861565,Talacogon,Agusan Del Sur,Caraga (Region XIII),9,N,73,E
+PHV-0102,12/20/2024,3:22 AM,12.13,126.83,17,5.3,144km S 88Â° E,San Policarpo (Eastern Samar),12.1797056,125.5072461,San Policarpo,Eastern Samar,Eastern Visayas (Region VIII),144,S,88,E
+PHV-0103,12/19/2024,9:09 AM,17.66,119.42,27,5,100km N 85Â° W,Santa Catalina (Ilocos Sur),17.5888763,120.3633196,Santa Catalina,Ilocos Sur,Ilocos Region (Region I),100,N,85,W
+PHV-0104,12/4/2024,12:09 AM,4.48,126.56,39,5.3,163km S 51Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),163,S,51,E
+PHV-0105,12/4/2024,2:54 AM,18.52,120.73,23,5.7,004km S 52Â° W,Bangui (Ilocos Norte),18.5367387,120.7657563,Bangui,Ilocos Norte,Ilocos Region (Region I),4,S,52,W
+PHV-0106,11/28/2024,5:58 AM,15.51,120.61,191,5.7,003km N 35Â° E,City Of Tarlac (Tarlac),15.4861218,120.5893473,City Of Tarlac,Tarlac,Central Luzon (Region III),3,N,35,E
+PHV-0107,11/27/2024,4:59 PM,9,126.5,19,5,024km N 69Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),24,N,69,E
+PHV-0108,11/19/2024,4:34 PM,6.08,126.2,69,5.2,058km S 77Â° E,Don Marcelino (Davao Occidental),6.1978508,125.6977653,Don Marcelino,Davao Occidental,Davao Region (Region XI),58,S,77,E
+PHV-0109,10/10/2024,3:22 PM,1.98,126.93,157,5.1,415km S 24Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),415,S,24,E
+PHV-0110,10/2/2024,5:19 AM,14.31,124.93,35,6.1,080km N 60Â° E,Bagamanoc (Catanduanes),13.9396368,124.2878298,Bagamanoc,Catanduanes,Bicol Region (Region V),80,N,60,E
+PHV-0111,9/29/2024,7:09 PM,2.57,126.48,1,5.3,336km S 20Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),336,S,20,E
+PHV-0112,9/29/2024,2:53 PM,10.49,124.37,7,5.1,015km S 14Â° W,Poro (Cebu),10.628765,124.4073439,Poro,Cebu,Central Visayas (Region VII),15,S,14,W
+PHV-0113,9/13/2024,2:33 PM,4.11,126.88,18,5.1,216km S 48Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),216,S,48,E
+PHV-0114,9/10/2024,5:01 AM,4.28,126.78,101,5.2,196km S 50Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),196,S,50,E
+PHV-0115,9/9/2024,3:28 AM,10.99,125.93,44,5,023km S 78Â° E,Guiuan (Eastern Samar),11.0306685,125.7236686,Guiuan,Eastern Samar,Eastern Visayas (Region VIII),23,S,78,E
+PHV-0116,9/4/2024,7:16 AM,14.95,122.63,3,5.3,042km N 50Â° E,Jomalig (Quezon),14.6958792,122.3306656,Jomalig,Quezon,Calabarzon (Region IV-A),42,N,50,E
+PHV-0117,9/2/2024,3:59 AM,3.55,126.61,8,5,244km S 33Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),244,S,33,E
+PHV-0118,8/27/2024,9:01 PM,12.52,123.61,8,5,013km N 67Â° E,Baleno (Masbate),12.4738762,123.4975215,Baleno,Masbate,Bicol Region (Region V),13,N,67,E
+PHV-0119,8/19/2024,11:39 AM,12.87,124.88,59,5.7,034km N 08Â° W,Pambujan (Northern Samar),12.5639616,124.9282311,Pambujan,Northern Samar,Eastern Visayas (Region VIII),34,N,8,W
+PHV-0120,8/6/2024,1:39 PM,7.81,127.32,7,5.2,103km S 76Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),103,S,76,E
+PHV-0121,8/3/2024,12:20 PM,8.14,127.18,1,6.2,086km N 82Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),86,N,82,E
+PHV-0122,8/3/2024,9:38 AM,7.95,127.07,1,5.4,073km S 82Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),73,S,82,E
+PHV-0123,8/3/2024,6:22 AM,8.12,126.84,11,6.8,048km N 79Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),48,N,79,E
+PHV-0124,8/3/2024,7:36 AM,8.03,127.09,4,5,075km S 89Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),75,S,89,E
+PHV-0125,7/11/2024,10:13 AM,5.93,123.34,686,7.1,099km S 72Â° W,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),99,S,72,W
+PHV-0126,7/7/2024,12:01 AM,12.38,124.63,85,5,009km N 03Â° E,Lope De Vega (Northern Samar),12.2995428,124.6249992,Lope De Vega,Northern Samar,Eastern Visayas (Region VIII),9,N,3,E
+PHV-0127,7/6/2024,6:29 PM,19.13,121.24,6,5.4,004km N 54Â° E,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),4,N,54,E
+PHV-0128,6/22/2024,8:41 AM,14.05,125.13,53,5.1,086km N 70Â° E,Gigmoto (Catanduanes),13.7786693,124.3911728,Gigmoto,Catanduanes,Bicol Region (Region V),86,N,70,E
+PHV-0129,6/22/2024,3:03 AM,8.48,127.27,29,5.1,103km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),103,N,83,E
+PHV-0130,6/16/2024,7:49 PM,4.83,125.18,18,5.1,070km S 22Â° W,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),70,S,22,W
+PHV-0131,6/15/2024,9:08 PM,3.1,126.99,95,5.9,311km S 33Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),311,S,33,E
+PHV-0132,6/13/2024,1:01 AM,4.1,126.65,55,5.7,199km S 43Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),199,S,43,E
+PHV-0133,6/11/2024,2:58 PM,9.49,119.63,31,5.1,096km S 19Â° E,Roxas (Palawan),10.3196268,119.3430042,Roxas,Palawan,MIMAROPA Region,96,S,19,E
+PHV-0134,5/18/2024,2:26 PM,3.75,123.09,539,5.2,301km S 34Â° W,Kiamba (Sarangani),5.9879555,124.6241575,Kiamba,Sarangani,SOCCSKSARGEN (Region XII),301,S,34,W
+PHV-0135,5/7/2024,4:02 PM,11.37,125.81,6,5.1,021km N 84Â° E,Hernani (Eastern Samar),11.3232473,125.6190691,Hernani,Eastern Samar,Eastern Visayas (Region VIII),21,N,84,E
+PHV-0136,5/7/2024,9:12 PM,5.83,124.64,10,5,018km S 07Â° E,Kiamba (Sarangani),5.9879555,124.6241575,Kiamba,Sarangani,SOCCSKSARGEN (Region XII),18,S,7,E
+PHV-0137,5/3/2024,6:16 PM,10.81,125.37,10,5.8,039km N 80Â° E,Abuyog (Leyte),10.7467715,125.0120993,Abuyog,Leyte,Eastern Visayas (Region VIII),39,N,80,E
+PHV-0138,4/25/2024,12:20 PM,7.69,127.37,18,5,090km N 82Â° E,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),90,N,82,E
+PHV-0139,4/23/2024,8:55 PM,20.29,121.27,15,5.3,063km S 86Â° W,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),63,S,86,W
+PHV-0140,4/17/2024,12:06 AM,9.73,126.36,17,5,023km S 77Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),23,S,77,E
+PHV-0141,4/13/2024,2:26 PM,2.39,126.62,73,5.3,360km S 22Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),360,S,22,E
+PHV-0142,4/11/2024,11:33 AM,7.52,126.14,11,5.3,004km S 12Â° E,New Bataan (Davao De Oro),7.5480137,126.1371638,New Bataan,Davao De Oro,Davao Region (Region XI),4,S,12,E
+PHV-0143,4/11/2024,12:20 AM,11.95,126.1,14,5.1,068km S 82Â° E,Dolores (Eastern Samar),12.0374468,125.4831175,Dolores,Eastern Samar,Eastern Visayas (Region VIII),68,S,82,E
+PHV-0144,4/9/2024,5:47 PM,2.52,127.19,35,6.5,375km S 32Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),375,S,32,E
+PHV-0145,4/3/2024,12:51 PM,8.56,126.9,1,5.1,065km N 70Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),65,N,70,E
+PHV-0146,4/3/2024,7:58 AM,23.8,121.7,--,7.5,334km N 03Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),334,N,3,W
+PHV-0147,4/1/2024,5:16 AM,8.14,126.61,28,5,024km N 62Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),24,N,62,E
+PHV-0148,3/30/2024,2:06 AM,2.29,126.84,81,5.4,380km S 24Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),380,S,24,E
+PHV-0149,3/8/2024,5:11 PM,5.88,127.05,133,6,138km S 51Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),138,S,51,E
+PHV-0150,3/7/2024,4:19 AM,7.88,127.14,7,5,072km N 62Â° E,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),72,N,62,E
+PHV-0151,3/1/2024,5:28 PM,8.84,127.07,18,5.4,085km S 84Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),85,S,84,E
+PHV-0152,2/29/2024,8:23 AM,8.81,126.97,12,5.4,074km S 80Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),74,S,80,E
+PHV-0153,2/29/2024,8:10 AM,8.76,126.88,3,5.3,066km S 74Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),66,S,74,E
+PHV-0154,2/25/2024,2:47 AM,12.12,125.08,26,5,025km S 42Â° W,Jipapad (Eastern Samar),12.2699395,125.2027157,Jipapad,Eastern Samar,Eastern Visayas (Region VIII),25,S,42,W
+PHV-0155,2/12/2024,10:03 AM,9.94,126.93,17,5.3,087km N 79Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),87,N,79,E
+PHV-0156,2/10/2024,11:22 AM,8.69,125.55,24,5.8,007km S 47Â° W,Las Nieves (Agusan Del Norte),8.7359578,125.6015136,Las Nieves,Agusan Del Norte,Caraga (Region XIII),7,S,47,W
+PHV-0157,2/10/2024,1:21 PM,8.66,125.63,41,5.2,002km S 35Â° W,Esperanza (Agusan Del Sur),8.6788385,125.646773,Esperanza,Agusan Del Sur,Caraga (Region XIII),2,S,35,W
+PHV-0158,2/7/2024,10:56 AM,8.86,127.16,1,5.1,094km S 86Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),94,S,86,E
+PHV-0159,2/7/2024,10:44 AM,8.83,127.19,3,5,098km S 84Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),98,S,84,E
+PHV-0160,2/7/2024,12:05 PM,18.7,120.73,31,5.4,010km N 14Â° E,Pagudpud (Ilocos Norte),18.5593916,120.7869782,Pagudpud,Ilocos Norte,Ilocos Region (Region I),10,N,14,E
+PHV-0161,2/6/2024,10:37 PM,8.89,126.47,36,5.2,018km S 80Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),18,S,80,E
+PHV-0162,2/3/2024,4:25 PM,2.2,127.2,98,5.3,407km S 29Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),407,S,29,E
+PHV-0163,2/2/2024,5:35 AM,8.18,127.18,1,5.3,086km N 79Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),86,N,79,E
+PHV-0164,1/29/2024,3:37 PM,8.62,127.58,13,5.1,140km N 78Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),140,N,78,E
+PHV-0165,1/17/2024,8:32 PM,8.4,126.61,26,5.7,030km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),30,N,83,E
+PHV-0166,1/15/2024,7:31 PM,8.38,126.61,27,5,030km N 86Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),30,N,86,E
+PHV-0167,1/9/2024,4:48 AM,4.45,126.42,72,6.7,154km S 46 E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),154,S,46,E
+PHV-0168,1/3/2024,9:11 AM,8.29,126.56,32,5.1,026km S 70Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),26,S,70,E
+PHV-0169,12/24/2023,12:38 AM,8.95,127.03,2,5.3,080km N 87Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),80,N,87,E
+PHV-0170,12/23/2023,10:22 PM,8.13,127.01,12,5.2,067km N 81Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),67,N,81,E
+PHV-0171,12/16/2023,12:05 AM,8.92,127.43,17,5,124km S 90Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),124,S,90,E
+PHV-0172,12/12/2023,9:58 PM,8.58,126.72,14,5.1,048km N 61Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),48,N,61,E
+PHV-0173,12/11/2023,6:52 AM,8.8,127.48,26,5.2,130km S 84Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),130,S,84,E
+PHV-0174,12/8/2023,7:32 PM,8.89,127.01,9,5.1,078km S 87Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),78,S,87,E
+PHV-0175,12/8/2023,6:32 PM,8.81,127.09,1,5.2,087km S 82Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),87,S,82,E
+PHV-0176,12/6/2023,2:19 PM,19.2,121.03,9,5,021km N 60Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),21,N,60,W
+PHV-0177,12/5/2023,8:36 PM,2.53,127.82,121,5.2,415km S 40Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),415,S,40,E
+PHV-0178,12/5/2023,5:42 PM,9.15,126.95,1,5.6,076km N 70Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),76,N,70,E
+PHV-0179,12/5/2023,5:10 PM,9.06,126.91,3,5.7,069km N 77Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),69,N,77,E
+PHV-0180,12/5/2023,4:23 PM,13.87,120.29,60,5.9,018km N 86Â° E,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,18,N,86,E
+PHV-0181,12/5/2023,1:27 PM,8.49,127.24,1,5,101km N 82Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),101,N,82,E
+PHV-0182,12/5/2023,8:34 AM,8.93,126.66,13,5.3,039km N 89Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),39,N,89,E
+PHV-0183,12/5/2023,9:36 PM,9.14,126.92,2,5.8,072km N 71Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),72,N,71,E
+PHV-0184,12/4/2023,12:58 PM,8.86,126.85,4,5.5,061km S 84Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),61,S,84,E
+PHV-0185,12/4/2023,3:49 AM,8.96,126.91,1,6.8,067km N 87Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),67,N,87,E
+PHV-0186,12/4/2023,1:08 PM,8.86,126.87,2,5.8,063km S 84Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),63,S,84,E
+PHV-0187,12/4/2023,1:01 AM,8.56,127,3,5.2,076km N 74Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),76,N,74,E
+PHV-0188,12/4/2023,2:07 AM,8.54,127.07,10,5.2,083km N 77Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),83,N,77,E
+PHV-0189,12/4/2023,2:11 AM,8.89,126.77,7,5.1,051km S 86Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),51,S,86,E
+PHV-0190,12/4/2023,9:07 AM,8.49,126.95,2,5.5,069km N 79Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),69,N,79,E
+PHV-0191,12/4/2023,5:43 AM,8.67,127.05,1,5.6,085km N 67Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),85,N,67,E
+PHV-0192,12/4/2023,10:10 AM,8.54,126.92,1,5.1,067km N 74Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),67,N,74,E
+PHV-0193,12/4/2023,10:38 AM,8.63,126.99,1,5.1,078km N 68Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),78,N,68,E
+PHV-0194,12/4/2023,12:17 PM,8.84,126.96,1,5.3,073km S 83Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),73,S,83,E
+PHV-0195,12/4/2023,12:43 PM,8.45,127.37,20,5,114km N 85Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),114,N,85,E
+PHV-0196,12/4/2023,2:08 PM,8.45,127.01,5,5,075km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),75,N,83,E
+PHV-0197,12/3/2023,11:36 AM,8.39,127.06,3,5.2,080km N 88Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),80,N,88,E
+PHV-0198,12/3/2023,10:35 PM,8.76,127.46,7,5.9,131km N 71Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),131,N,71,E
+PHV-0199,12/3/2023,6:39 PM,8.49,126.89,1,5.4,063km N 77Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),63,N,77,E
+PHV-0200,12/3/2023,6:35 PM,8.49,126.95,1,6.6,069km N 79Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),69,N,79,E
+PHV-0201,12/3/2023,1:43 PM,8.66,126.87,8,5.4,066km N 61Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),66,N,61,E
+PHV-0202,12/3/2023,10:02 AM,8.68,127.4,4,5.4,122km N 74Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),122,N,74,E
+PHV-0203,12/3/2023,6:02 AM,8.4,126.84,10,5,056km N 86Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),56,N,86,E
+PHV-0204,12/3/2023,4:52 AM,8.4,127.12,1,6,086km N 88Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),86,N,88,E
+PHV-0205,12/3/2023,3:36 AM,8.48,127.17,45,5.2,093km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),93,N,83,E
+PHV-0206,12/3/2023,2:20 AM,8.61,126.93,1,5,071km N 67Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),71,N,67,E
+PHV-0207,12/3/2023,2:09 AM,8.51,127.43,2,6.3,122km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),122,N,83,E
+PHV-0208,12/3/2023,1:55 AM,8.64,126.97,3,5.9,076km N 67Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),76,N,67,E
+PHV-0209,12/3/2023,1:40 AM,8.42,126.9,1,6.1,063km N 85Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),63,N,85,E
+PHV-0210,12/3/2023,12:53 AM,8.28,127.08,8,5.5,083km S 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),83,S,83,E
+PHV-0211,12/3/2023,12:19 AM,8.51,127.12,1,5.1,087km N 80Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),87,N,80,E
+PHV-0212,12/3/2023,12:03 AM,8.5,126.95,1,6.4,073km N 83Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),73,N,83,E
+PHV-0213,12/3/2023,4:39 AM,8.27,127.05,1,5,079km S 82Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),79,S,82,E
+PHV-0214,12/2/2023,10:37 PM,8.44,126.59,26,7.4,029km N 74Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),29,N,74,E
+PHV-0215,11/26/2023,4:24 PM,13.55,120.62,112,5.1,017km N 45Â° W,Abra De Ilog (Occidental Mindoro),13.4444905,120.7288218,Abra De Ilog,Occidental Mindoro,MIMAROPA Region,17,N,45,W
+PHV-0216,11/22/2023,10:48 AM,2.01,126.97,172,6.1,413km S 25Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),413,S,25,E
+PHV-0217,11/20/2023,12:57 PM,11.55,125.13,70,5.2,014km S 55Â° E,Calbiga (Samar),11.6274469,125.0170454,Calbiga,Samar,Eastern Visayas (Region VIII),14,S,55,E
+PHV-0218,11/19/2023,9:38 AM,10.22,125.38,200,5,015km S 65Â° E,Anahawan (Southern Leyte),10.2962342,124.9658046,Anahawan,Southern Leyte,Eastern Visayas (Region VIII),15,S,65,E
+PHV-0219,11/17/2023,4:14 PM,5.38,125.24,63,6.8,028km S 68Â° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),28,S,68,W
+PHV-0220,11/2/2023,2:50 PM,11.54,126.3,9,5.6,077km N 74Â° E,Hernani (Eastern Samar),11.3232473,125.6190691,Hernani,Eastern Samar,Eastern Visayas (Region VIII),77,N,74,E
+PHV-0221,10/20/2023,2:58 AM,7.35,126.38,11,5.9,034km S 51Â° E,New Bataan (Davao De Oro),7.5480137,126.1371638,New Bataan,Davao De Oro,Davao Region (Region XI),34,S,51,E
+PHV-0222,10/13/2023,8:24 AM,13.79,120.82,5,5,015km S 02Â° E,City Of Calaca (Batangas),13.9338465,120.8140254,City Of Calaca,Batangas,Calabarzon (Region IV-A),15,S,2,E
+PHV-0223,10/4/2023,11:35 AM,19.28,121.27,21,5.7,021km N 18Â° E,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),21,N,18,E
+PHV-0224,10/4/2023,7:21 PM,5.26,126.2,135,6.4,084km S 74Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),84,S,74,E
+PHV-0225,9/26/2023,9:39 AM,4.25,127.61,162,6,273km S 60Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),273,S,60,E
+PHV-0226,9/12/2023,7:03 PM,19.27,121.15,29,6.3,019km N 18Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),19,N,18,W
+PHV-0227,9/8/2023,3:20 AM,4.2,127.91,130,5.1,305km S 62Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),305,S,62,E
+PHV-0228,9/4/2023,5:11 PM,2.49,126.67,10,5.3,352km S 23Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),352,S,23,E
+PHV-0229,8/29/2023,1:59 AM,3.81,126.73,40,5.5,214km S 39Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),214,S,39,E
+PHV-0230,8/26/2023,3:13 AM,6.29,124.73,10,5,010km S 12Â° W,Surallah (South Cotabato),6.3754689,124.7475942,Surallah,South Cotabato,SOCCSKSARGEN (Region XII),10,S,12,W
+PHV-0231,8/24/2023,1:38 AM,12.81,121.36,1,5.1,012km S 60Â° W,Bansud (Oriental Mindoro),12.8640556,121.4555057,Bansud,Oriental Mindoro,MIMAROPA Region,12,S,60,W
+PHV-0232,8/13/2023,9:43 AM,20.51,121.54,55,5.4,041km N 60Â° W,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),41,N,60,W
+PHV-0233,8/9/2023,8:57 AM,6.45,126.4,39,5.2,043km S 59Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),43,S,59,E
+PHV-0234,8/4/2023,8:25 PM,21.85,121.91,23,5.1,118km N 03Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),118,N,3,E
+PHV-0235,8/4/2023,8:22 PM,21.61,121.46,4,5.1,100km N 23Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),100,N,23,W
+PHV-0236,8/1/2023,4:03 PM,19.33,121.22,20,5.3,025km N 03Â° E,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),25,N,3,E
+PHV-0237,7/20/2023,7:08 AM,3.26,128.67,176,5,431km S 55Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),431,S,55,E
+PHV-0238,7/17/2023,11:35 PM,5.77,124.18,1,5.3,048km S 48Â° W,Maitum (Sarangani),6.0610443,124.4965878,Maitum,Sarangani,SOCCSKSARGEN (Region XII),48,S,48,W
+PHV-0239,7/10/2023,9:01 PM,11.38,125.41,26,5,015km S 76Â° W,Llorente (Eastern Samar),11.4123071,125.5455987,Llorente,Eastern Samar,Eastern Visayas (Region VIII),15,S,76,W
+PHV-0240,6/29/2023,7:30 PM,10.34,127.15,26,5.1,123km N 74Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),123,N,74,E
+PHV-0241,6/19/2023,1:33 AM,10.31,126.48,28,5,055km N 54Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),55,N,54,E
+PHV-0242,6/17/2023,6:15 PM,19.31,121.14,3,5.5,024km N 18Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),24,N,18,W
+PHV-0243,6/15/2023,10:19 AM,13.78,120.52,107,6.3,013km S 66Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),13,S,66,W
+PHV-0244,5/25/2023,11:26 PM,12.24,123.82,2,5,005km N 70Â° E,Uson (Masbate),12.2251109,123.78466,Uson,Masbate,Bicol Region (Region V),5,N,70,E
+PHV-0245,5/25/2023,9:48 PM,20.96,122.16,18,5.6,038km N 60Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),38,N,60,E
+PHV-0246,5/24/2023,8:44 AM,5.7,124.26,1,5.2,051km S 51Â° W,Kiamba (Sarangani),5.9879555,124.6241575,Kiamba,Sarangani,SOCCSKSARGEN (Region XII),51,S,51,W
+PHV-0247,5/23/2023,11:04 PM,2.73,126.92,69,5,340km S 29Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),340,S,29,E
+PHV-0248,5/13/2023,10:37 PM,10.14,126.22,26,5,021km N 49Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),21,N,49,E
+PHV-0249,5/7/2023,7:36 PM,17.6,122.36,28,5.3,027km N 29Â° E,Maconacon (Isabela),17.3871286,122.2379036,Maconacon,Isabela,Cagayan Valley (Region II),27,N,29,E
+PHV-0250,5/4/2023,8:49 AM,17.66,122.38,30,5.5,034km N 25Â° E,Maconacon (Isabela),17.3871286,122.2379036,Maconacon,Isabela,Cagayan Valley (Region II),34,N,25,E
+PHV-0251,4/29/2023,12:00 AM,13.62,120.4,72,5.2,020 km S 57Â° E,Looc (Occidental Mindoro),13.7197591,120.2502443,Looc,Occidental Mindoro,MIMAROPA Region,20,S,57,E
+PHV-0252,4/24/2023,5:32 PM,9.25,125.57,5,5.1,002 km S 33Â° E,Santiago (Agusan Del Norte),9.2654938,125.5602995,Santiago,Agusan Del Norte,Caraga (Region XIII),2,S,33,E
+PHV-0253,4/24/2023,12:23 AM,14.27,118.74,33,5.2,157 km N 73Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,157,N,73,W
+PHV-0254,4/23/2023,5:19 PM,17.61,122.28,20,5.3,025 km N 11Â° E,Maconacon (Isabela),17.3871286,122.2379036,Maconacon,Isabela,Cagayan Valley (Region II),25,N,11,E
+PHV-0255,4/21/2023,6:21 PM,2.78,126.87,27,5.8,333 km S 29Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),333,S,29,E
+PHV-0256,4/14/2023,12:04 AM,9.24,125.6,11,5.1,005 km S 57Â° E,Santiago (Agusan Del Norte),9.2654938,125.5602995,Santiago,Agusan Del Norte,Caraga (Region XIII),5,S,57,E
+PHV-0257,4/12/2023,10:02 AM,5.77,126.89,77,5.4,133 km S 42Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),133,S,42,E
+PHV-0258,4/4/2023,8:54 PM,13.9,125.77,72,6.2,150 km N 85Â° E,Gigmoto (Catanduanes),13.7786693,124.3911728,Gigmoto,Catanduanes,Bicol Region (Region V),150,N,85,E
+PHV-0259,3/28/2023,1:51 PM,18.61,120.28,1,5.1,040km N 74Â° W,Burgos (Ilocos Norte),18.5110086,120.6436311,Burgos,Ilocos Norte,Ilocos Region (Region I),40,N,74,W
+PHV-0260,3/23/2023,7:31 AM,19.24,121.12,22,5.6,018km N 33Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),18,N,33,W
+PHV-0261,3/18/2023,12:11 AM,5.85,127.1,29,5,145km S 52Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),145,S,52,E
+PHV-0262,3/16/2023,5:25 AM,4.39,127.34,22,5.3,239km S 60Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),239,S,60,E
+PHV-0263,3/7/2023,4:47 PM,7.51,126.24,11,5.6,012km S 69Â° E,New Bataan (Davao De Oro),7.5480137,126.1371638,New Bataan,Davao De Oro,Davao Region (Region XI),12,S,69,E
+PHV-0264,3/7/2023,2:02 PM,7.47,126.19,2,5.9,010km S 33Â° E,New Bataan (Davao De Oro),7.5480137,126.1371638,New Bataan,Davao De Oro,Davao Region (Region XI),10,S,33,E
+PHV-0265,3/6/2023,4:43 AM,7.45,126.24,4,5.3,015km S 47Â° E,New Bataan (Davao De Oro),7.5480137,126.1371638,New Bataan,Davao De Oro,Davao Region (Region XI),15,S,47,E
+PHV-0266,3/6/2023,11:53 PM,5.81,126.03,148,5,044km S 76Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),44,S,76,E
+PHV-0267,2/25/2023,1:28 AM,2.91,126.05,56,5,285km S 14Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),285,S,14,E
+PHV-0268,2/24/2023,4:02 AM,3.18,128.13,130,6.4,388km S 49Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),388,S,49,E
+PHV-0269,2/19/2023,12:47 PM,8.99,126.15,34,5,009km S 12Â° W,City Of Tandag (Surigao Del Sur),9.0799833,126.1974606,City Of Tandag,Surigao Del Sur,Caraga (Region XIII),9,S,12,W
+PHV-0270,2/16/2023,2:10 AM,12.32,123.75,10,6,011km S 20Â° W,Batuan (Masbate),12.4216283,123.779537,Batuan,Masbate,Bicol Region (Region V),11,S,20,W
+PHV-0271,2/16/2023,6:33 PM,15.06,119.79,9,5,032km S 90Â° W,San Felipe (Zambales),15.0610588,120.0702767,San Felipe,Zambales,Central Luzon (Region III),32,S,90,W
+PHV-0272,2/15/2023,5:15 PM,12.28,123.8,7,5,011km N 32Â° W,Dimasalang (Masbate),12.1931384,123.8586018,Dimasalang,Masbate,Bicol Region (Region V),11,N,32,W
+PHV-0273,2/11/2023,4:55 PM,3.43,126.53,28,6,251km S 29Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),251,S,29,E
+PHV-0274,2/1/2023,6:44 PM,7.66,126.07,17,6,002km S 66Â° W,Compostela (Davao De Oro),7.6675008,126.0856272,Compostela,Davao De Oro,Davao Region (Region XI),2,S,66,W
+PHV-0275,1/30/2023,3:57 AM,2.09,126.99,2,5.4,407km S 25Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),407,S,25,E
+PHV-0276,1/29/2023,12:23 PM,5.58,125.21,23,5,026km S 02Â° E,Glan (Sarangani),5.8226991,125.2049049,Glan,Sarangani,SOCCSKSARGEN (Region XII),26,S,2,E
+PHV-0277,1/28/2023,4:25 AM,10.74,125.58,71,5.5,015km S 88Â° W,Homonhon Island (Guiuan) (Eastern Samar),10.7417513,125.722241,Guiuan,Eastern Samar,Eastern Visayas (Region VIII),15,S,88,W
+PHV-0278,1/26/2023,12:23 PM,2.65,127.01,95,5.6,353km S 30Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),353,S,30,E
+PHV-0279,1/25/2023,12:10 AM,3.81,128.63,63,5.1,395km S 62Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),395,S,62,E
+PHV-0280,1/24/2023,10:13 AM,2.96,126.7,76,5.9,306km S 28Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),306,S,28,E
+PHV-0281,1/24/2023,9:10 AM,2.22,126.67,36,5.3,380km S 21Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),380,S,21,E
+PHV-0282,1/24/2023,2:17 AM,2.55,126.74,34,5.4,349km S 25Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),349,S,25,E
+PHV-0283,1/22/2023,4:06 AM,2.95,126.67,31,5.2,304km S 27Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),304,S,27,E
+PHV-0284,1/18/2023,4:01 PM,2.2,127.31,62,5.4,412km S 31Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),412,S,31,E
+PHV-0285,1/18/2023,2:06 PM,2.86,127.04,15,7,335km S 32Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),335,S,32,E
+PHV-0286,1/15/2023,8:28 PM,11.33,124.54,1,5.3,007km S 55Â° E,Leyte (Leyte),10.7841157,124.892321,Leyte,Leyte,Eastern Visayas (Region VIII),7,S,55,E
+PHV-0287,1/8/2023,7:00 AM,7.49,126.51,135,5,011km S 33Â° W,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),11,S,33,W
+PHV-0288,12/29/2022,9:13 PM,6.21,126.37,131,5.2,059km S 34Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),59,S,34,E
+PHV-0289,12/20/2022,5:44 AM,7.82,124.74,4,5,009km N 04Â° W,Kalilangan (Bukidnon),7.7465169,124.7476141,Kalilangan,Bukidnon,Northern Mindanao (Region X),9,N,4,W
+PHV-0290,12/19/2022,5:05 PM,17.42,120.55,10,5.1,005km N 80Â° W,Pilar (Abra),17.4150125,120.5954887,Pilar,Abra,CAR,5,N,80,W
+PHV-0291,12/18/2022,9:33 PM,15.69,119.17,13,5.2,080km S 79Â° W,Infanta (Pangasinan),15.8251315,119.9056689,Infanta,Pangasinan,Ilocos Region (Region I),80,S,79,W
+PHV-0292,12/16/2022,7:00 PM,13.58,120.56,89,5,020km N 31Â° E,Paluan (Occidental Mindoro),13.4158295,120.4626484,Paluan,Occidental Mindoro,MIMAROPA Region,20,N,31,E
+PHV-0293,12/10/2022,4:01 AM,6.36,126.18,55,5.6,035km S 21Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),35,S,21,E
+PHV-0294,12/9/2022,2:33 PM,13.3,125.95,32,5.7,118km N 40Â° E,Mapanas (Northern Samar),12.4752025,125.255472,Mapanas,Northern Samar,Eastern Visayas (Region VIII),118,N,40,E
+PHV-0295,12/7/2022,1:05 PM,14.58,123.15,1,5.3,025km N 62Â° E,Tinaga Island (Vinzons) (Camarines Norte),14.4690392,122.9450671,Vinzons,Camarines Norte,Bicol Region (Region V),25,N,62,E
+PHV-0296,11/27/2022,12:43 PM,9.36,126.53,10,5,035km N 74Â° E,Cortes (Surigao Del Sur),9.2755786,126.1908659,Cortes,Surigao Del Sur,Caraga (Region XIII),35,N,74,E
+PHV-0297,11/24/2022,11:05 PM,18.44,120.71,21,5.1,011km S 41Â° E,Burgos (Ilocos Norte),18.5110086,120.6436311,Burgos,Ilocos Norte,Ilocos Region (Region I),11,S,41,E
+PHV-0298,11/8/2022,10:30 PM,15.45,120.57,187,5.2,004km S 27Â° W,City Of Tarlac (Tarlac),15.4861218,120.5893473,City Of Tarlac,Tarlac,Central Luzon (Region III),4,S,27,W
+PHV-0299,11/7/2022,1:34 PM,19.09,121.14,14,5,007km S 77Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),7,S,77,W
+PHV-0300,11/6/2022,8:03 AM,2.39,125.17,269,5.5,335km S 05Â° W,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),335,S,5,W
+PHV-0301,11/5/2022,3:42 PM,4.12,126.21,103,5.1,168km S 31Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),168,S,31,E
+PHV-0302,11/2/2022,9:07 PM,19.67,121.6,53,5.2,037km N 63Â° W,Babuyan Island (Calayan) (Cagayan),19.5246385,121.9465479,Calayan,Cagayan,Cagayan Valley (Region II),37,N,63,W
+PHV-0303,10/25/2022,10:59 PM,17.77,120.72,16,6.4,005km N 18Â° E,Lagayan (Abra),17.720826,120.7059017,Lagayan,Abra,CAR,5,N,18,E
+PHV-0304,10/25/2022,9:20 PM,8.06,126.72,42,5.2,034km N 87Â° E,Lingig (Surigao Del Sur),8.0383384,126.4122956,Lingig,Surigao Del Sur,Caraga (Region XIII),34,N,87,E
+PHV-0305,10/24/2022,11:08 PM,11.22,126.06,16,5.3,041km N 71Â° E,Mercedes (Eastern Samar),11.0986331,125.710348,Mercedes,Eastern Samar,Eastern Visayas (Region VIII),41,N,71,E
+PHV-0306,10/24/2022,10:06 AM,7.02,125.49,238,5.3,014km S 68Â° W,City Of Davao (Davao Del Sur),7.0763343,125.6196674,City Of Davao,Davao Del Sur,Davao Region (Region XI),14,S,68,W
+PHV-0307,10/23/2022,10:15 AM,3.15,128.48,236,5.1,422km S 54Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),422,S,54,E
+PHV-0308,10/19/2022,4:05 PM,6.7,125.13,24,5.4,007km S 27Â° W,Magsaysay (Davao Del Sur),6.7517369,125.1504638,Magsaysay,Davao Del Sur,Davao Region (Region XI),7,S,27,W
+PHV-0309,10/3/2022,4:07 PM,9.97,126.38,13,5.1,032km N 50Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),32,N,50,E
+PHV-0310,9/28/2022,9:12 AM,9.34,126.83,5,5.3,071km N 85Â° E,Cortes (Surigao Del Sur),9.2755786,126.1908659,Cortes,Surigao Del Sur,Caraga (Region XIII),71,N,85,E
+PHV-0311,9/25/2022,7:16 PM,4.56,126.02,137,5.1,115km S 35Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),115,S,35,E
+PHV-0312,9/12/2022,4:14 PM,6.29,127.81,31,5.7,172km S 61Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),172,S,61,E
+PHV-0313,9/10/2022,1:20 AM,3.85,126.72,126,5.3,225km S 40Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),225,S,40,E
+PHV-0314,8/28/2022,2:27 AM,17.43,120.49,18,5.2,011km N 78Â° W,Pilar (Abra),17.4150125,120.5954887,Pilar,Abra,CAR,11,N,78,W
+PHV-0315,8/20/2022,3:22 AM,12.39,123.65,15,5,004km N 64Â° E,City Of Masbate (Masbate),10.3167896,123.9070277,City Of Masbate,Masbate,Bicol Region (Region V),4,N,64,E
+PHV-0316,8/17/2022,5:35 PM,9.68,125.92,131,5,007km N 51Â° W,Socorro (Surigao Del Norte),9.6184003,125.9656786,Socorro,Surigao Del Norte,Caraga (Region XIII),7,N,51,W
+PHV-0317,8/15/2022,4:23 PM,6.71,125.14,20,5.5,005km S 18Â° W,Magsaysay (Davao Del Sur),6.7517369,125.1504638,Magsaysay,Davao Del Sur,Davao Region (Region XI),5,S,18,W
+PHV-0318,8/13/2022,12:25 PM,10.28,121.83,2,5.1,020km S 32Â° W,Anini-y (Antique),10.4315482,121.9249048,Anini-y,Antique,Western Visayas (Region VI),20,S,32,W
+PHV-0319,8/13/2022,2:25 PM,6.96,123.77,11,5.9,030km S 67Â° W,Datu Blah T. Sinsuat (Maguindanao),7.0678918,124.0189526,Datu Blah T. Sinsuat,Maguindanao,BARMM,30,S,67,W
+PHV-0320,8/3/2022,3:19 AM,7.11,127.03,22,5.6,056km S 78Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),56,S,78,E
+PHV-0321,8/2/2022,1:24 PM,6.88,123.75,1,5.4,044km N 53Â° W,Lebak (Sultan Kudarat),6.6336717,124.0657013,Lebak,Sultan Kudarat,SOCCSKSARGEN (Region XII),44,N,53,W
+PHV-0322,8/2/2022,1:10 AM,11.33,125.48,42,5.1,011km N 33Â° W,General Macarthur (Eastern Samar),11.2453437,125.5397546,General Macarthur,Eastern Samar,Eastern Visayas (Region VIII),11,N,33,W
+PHV-0323,8/1/2022,2:48 AM,17.43,120.62,11,5.1,002km S 72Â° E,Villaviciosa (Abra),17.4378456,120.6256845,Villaviciosa,Abra,CAR,2,S,72,E
+PHV-0324,7/28/2022,4:02 AM,17.52,120.61,13,5,012km S 24Â° W,Tayum (Abra),17.6180712,120.6535488,Tayum,Abra,CAR,12,S,24,W
+PHV-0325,7/27/2022,5:04 PM,16.25,122.93,18,5,077km S 67Â° E,Dinapigue (Isabela),16.5258231,122.2621516,Dinapigue,Isabela,Cagayan Valley (Region II),77,S,67,E
+PHV-0326,7/27/2022,8:43 AM,17.63,120.63,15,7,003km N 50Â° W,Tayum (Abra),17.6180712,120.6535488,Tayum,Abra,CAR,3,N,50,W
+PHV-0327,7/1/2022,2:40 AM,19.07,121.29,21,6,009km S 65Â° E,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),9,S,65,E
+PHV-0328,6/28/2022,9:43 PM,21.8,120.36,13,5.1,190km N 54Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),190,N,54,W
+PHV-0329,6/16/2022,2:08 PM,17.24,119.85,10,5.1,063km N 83Â° W,City Of Candon (Ilocos Sur),17.1821251,120.4448371,City Of Candon,Ilocos Sur,Ilocos Region (Region I),63,N,83,W
+PHV-0330,6/8/2022,4:37 AM,6.47,127.2,68,5.2,104km S 52Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),104,S,52,E
+PHV-0331,6/3/2022,2:54 AM,8.92,126.74,9,5.6,049km S 90Â° E,Cagwait (Surigao Del Sur),8.9182742,126.2982546,Cagwait,Surigao Del Sur,Caraga (Region XIII),49,S,90,E
+PHV-0332,5/22/2022,5:50 AM,13.93,120.49,128,6.1,019km N 55Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),19,N,55,W
+PHV-0333,5/17/2022,4:42 PM,19.72,120.99,14,5.1,071km N 19Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),71,N,19,W
+PHV-0334,5/6/2022,3:54 AM,6.37,127.36,90,5.2,125km S 53Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),125,S,53,E
+PHV-0335,5/6/2022,3:34 PM,8.73,126.61,33,5.2,035km S 78Â° E,Marihatag (Surigao Del Sur),8.8005575,126.2985386,Marihatag,Surigao Del Sur,Caraga (Region XIII),35,S,78,E
+PHV-0336,5/6/2022,8:02 AM,6.44,127.33,65,5.2,119km S 55Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),119,S,55,E
+PHV-0337,5/5/2022,5:41 AM,6.2,127.34,96,5.7,136km S 46Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),136,S,46,E
+PHV-0338,5/5/2022,4:21 PM,6.22,127.58,34,6,155km S 54Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),155,S,54,E
+PHV-0339,5/5/2022,4:16 AM,6.31,127.47,80,5.2,139km S 54Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),139,S,54,E
+PHV-0340,4/28/2022,7:42 PM,9.93,126.19,13,5.1,016km S 49Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),16,S,49,E
+PHV-0341,4/21/2022,5:57 AM,6.88,127.21,35,6.1,082km S 64Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),82,S,64,E
+PHV-0342,4/20/2022,10:34 PM,6.78,127.29,16,5.2,096km S 60Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),96,S,60,E
+PHV-0343,4/20/2022,5:07 PM,6.23,127.45,110,5.5,143km S 51Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),143,S,51,E
+PHV-0344,4/20/2022,5:20 AM,3.47,126.47,107,5.4,244km S 28Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),244,S,28,E
+PHV-0345,4/20/2022,1:51 AM,6.27,127.51,54,5,145km S 53Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),145,S,53,E
+PHV-0346,4/19/2022,12:24 PM,7.1,127.01,17,5.3,068km S 59Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),68,S,59,E
+PHV-0347,4/19/2022,9:23 AM,7.11,127.04,15,6.2,057km S 78Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),57,S,78,E
+PHV-0348,4/11/2022,9:47 PM,21.52,120.81,25,5.2,135km N 53Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),135,N,53,W
+PHV-0349,4/10/2022,12:43 AM,21.59,121.14,40,5,115km N 39Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),115,N,39,W
+PHV-0350,4/9/2022,5:44 PM,12.3,123.82,7,5,012km N 21Â° W,Dimasalang (Masbate),12.1931384,123.8586018,Dimasalang,Masbate,Bicol Region (Region V),12,N,21,W
+PHV-0351,4/9/2022,3:19 AM,21.35,121.12,32,5.2,097km N 50Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),97,N,50,W
+PHV-0352,4/8/2022,7:36 AM,21.57,120.96,1,5.6,125km N 47Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),125,N,47,W
+PHV-0353,4/3/2022,7:21 PM,9.17,127.03,1,5.4,085km N 75Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),85,N,75,E
+PHV-0354,4/3/2022,11:29 PM,9.12,126.88,5,5.5,067km N 75Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),67,N,75,E
+PHV-0355,4/3/2022,6:24 PM,9.16,126.88,4,5.6,069km N 73Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),69,N,73,E
+PHV-0356,4/1/2022,9:35 AM,9.9,126.97,16,5,090km N 82Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),90,N,82,E
+PHV-0357,3/30/2022,2:55 AM,15.05,119.6,10,5,051km S 76Â° W,Cabangan (Zambales),15.1589463,120.0554631,Cabangan,Zambales,Central Luzon (Region III),51,S,76,W
+PHV-0358,3/30/2022,12:27 AM,14.12,119.09,33,5,115km N 76Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,115,N,76,W
+PHV-0359,3/26/2022,9:53 PM,20.54,122.24,14,5.2,030km N 71Â° E,Basco (Batanes),20.4490442,121.9683455,Basco,Batanes,Cagayan Valley (Region II),30,N,71,E
+PHV-0360,3/23/2022,8:02 PM,19.19,122.19,20,5.1,046km N 48Â° E,Camiguin Island (Calayan) (Cagayan),18.9083,121.9109,Calayan,Cagayan,Cagayan Valley (Region II),46,N,48,E
+PHV-0361,3/23/2022,1:41 AM,23.43,121.57,15,6.7,294km N 06Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),294,N,6,W
+PHV-0362,3/21/2022,12:39 AM,10.95,124.8,4,5.3,010km S 77Â° W,Burauen (Leyte),10.9748709,124.8932225,Burauen,Leyte,Eastern Visayas (Region VIII),10,S,77,W
+PHV-0363,3/16/2022,2:15 AM,13.99,119.24,35,5,097km N 81Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,97,N,81,W
+PHV-0364,3/16/2022,8:09 AM,14.1,119.16,27,5,106km N 76Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,106,N,76,W
+PHV-0365,3/14/2022,5:05 AM,14.05,119.11,33,6.4,111km N 79Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,111,N,79,W
+PHV-0366,3/14/2022,10:40 PM,14.07,119.17,33,5.1,106km N 77Â° W,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,106,N,77,W
+PHV-0367,3/8/2022,2:13 AM,2.67,125.7,76,5.6,305km S 06Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),305,S,6,E
+PHV-0368,2/26/2022,2:15 PM,5.58,126.39,117,5.3,091km S 66Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),91,S,66,E
+PHV-0369,2/21/2022,3:22 PM,13.55,120.67,102,5.3,013km N 28Â° W,Abra De Ilog (Occidental Mindoro),13.4444905,120.7288218,Abra De Ilog,Occidental Mindoro,MIMAROPA Region,13,N,28,W
+PHV-0370,2/21/2022,2:29 AM,5.77,126.63,56,5.7,110km S 82Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),110,S,82,E
+PHV-0371,2/21/2022,5:13 AM,5.85,126.56,51,5.2,101km S 86Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),101,S,86,E
+PHV-0372,2/13/2022,12:36 PM,19.26,121.04,11,5.4,024km N 45Â° W,Dalupiri Island (Calayan) (Cagayan),19.0919968,121.2212188,Calayan,Cagayan,Cagayan Valley (Region II),24,N,45,W
+PHV-0373,2/12/2022,8:41 AM,20.1,121.48,31,5.1,049km S 57Â° W,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),49,S,57,W
+PHV-0374,2/11/2022,10:25 PM,5.87,124.38,48,5.1,030km S 65Â° W,Kiamba (Sarangani),5.9879555,124.6241575,Kiamba,Sarangani,SOCCSKSARGEN (Region XII),30,S,65,W
+PHV-0375,1/30/2022,8:17 AM,15.5,118.41,14,5.2,080km N 61Â° E,Bajo De Masinloc (Masinloc) (Zambales),15.1167,117.7667,Masinloc,Zambales,Central Luzon (Region III),80,N,61,E
+PHV-0376,1/27/2022,2:15 PM,3,127.54,183,5.2,356km S 41Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),356,S,41,E
+PHV-0377,1/23/2022,2:23 PM,6.97,127.3,9,5.3,088km S 73Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),88,S,73,E
+PHV-0378,1/22/2022,10:26 AM,3.41,126.67,20,6.1,261km S 32Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),261,S,32,E
+PHV-0379,1/22/2022,4:43 AM,7.44,126.65,115,5.4,018km S 34Â° E,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),18,S,34,E
+PHV-0380,1/19/2022,3:10 AM,21.12,122.21,187,5.2,053km N 46Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),53,N,46,E
+PHV-0381,12/26/2021,8:12 AM,16.15,119.27,12,5,057km N 86Â° W,Agno (Pangasinan),16.1156627,119.799026,Agno,Pangasinan,Ilocos Region (Region I),57,N,86,W
+PHV-0382,12/26/2021,10:22 AM,2.14,126.32,16,5.3,375km S 15Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),375,S,15,E
+PHV-0383,12/22/2021,8:19 PM,2.2,126.6,88,5.1,378km S 20Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),378,S,20,E
+PHV-0384,12/22/2021,8:27 PM,2.13,126.37,42,5,378km S 16Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),378,S,16,E
+PHV-0385,12/21/2021,12:08 PM,12.89,120.92,7,5.1,016km N 72Â° E,Sablayan (Occidental Mindoro),12.8470382,120.7799198,Sablayan,Occidental Mindoro,MIMAROPA Region,16,N,72,E
+PHV-0386,12/15/2021,9:11 PM,10.25,126.53,17,5.1,056km N 63Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),56,N,63,E
+PHV-0387,12/13/2021,5:12 PM,13.63,120.53,100,5.5,024km N 17Â° E,Paluan (Occidental Mindoro),13.4158295,120.4626484,Paluan,Occidental Mindoro,MIMAROPA Region,24,N,17,E
+PHV-0388,12/5/2021,7:47 AM,4.06,128.15,173,6.1,336km S 62Â° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),5.4426531,125.4757564,Sarangani,Davao Occidental,Davao Region (Region XI),336,S,62,E
+PHV-0389,11/30/2021,8:56 AM,6.68,126.12,41,5.2,006km N 61Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),6,N,61,E
+PHV-0390,11/27/2021,2:01 PM,4.47,126.37,86,5.4,148km S 45Â° E,Balut Island (Municipality Of Sarangani) (Davao Occidental),5.4017256,125.3852859,Sarangani,Davao Occidental,Davao Region (Region XI),148,S,45,E
+PHV-0391,11/20/2021,4:13 AM,6.79,127.19,4,5.4,087km S 71Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),87,S,71,E
+PHV-0392,11/20/2021,4:08 AM,6.83,127.17,3,5.2,083km S 73Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),83,S,73,E
+PHV-0393,10/28/2021,1:39 PM,13,124.63,11,5,055km N 01Â° W,Catarman (Northern Samar),12.499648,124.6364767,Catarman,Northern Samar,Eastern Visayas (Region VIII),55,N,1,W
+PHV-0394,10/8/2021,2:14 AM,13.94,120.49,131,5.2,019km N 53Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),19,N,53,W
+PHV-0395,10/3/2021,5:59 AM,12.84,120.86,3,5.3,008km S 88Â° E,Sablayan (Occidental Mindoro),12.8470382,120.7799198,Sablayan,Occidental Mindoro,MIMAROPA Region,8,S,88,E
+PHV-0396,9/27/2021,1:12 AM,13.82,120.35,66,5.7,016km N 44Â° E,Looc (Occidental Mindoro),13.7197591,120.2502443,Looc,Occidental Mindoro,MIMAROPA Region,16,N,44,E
+PHV-0397,9/2/2021,3:23 PM,11.51,124.38,7,5,011km N 63Â° W,Biliran (Biliran),11.4665736,124.4740971,Biliran,Biliran,Eastern Visayas (Region VIII),11,N,63,W
+PHV-0398,8/27/2021,6:22 PM,5.5,125.24,34,5.7,022km N 65Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),22,N,65,W
+PHV-0399,8/25/2021,8:03 PM,7.21,122.88,23,5,011km S 19Â° E,Olutanga (Zamboanga Sibugay),7.310729,122.8451368,Olutanga,Zamboanga Sibugay,Zamboanga Peninsula (Region IX),11,S,19,E
+PHV-0400,8/14/2021,6:30 PM,10.02,126.15,33,5,008km S 89Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),8,S,89,E
+PHV-0401,8/14/2021,9:27 AM,5.03,128.34,44,5.3,309km S 54Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),309,S,54,E
+PHV-0402,8/14/2021,3:00 AM,6.21,127.44,15,5.2,144km S 50Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),144,S,50,E
+PHV-0403,8/13/2021,4:28 AM,6.05,127.58,1,5.1,167km S 51Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),167,S,51,E
+PHV-0404,8/13/2021,11:08 PM,13.66,120.57,124,5.8,021km S 20Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),21,S,20,W
+PHV-0405,8/13/2021,4:17 AM,5.93,127.5,35,5.3,170km S 43Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),170,S,43,E
+PHV-0406,8/12/2021,11:53 PM,6.1,127.65,24,5.6,169km S 51Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),169,S,51,E
+PHV-0407,8/12/2021,11:42 PM,6.07,127.41,12,5.1,152km S 44Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),152,S,44,E
+PHV-0408,8/12/2021,1:46 AM,6.3,126.87,59,7.1,097km S 66Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),97,S,66,E
+PHV-0409,7/24/2021,4:57 AM,13.74,120.54,101,5.5,014km S 46Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),14,S,46,W
+PHV-0410,7/24/2021,4:48 AM,13.71,120.57,111,6.6,015km S 28Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),15,S,28,W
+PHV-0411,7/21/2021,4:26 AM,5.58,126.74,79,5.3,127km S 73Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),127,S,73,E
+PHV-0412,7/18/2021,8:09 AM,6.26,126.43,63,5.4,059km S 43Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),59,S,43,E
+PHV-0413,7/10/2021,8:51 AM,2.69,126.61,76,5.4,328km S 24Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),328,S,24,E
+PHV-0414,7/10/2021,8:43 AM,2.52,126.63,64,6.2,347km S 23Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),347,S,23,E
+PHV-0415,7/8/2021,6:09 PM,4.93,126.59,12,5.2,147km S 44Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),147,S,44,E
+PHV-0416,6/29/2021,3:35 PM,3.99,125.86,146,5,165km S 17Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),165,S,17,E
+PHV-0417,6/27/2021,3:14 PM,8.89,126.37,33,5.1,013km S 50Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),13,S,50,E
+PHV-0418,6/14/2021,10:49 PM,7.67,124.86,2,5.2,010km N 34Â° W,Kadingilan (Bukidnon),7.6002419,124.9097879,Kadingilan,Bukidnon,Northern Mindanao (Region X),10,N,34,W
+PHV-0419,6/14/2021,10:38 PM,7.66,124.85,12,5.7,010km N 44Â° W,Kadingilan (Bukidnon),7.6002419,124.9097879,Kadingilan,Bukidnon,Northern Mindanao (Region X),10,N,44,W
+PHV-0420,6/10/2021,10:42 AM,5.77,126.17,48,5.1,060km S 74Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),60,S,74,E
+PHV-0421,6/8/2021,5:41 AM,10.22,126.28,5,5.3,031km N 46Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),31,N,46,E
+PHV-0422,6/6/2021,11:20 AM,10.16,126.3,8,5.1,029km N 61Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),29,N,61,E
+PHV-0423,5/23/2021,12:41 PM,14.76,119.17,33,5,101km S 78Â° W,San Antonio (Zambales),14.9488214,120.0889405,San Antonio,Zambales,Central Luzon (Region III),101,S,78,W
+PHV-0424,5/23/2021,10:02 AM,5.1,127.55,113,5.6,230km S 67Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),230,S,67,E
+PHV-0425,5/22/2021,7:56 AM,5.51,126.84,52,5.2,148km S 59Â° E,Don Marcelino (Davao Occidental),6.1978508,125.6977653,Don Marcelino,Davao Occidental,Davao Region (Region XI),148,S,59,E
+PHV-0426,5/13/2021,2:20 AM,4.76,128.72,38,5.6,373km S 79Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),373,S,79,E
+PHV-0427,5/12/2021,9:09 AM,13.52,120.65,108,5.8,011km N 32Â° W,Abra De Ilog (Occidental Mindoro),13.4444905,120.7288218,Abra De Ilog,Occidental Mindoro,MIMAROPA Region,11,N,32,W
+PHV-0428,5/11/2021,1:25 AM,5.46,126.58,60,5.3,116km S 64Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),116,S,64,E
+PHV-0429,5/6/2021,2:21 PM,6.76,125.12,19,5.1,004km N 74Â° W,Magsaysay (Davao Del Sur),6.7517369,125.1504638,Magsaysay,Davao Del Sur,Davao Region (Region XI),4,N,74,W
+PHV-0430,4/17/2021,4:55 AM,3.3,126.77,58,5.4,278km S 33Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),278,S,33,E
+PHV-0431,4/14/2021,2:39 AM,13.9,120.57,198,5,010km N 45Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),10,N,45,W
+PHV-0432,4/14/2021,2:38 AM,5.44,127,34,5.1,159km S 71Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),159,S,71,E
+PHV-0433,4/10/2021,5:30 PM,3.98,124.88,326,6.1,170km S 21Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),170,S,21,W
+PHV-0434,4/7/2021,4:08 AM,5.74,126.68,98,5.1,116km S 81Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),116,S,81,E
+PHV-0435,4/1/2021,6:12 PM,3.41,126.58,27,5.2,241km S 31Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),241,S,31,E
+PHV-0436,3/13/2021,4:13 AM,4.33,126.89,63,5,202km S 54Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),202,S,54,E
+PHV-0437,3/11/2021,3:24 PM,15.78,119.25,13,5.1,071km N 89Â° W,Santa Cruz (Zambales),15.7626076,119.910005,Santa Cruz,Zambales,Central Luzon (Region III),71,N,89,W
+PHV-0438,2/24/2021,6:25 AM,2.89,126.43,110,5.2,301km S 22Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),301,S,22,E
+PHV-0439,2/9/2021,7:24 AM,11.9,120.71,23,5,063km S 38Â° W,San Jose (Occidental Mindoro),12.3539835,121.0675039,San Jose,Occidental Mindoro,MIMAROPA Region,63,S,38,W
+PHV-0440,2/8/2021,8:00 AM,5.74,127.15,62,5.7,156km S 50Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),156,S,50,E
+PHV-0441,2/7/2021,12:22 PM,6.75,125.11,10,6.1,005km S 85Â° W,Magsaysay (Davao Del Sur),6.7517369,125.1504638,Magsaysay,Davao Del Sur,Davao Region (Region XI),5,S,85,W
+PHV-0442,2/5/2021,6:00 AM,14.6,123.14,1,5.1,026km N 54Â° E,Tinaga Island (Vinzons) (Camarines Norte),14.4690392,122.9450671,Vinzons,Camarines Norte,Bicol Region (Region V),26,N,54,E
+PHV-0443,2/4/2021,3:48 PM,14.6,118.8,16,5.1,145km S 74Â° W,San Antonio (Zambales),14.9488214,120.0889405,San Antonio,Zambales,Central Luzon (Region III),145,S,74,W
+PHV-0444,2/4/2021,4:14 PM,21.11,121.77,7,5.6,036km N 12Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),36,N,12,W
+PHV-0445,2/2/2021,10:37 PM,3.62,126.57,25,5.2,236km S 33Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),236,S,33,E
+PHV-0446,1/24/2021,10:26 PM,9.11,126.88,12,5.2,067km N 77Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),67,N,77,E
+PHV-0447,1/22/2021,6:45 PM,5.12,127.61,96,5,235km S 68Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),235,S,68,E
+PHV-0448,1/21/2021,8:23 PM,5.09,127.61,102,7.1,236km S 67Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),236,S,67,E
+PHV-0449,1/12/2021,9:38 PM,19,120.55,15,5.1,054km N 10Â° W,Burgos (Ilocos Norte),18.5110086,120.6436311,Burgos,Ilocos Norte,Ilocos Region (Region I),54,N,10,W
+PHV-0450,12/30/2020,12:21 AM,5.01,125.45,68,5.5,044km S 04Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),44,S,4,E
+PHV-0451,12/25/2020,6:04 PM,13.36,122.31,4,5.2,022km N 86Â° W,San Francisco (Quezon),13.3469108,122.5200663,San Francisco,Quezon,Calabarzon (Region IV-A),22,N,86,W
+PHV-0452,12/25/2020,7:43 AM,13.76,120.53,107,6.3,014km S 54Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),14,S,54,W
+PHV-0453,12/25/2020,10:00 AM,4.91,125.97,88,5.2,083km S 48Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),83,S,48,E
+PHV-0454,12/16/2020,7:21 AM,4.87,125.43,20,6.2,060km S 01Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),60,S,1,E
+PHV-0455,12/10/2020,9:20 PM,24.84,122.01,71,6.3,"24.782Â° N, 122.024Â° E",Taiwan Region,24.84,122.01,Taiwan Region,,,,,,
+PHV-0456,12/7/2020,10:37 PM,13.04,124.52,79,5.4,035km S 89Â° E,Prieto Diaz (Sorsogon),13.0404252,124.1935375,Prieto Diaz,Sorsogon,Bicol Region (Region V),35,S,89,E
+PHV-0457,11/16/2020,6:37 AM,8.61,126.49,54,6,033km S 63Â° E,San Agustin (Surigao Del Sur),8.7432343,126.2212765,San Agustin,Surigao Del Sur,Caraga (Region XIII),33,S,63,E
+PHV-0458,11/15/2020,2:35 PM,11.81,124.16,10,5,015km S 55Â° E,Pio V. Corpuz (Masbate),11.8837245,124.0489113,Pio V. Corpuz,Masbate,Bicol Region (Region V),15,S,55,E
+PHV-0459,11/12/2020,3:18 PM,10.15,126.1,14,5.3,014km N 10Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),14,N,10,E
+PHV-0460,11/5/2020,2:27 AM,10.03,126.21,18,5.1,015km N 84Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),15,N,84,E
+PHV-0461,10/29/2020,1:25 PM,13.75,120.86,4,5,009km N 89Â° W,Mabini (Batangas),13.7480896,120.9407878,Mabini,Batangas,Calabarzon (Region IV-A),9,N,89,W
+PHV-0462,10/17/2020,4:06 AM,13.58,120.11,29,5.4,022km S 44Â° W,Looc (Occidental Mindoro),13.7197591,120.2502443,Looc,Occidental Mindoro,MIMAROPA Region,22,S,44,W
+PHV-0463,10/13/2020,3:21 AM,9.8,126.24,55,5,021km N 76Â° E,Dapa (Surigao Del Norte),9.7577166,126.0528849,Dapa,Surigao Del Norte,Caraga (Region XIII),21,N,76,E
+PHV-0464,10/5/2020,2:16 AM,13.66,120.55,120,5.6,033km S 78Â° E,Looc (Occidental Mindoro),13.7197591,120.2502443,Looc,Occidental Mindoro,MIMAROPA Region,33,S,78,E
+PHV-0465,10/1/2020,6:10 AM,9.23,126.59,15,5.3,044km N 50Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),44,N,50,E
+PHV-0466,9/24/2020,10:25 AM,9.35,126.88,16,5.2,078km N 58Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),78,N,58,E
+PHV-0467,9/21/2020,6:13 AM,9.26,127.02,22,5.7,087km N 68Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),87,N,68,E
+PHV-0468,9/21/2020,6:21 AM,9.38,127.04,7,5.2,095km N 61Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),95,N,61,E
+PHV-0469,9/20/2020,9:28 PM,6.6,125.66,171,5,045km N 05Â° W,Don Marcelino (Davao Occidental),6.1978508,125.6977653,Don Marcelino,Davao Occidental,Davao Region (Region XI),45,N,5,W
+PHV-0470,9/9/2020,3:18 PM,3.44,126.28,1,5.9,238km S 24Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),238,S,24,E
+PHV-0471,9/9/2020,11:41 AM,3.79,126.74,1,5.5,231km S 38Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),231,S,38,E
+PHV-0472,9/6/2020,11:23 PM,6.08,125.92,143,6.4,020km S 70Â° E,Don Marcelino (Davao Occidental),6.1978508,125.6977653,Don Marcelino,Davao Occidental,Davao Region (Region XI),20,S,70,E
+PHV-0473,8/19/2020,5:50 AM,11.86,124.07,2,5.1,019km S 25Â° E,Cataingan (Masbate),11.9996467,123.9978457,Cataingan,Masbate,Bicol Region (Region V),19,S,25,E
+PHV-0474,8/18/2020,8:03 AM,11.98,124.01,13,6.6,005km S 20Â° E,Cataingan (Masbate),11.9996467,123.9978457,Cataingan,Masbate,Bicol Region (Region V),5,S,20,E
+PHV-0475,8/16/2020,3:22 PM,6.4,123.64,611,5.1,050km S 67Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),50,S,67,W
+PHV-0476,8/16/2020,10:53 AM,19.69,122.11,3,5,075km S 19Â° E,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),75,S,19,E
+PHV-0477,8/13/2020,6:32 AM,19.98,121.24,20,5.4,077km S 59Â° W,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),77,S,59,W
+PHV-0478,8/2/2020,1:08 AM,7.2,124.32,537,6.4,010km S 89Â° E,Cotabato City (Maguindanao),7.2237628,124.2467062,Cotabato City,Maguindanao,BARMM,10,S,89,E
+PHV-0479,7/31/2020,2:06 PM,8.51,126.84,19,5.7,057km N 74Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),57,N,74,E
+PHV-0480,7/28/2020,1:32 AM,8.89,126.57,45,5.8,021km S 61Â° E,Bayabas (Surigao Del Sur),8.9674102,126.2828165,Bayabas,Surigao Del Sur,Caraga (Region XIII),21,S,61,E
+PHV-0481,7/26/2020,11:12 AM,6.35,126.93,63,5.6,105km S 24Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),105,S,24,E
+PHV-0482,6/26/2020,7:54 PM,19.11,121.19,29,5.4,034km S 57Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),34,S,57,W
+PHV-0483,6/22/2020,4:02 PM,17.21,119.93,4,5,055km N 88Â° W,Candon City (Ilocos Sur),17.2044187,120.4571038,Candon City,Ilocos Sur,Ilocos Region (Region I),55,N,88,W
+PHV-0484,6/5/2020,9:37 PM,12.74,121.07,15,5.1,022km N 39Â° E,Calintaan (Occidental Mindoro),12.5713842,120.9409823,Calintaan,Occidental Mindoro,MIMAROPA Region,22,N,39,E
+PHV-0485,6/4/2020,4:49 PM,2.92,128.83,123,6.6,514km S 36Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),514,S,36,E
+PHV-0486,5/30/2020,9:06 PM,3.66,126.53,71,5.6,228km S 31Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),228,S,31,E
+PHV-0487,5/28/2020,1:17 PM,16.72,120.2,57,5.2,017km N 46Â° W,San Fernando(Capital) (La Union),-28.4485441,-65.789689,Capital,La Union,Ilocos Region (Region I),17,N,46,W
+PHV-0488,5/23/2020,10:10 AM,15.57,121.52,7,5.1,016km S 01Â° W,San Luis (Aurora),15.7191175,121.5178817,San Luis,Aurora,Central Luzon (Region III),16,S,1,W
+PHV-0489,5/20/2020,8:45 PM,5.03,126.12,75,5,085km S 58Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),85,S,58,E
+PHV-0490,5/10/2020,3:18 AM,14.03,120.22,82,5.4,022km N 29Â° E,Lubang (Occidental Mindoro),13.8592951,120.1227812,Lubang,Occidental Mindoro,MIMAROPA Region,22,N,29,E
+PHV-0491,4/27/2020,7:48 AM,5.82,127.06,43,5.2,160km S 87Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),160,S,87,E
+PHV-0492,4/19/2020,9:09 PM,3.92,126.12,102,5.1,182km S 23Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),182,S,23,E
+PHV-0493,4/15/2020,10:01 AM,19.71,121.94,9,5,070km S 06Â° E,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),70,S,6,E
+PHV-0494,4/15/2020,9:07 AM,11.42,125.14,87,5.1,017km N 29Â° E,Basey (Samar),11.2799579,125.0692113,Basey,Samar,Eastern Visayas (Region VIII),17,N,29,E
+PHV-0495,4/12/2020,4:23 AM,2.42,126.95,126,5.1,371km S 26Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),371,S,26,E
+PHV-0496,4/11/2020,12:44 AM,20.51,122.08,171,6,013km N 64Â° E,Basco (Batanes),20.4490442,121.9683455,Basco,Batanes,Cagayan Valley (Region II),13,N,64,E
+PHV-0497,4/11/2020,2:45 AM,5.61,126.6,75,5.1,113km S 74Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),113,S,74,E
+PHV-0498,3/26/2020,11:38 PM,5.46,125.1,48,6.1,041km S 13Â° W,Glan (Sarangani),5.8226991,125.2049049,Glan,Sarangani,SOCCSKSARGEN (Region XII),41,S,13,W
+PHV-0499,3/20/2020,4:08 AM,14.78,124.23,8,5,082km N 05Â° E,Pandan (Catanduanes),14.0492274,124.1702111,Pandan,Catanduanes,Bicol Region (Region V),82,N,5,E
+PHV-0500,3/18/2020,11:13 AM,2.83,127.62,168,5.4,374km S 40Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),374,S,40,E
+PHV-0501,3/13/2020,6:00 AM,14.66,118.94,33,5,128km S 75Â° W,San Antonio (Zambales),14.9488214,120.0889405,San Antonio,Zambales,Central Luzon (Region III),128,S,75,W
+PHV-0502,3/2/2020,5:19 AM,11.32,124.55,10,5.4,009km S 54Â° E,Leyte (Leyte),10.7841157,124.892321,Leyte,Leyte,Eastern Visayas (Region VIII),9,S,54,E
+PHV-0503,2/28/2020,3:13 AM,3.88,126.01,135,5.5,182km S 19Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),182,S,19,E
+PHV-0504,2/20/2020,5:54 PM,5.67,125.68,193,5.4,025km S 16Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),25,S,16,E
+PHV-0505,2/6/2020,9:40 PM,5.28,126.56,1,6.1,124km S 57Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),124,S,57,E
+PHV-0506,1/12/2020,6:53 PM,9.42,126.27,28,5,018km N 29Â° E,Cortes (Surigao Del Sur),9.2755786,126.1908659,Cortes,Surigao Del Sur,Caraga (Region XIII),18,N,29,E
+PHV-0507,1/6/2020,3:25 PM,5.45,125.52,1,5,006km N 73Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),6,N,73,E
+PHV-0508,1/6/2020,2:58 AM,6.01,126.35,58,5.4,077km S 23Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),77,S,23,E
+PHV-0509,12/26/2019,12:56 AM,3.64,126.72,34,5.4,242km S 35Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),242,S,35,E
+PHV-0510,12/18/2019,4:18 AM,6.53,125.32,10,5.3,012km S 17Â° W,Padada (Davao Del Sur),6.6388664,125.3419089,Padada,Davao Del Sur,Davao Region (Region XI),12,S,17,W
+PHV-0511,12/15/2019,2:11 PM,6.76,125.13,9,6.9,013km N 75Â° W,Matanao (Davao Del Sur),6.709707,125.2170514,Matanao,Davao Del Sur,Davao Region (Region XI),13,N,75,W
+PHV-0512,12/15/2019,3:09 PM,6.61,125.36,1,5.2,019km S 45Â° E,Matanao (Davao Del Sur),6.709707,125.2170514,Matanao,Davao Del Sur,Davao Region (Region XI),19,S,45,E
+PHV-0513,12/5/2019,8:24 PM,5.24,127,33,5.6,169km S 65Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),169,S,65,E
+PHV-0514,11/18/2019,9:22 PM,7.67,124.89,6,5.9,009km N 19Â° W,Kadingilan (Bukidnon),7.6002419,124.9097879,Kadingilan,Bukidnon,Northern Mindanao (Region X),9,N,19,W
+PHV-0515,11/9/2019,3:57 AM,4.78,127.82,89,5,270km S 74Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),270,S,74,E
+PHV-0516,11/8/2019,1:31 PM,10.75,125.63,23,5.2,033km S 18Â° W,Guiuan (Eastern Samar),11.0306685,125.7236686,Guiuan,Eastern Samar,Eastern Visayas (Region VIII),33,S,18,W
+PHV-0517,11/7/2019,4:52 AM,14.98,122.65,7,5.5,042km N 46Â° E,Jomalig (Quezon),14.6958792,122.3306656,Jomalig,Quezon,Calabarzon (Region IV-A),42,N,46,E
+PHV-0518,11/1/2019,2:07 PM,6.8,125.11,2,5,018km S 07Â° E,Makilala (Cotabato),6.9595701,125.0891183,Makilala,Cotabato,SOCCSKSARGEN (Region XII),18,S,7,E
+PHV-0519,11/1/2019,10:33 AM,2.73,126.82,33,5.5,334km S 26Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),334,S,26,E
+PHV-0520,10/31/2019,9:11 AM,6.92,125.06,8,6.5,027km N 75Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),27,N,75,E
+PHV-0521,10/30/2019,5:22 AM,6.86,125.06,5,5,012km S 15Â° W,Makilala (Cotabato),6.9595701,125.0891183,Makilala,Cotabato,SOCCSKSARGEN (Region XII),12,S,15,W
+PHV-0522,10/29/2019,4:33 PM,7.03,125,2,5.4,027km N 44Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),27,N,44,E
+PHV-0523,10/29/2019,9:04 AM,6.81,125.03,7,6.6,022km S 79Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),22,S,79,E
+PHV-0524,10/29/2019,10:42 AM,6.86,125.01,9,6.1,021km S 90Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),21,S,90,E
+PHV-0525,10/19/2019,6:52 AM,6.83,125,17,5,019km S 82Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),19,S,82,E
+PHV-0526,10/17/2019,2:18 PM,6.83,124.83,15,5.2,002km SouthÂ° 00,Tulunan (North Cotabato),6.8300214,124.8736479,Tulunan,North Cotabato,SOCCSKSARGEN (Region XII),,,,
+PHV-0527,10/17/2019,9:28 AM,4.55,126.42,66,5.3,143km S 47Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),143,S,47,E
+PHV-0528,10/17/2019,4:53 AM,7.25,126.6,128,5.2,008km N 56Â° E,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),8,N,56,E
+PHV-0529,10/16/2019,8:09 PM,6.76,125.01,9,5.5,022 km S 63Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),22,S,63,E
+PHV-0530,10/16/2019,7:37 PM,6.76,125.01,9,6.3,023km S 62Â° E,Tulunan (Cotabato),6.8300214,124.8736479,Tulunan,Cotabato,SOCCSKSARGEN (Region XII),23,S,62,E
+PHV-0531,9/29/2019,3:40 PM,5.43,126.63,58,5.3,123 km S 66Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),123,S,66,E
+PHV-0532,9/29/2019,10:02 AM,5.52,126.66,63,6.4,123 km S 71Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),123,S,71,E
+PHV-0533,9/21/2019,2:04 AM,14.1,124.59,1,5,037 km N 56Â° E,Panganiban (Payo) (Catanduanes),13.8781208,124.239801,Payo,Catanduanes,Bicol Region (Region V),37,N,56,E
+PHV-0534,9/18/2019,3:00 PM,5.07,126.64,28,5.6,136 km S 73Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),136,S,73,E
+PHV-0535,9/13/2019,4:28 PM,15.1,122.23,55,5.3,039 km N 45Â° E,Burdeos (Quezon),14.8435644,121.9693383,Burdeos,Quezon,Calabarzon (Region IV-A),39,N,45,E
+PHV-0536,9/10/2019,1:39 PM,6.55,126.42,59,5.8,039 km S 74Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),39,S,74,E
+PHV-0537,9/8/2019,9:49 PM,5.61,125.74,46,5,034 km S 25Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),34,S,25,E
+PHV-0538,9/5/2019,9:58 PM,14.63,116.3,31,5.1,398 km S 77Â° W,Palauig (Zambales),15.4336234,119.9107718,Palauig,Zambales,Central Luzon (Region III),398,S,77,W
+PHV-0539,8/31/2019,9:02 PM,7.47,126.76,29,5.2,025 km S 61Â° E,Baganga (Davao Oriental),7.5747096,126.5616073,Baganga,Davao Oriental,Davao Region (Region XI),25,S,61,E
+PHV-0540,8/3/2019,1:28 AM,12.87,124.96,20,5,034 km N 06Â° E,Pambujan (Northern Samar),12.5639616,124.9282311,Pambujan,Northern Samar,Eastern Visayas (Region VIII),34,N,6,E
+PHV-0541,8/3/2019,12:10 AM,6.02,126.03,144,5.6,048 km N 72Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),48,N,72,E
+PHV-0542,7/27/2019,6:11 PM,20.78,122.07,15,5.3,023 km S 86Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),23,S,86,E
+PHV-0543,7/27/2019,7:37 AM,21.07,121.96,8,5.9,033 km N 22Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),33,N,22,E
+PHV-0544,7/27/2019,4:16 AM,20.98,122.21,15,5.4,043 km N 62Â° E,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),43,N,62,E
+PHV-0545,7/27/2019,9:24 AM,20.89,121.84,13,5.8,011 km N 02Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),11,N,2,W
+PHV-0546,7/13/2019,4:42 AM,9.32,125.99,4,5.5,007 km S 37Â° E,Carrascal (Surigao Del Sur),9.3688403,125.9495398,Carrascal,Surigao Del Sur,Caraga (Region XIII),7,S,37,E
+PHV-0547,7/9/2019,8:36 PM,6.83,125.02,10,5.6,016 km S 30Â° W,Makilala (North Cotabato),6.9595701,125.0891183,Makilala,North Cotabato,SOCCSKSARGEN (Region XII),16,S,30,W
+PHV-0548,7/2/2019,12:59 AM,9.19,124.32,554,5.9,051 km S 29Â° E,Lila (Bohol),9.5906941,124.0953479,Lila,Bohol,Central Visayas (Region VII),51,S,29,E
+PHV-0549,6/30/2019,3:00 AM,9.6,124.95,30,5,038 km S 20Â° W,Limasawa (Southern Leyte),9.9251181,125.0740924,Limasawa,Southern Leyte,Eastern Visayas (Region VIII),38,S,20,W
+PHV-0550,6/6/2019,4:41 AM,6.39,124.38,476,5.4,027 km N 47Â° E,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),27,N,47,E
+PHV-0551,6/1/2019,5:45 PM,6.09,126.7,76,5.4,093 km S 48Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),93,S,48,E
+PHV-0552,5/31/2019,6:12 PM,6.15,126.7,78,6.2,088 km S 51Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),88,S,51,E
+PHV-0553,5/12/2019,4:59 PM,19.3,121.1,20,5.2,038 km N 87Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),38,N,87,W
+PHV-0554,5/6/2019,10:48 AM,18.7,120.84,15,5.4,015 km N 22Â° E,Pagudpud (Ilocos Norte),18.5593916,120.7869782,Pagudpud,Ilocos Norte,Ilocos Region (Region I),15,N,22,E
+PHV-0555,5/5/2019,9:56 AM,8.83,126.99,23,5,076 km N 88Â° E,Marihatag (Surigao Del Sur),8.8005575,126.2985386,Marihatag,Surigao Del Sur,Caraga (Region XIII),76,N,88,E
+PHV-0556,5/4/2019,9:05 AM,12.33,120.81,8,5.5,022 km S 53Â° W,Rizal (Occidental Mindoro),12.459039,120.9642214,Rizal,Occidental Mindoro,MIMAROPA Region,22,S,53,W
+PHV-0557,4/26/2019,4:04 PM,9.79,126.74,12,5.5,064 km N 89Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),64,N,89,E
+PHV-0558,4/26/2019,2:04 PM,9.77,126.77,3,5,067 km S 89Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),67,S,89,E
+PHV-0559,4/26/2019,1:26 PM,9.78,126.79,11,5.5,070 km S 90Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),70,S,90,E
+PHV-0560,4/23/2019,1:37 PM,11.79,125.37,61,6.5,010 km N 65Â° W,San Julian (Eastern Samar),11.7549638,125.455276,San Julian,Eastern Samar,Eastern Visayas (Region VIII),10,N,65,W
+PHV-0561,4/22/2019,5:11 PM,15.02,120.34,10,6.1,018 km N 58Â° E,Castillejos (Zambales),14.9320671,120.2005402,Castillejos,Zambales,Central Luzon (Region III),18,N,58,E
+PHV-0562,4/19/2019,3:29 PM,5.19,126.96,43,5.3,168 km S 81Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),168,S,81,E
+PHV-0563,4/15/2019,9:32 AM,19.17,120.88,4,5.2,062 km S 78Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),62,S,78,W
+PHV-0564,4/7/2019,5:58 AM,11.69,125.85,10,5.2,043 km N 61Â° E,Maydolong (Eastern Samar),11.5010171,125.5016828,Maydolong,Eastern Samar,Eastern Visayas (Region VIII),43,N,61,E
+PHV-0565,4/1/2019,10:16 AM,10.61,125.93,28,5.4,047 km N 54Â° E,Loreto (Dinagat),10.3595571,125.5788866,Loreto,Dinagat,Caraga (Region XIII),47,N,54,E
+PHV-0566,3/16/2019,7:07 AM,6.14,125.34,96,5.6,009 km N 50Â° E,Alabel (Sarangani),6.1027828,125.2920305,Alabel,Sarangani,SOCCSKSARGEN (Region XII),9,N,50,E
+PHV-0567,3/16/2019,5:58 PM,13.6,120.63,114,5.2,020 km N 33Â° W,Abra De Ilog (Occidental Mindoro),13.4444905,120.7288218,Abra De Ilog,Occidental Mindoro,MIMAROPA Region,20,N,33,W
+PHV-0568,3/8/2019,11:06 PM,10.37,126.13,17,6.2,039 km N 09Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),39,N,9,E
+PHV-0569,3/6/2019,8:12 AM,8.34,127.31,14,5.5,108 km S 88Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),108,S,88,E
+PHV-0570,3/3/2019,3:46 AM,18.63,120.37,28,5.3,032 km N 66Â° W,Burgos (Ilocos Norte),18.5110086,120.6436311,Burgos,Ilocos Norte,Ilocos Region (Region I),32,N,66,W
+PHV-0571,3/1/2019,9:00 AM,4.93,125.46,186,5.1,0 55 km S 02Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),55,S,2,W
+PHV-0572,2/12/2019,4:01 PM,4.59,126.19,45,5.1,123 km S 40Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),123,S,40,E
+PHV-0573,2/10/2019,10:33 PM,9.86,126.34,2,5.1,022 km N 68Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),22,N,68,E
+PHV-0574,2/8/2019,7:55 PM,9.79,126.59,11,5.9,048 km N 89Â° E,General Luna (Surigao Del Norte),9.7825836,126.1563859,General Luna,Surigao Del Norte,Caraga (Region XIII),48,N,89,E
+PHV-0575,2/6/2019,6:25 PM,15.91,120.31,131,5.5,0 08 km N 73Â° E,Aguilar (Pangasinan),15.8890372,120.2384199,Aguilar,Pangasinan,Ilocos Region (Region I),8,N,73,E
+PHV-0576,2/6/2019,7:17 AM,2.76,128.46,195,5,443 km S 48Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),443,S,48,E
+PHV-0577,1/27/2019,2:24 PM,11.51,125.95,7,5.1,0 42 km N 61Â° E,Hernani (Eastern Samar),11.3232473,125.6190691,Hernani,Eastern Samar,Eastern Visayas (Region VIII),42,N,61,E
+PHV-0578,1/24/2019,4:34 PM,19.17,121.25,27,5.5,026 km S 61Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),26,S,61,W
+PHV-0579,1/22/2019,12:47 AM,4.31,126.35,3,5.1,157 km S 38Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),157,S,38,E
+PHV-0580,1/19/2019,2:51 AM,2.96,129.06,127,5,4 83 km S 55Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),83,S,55,E
+PHV-0581,1/16/2019,6:53 PM,4.44,127.96,97,5.4,297 km S 68Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),297,S,68,E
+PHV-0582,1/16/2019,4:03 AM,5.95,126.87,40,6,117 km S 49Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),117,S,49,E
+PHV-0583,1/7/2019,11:11 AM,7.91,121.93,30,5.5,026 km N 66Â° W,Baliguan (Zamboanga del Norte),7.811685724,122.1464437,Baliguan,Zamboanga del Norte,Zamboanga Peninsula (Region IX),26,N,66,W
+PHV-0584,12/29/2018,11:39 AM,5.48,127.05,60,7.2,168km S 40Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),168,S,40,E
+PHV-0585,12/29/2018,5:12 PM,5.66,127.09,35,5.6,157km S 46Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),157,S,46,E
+PHV-0586,12/6/2018,10:13 PM,6.62,125.7,175,5.3,024km N 23Â° E,Malita (Davao Occidental),6.4143745,125.6109051,Malita,Davao Occidental,Davao Region (Region XI),24,N,23,E
+PHV-0587,11/6/2018,10:09 AM,3.62,124.93,22,5.2,209km S 17Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),209,S,17,W
+PHV-0588,11/4/2018,3:55 PM,7.81,124.06,619,6,003km N 73Â° W,Pualas (Lanao Del Sur),7.8201575,124.0801292,Pualas,Lanao Del Sur,BARMM,3,N,73,W
+PHV-0589,10/29/2018,10:51 PM,8.55,126.92,1,5.1,085km N 75Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),85,N,75,E
+PHV-0590,10/29/2018,10:40 PM,8.55,126.86,3,5.3,061km N 71Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),61,N,71,E
+PHV-0591,10/29/2018,9:41 PM,8.51,127.05,5,5.1,080km N 79Â° E,Hinatuan (Surigao Del Sur),8.3656147,126.3358067,Hinatuan,Surigao Del Sur,Caraga (Region XIII),80,N,79,E
+PHV-0592,10/28/2018,4:09 PM,3.55,126.76,41,5.4,234km S 35Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),234,S,35,E
+PHV-0593,10/21/2018,2:51 AM,5.04,126.49,32,5.4,121km S 69Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),121,S,69,E
+PHV-0594,10/16/2018,11:52 AM,8.54,122.73,19,5.1,034km N 75Â° W,Jose Dalman (Ponot) (Zamboanga del Norte),8.381995021,123.05712,Ponot,Zamboanga del Norte,Zamboanga Peninsula (Region IX),34,N,75,W
+PHV-0595,9/27/2018,12:44 PM,10.6,126.9,1,5.1,111km N 55Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),111,N,55,E
+PHV-0596,9/14/2018,12:49 AM,3.19,128.41,179,5.1,410km S 53Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),410,S,53,E
+PHV-0597,9/10/2018,7:57 PM,10.68,126.45,1,5,084km N 30Â° E,Burgos (Surigao del Norte),10.0181311,126.0742822,Burgos,Surigao del Norte,Caraga (Region XIII),84,N,30,E
+PHV-0598,9/8/2018,3:16 PM,7.13,126.53,10,6.4,009km S 03Â° W,Manay (Davao Oriental),7.2109327,126.5399142,Manay,Davao Oriental,Davao Region (Region XI),9,S,3,W
+PHV-0599,8/31/2018,10:40 PM,13.59,120.69,112,5.2,016km N 16 W,Abra De Ilog (Occidental Mindoro),13.4444905,120.7288218,Abra De Ilog,Occidental Mindoro,MIMAROPA Region,16,N,16,W
+PHV-0600,8/24/2018,12:33 PM,11.05,126.5,6,5.2,084km S 89 E,Guiuan (Eastern Samar),11.0306685,125.7236686,Guiuan,Eastern Samar,Eastern Visayas (Region VIII),84,S,89,E
+PHV-0601,8/23/2018,3:58 AM,2.8,126.88,79,5.1,330km S 28 E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),330,S,28,E
+PHV-0602,8/21/2018,12:10 PM,19.15,121.28,15,5,024km S 52 W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),24,S,52,W
+PHV-0603,7/23/2018,2:28 AM,4.81,124.88,24,5.1,096km S 43Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),96,S,43,W
+PHV-0604,7/11/2018,12:24 AM,9.77,125.41,17,5.1,001km S 76Â° W,San Francisco (Anao-aon) (Surigao Del Norte),9.7469793,125.3971106,Anao-aon,Surigao Del Norte,Caraga (Region XIII),1,S,76,W
+PHV-0605,7/3/2018,12:25 PM,13.93,120.42,119,5.2,028km S 52Â° W,Nasugbu (Batangas),14.0736258,120.6320724,Nasugbu,Batangas,Calabarzon (Region IV-A),28,S,52,W
+PHV-0606,7/3/2018,5:59 PM,5.8,125.21,95,5.6,004km S 42Â° E,Glan (Sarangani),5.8226991,125.2049049,Glan,Sarangani,SOCCSKSARGEN (Region XII),4,S,42,E
+PHV-0607,6/17/2018,5:46 PM,14.97,119.56,14,5.2,056km S 79Â° W,San Felipe (Zambales),15.0610588,120.0702767,San Felipe,Zambales,Central Luzon (Region III),56,S,79,W
+PHV-0608,6/17/2018,10:39 AM,6.07,125.75,125,5.4,026km N 35Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),26,N,35,E
+PHV-0609,6/13/2018,10:59 PM,6.51,126.33,144,5.2,032km S 60Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),32,S,60,E
+PHV-0610,6/1/2018,6:21 PM,7.32,123.9,588,5,033km S 45Â° W,Balabagan (Lanao del Sur),7.5093206,124.127834,Balabagan,Lanao del Sur,BARMM,33,S,45,W
+PHV-0611,5/13/2018,11:33 PM,5.44,125.45,165,5.1,003 km N 65Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),3,N,65,W
+PHV-0612,5/12/2018,4:56 AM,6.03,125.75,113,5.4,045 km S 20Â° E,Malita (Davao Occidental),6.4143745,125.6109051,Malita,Davao Occidental,Davao Region (Region XI),45,S,20,E
+PHV-0613,5/11/2018,2:02 AM,6.69,124.14,527,5.9,014 km S 44Â° E,South Upi (Maguindanao),6.8549414,124.1439996,South Upi,Maguindanao,BARMM,14,S,44,E
+PHV-0614,5/11/2018,4:06 AM,5.47,126.67,82,5,132 km N 88Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),132,N,88,E
+PHV-0615,5/10/2018,7:56 PM,10.12,125.53,16,5.7,009 km S 07Â° W,Libjo (Dinagat Islands),10.1941944,125.5316075,Libjo,Dinagat Islands,Caraga (Region XIII),9,S,7,W
+PHV-0616,5/5/2018,2:19 PM,14.43,123.96,16,6,047 km N 28Â° W,Pandan (Catanduanes),14.0492274,124.1702111,Pandan,Catanduanes,Bicol Region (Region V),47,N,28,W
+PHV-0617,4/16/2018,3:43 AM,17.98,122.27,27,5.4,043 km S 43Â° E,Gonzaga (Cagayan),18.2612024,121.9966488,Gonzaga,Cagayan,Cagayan Valley (Region II),43,S,43,E
+PHV-0618,4/5/2018,11:53 AM,6.71,126.9,34,6,062 km S 53Â° E,Tarragona (Davao Oriental),7.0497523,126.4489837,Tarragona,Davao Oriental,Davao Region (Region XI),62,S,53,E
+PHV-0619,4/3/2018,5:14 PM,3.1,127.96,102,5.5,378 km S 47Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),378,S,47,E
+PHV-0620,2/26/2018,5:39 PM,13.35,121.55,20,5,027 km N85Â° E,"Naujan 
+			(Oriental Mindoro)",13.324239,121.3030659,Naujan,Oriental Mindoro,MIMAROPA Region,27,N,85,E
+PHV-0621,2/24/2018,7:02 PM,19.71,120.34,32,5.4,128 kmN 68Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),128,N,68,W
+PHV-0622,1/14/2018,11:49 PM,13.26,120.29,21,5.2,026 km S 49Â° W,Paluan (Occidental Mindoro),13.4158295,120.4626484,Paluan,Occidental Mindoro,MIMAROPA Region,26,S,49,W
+PHV-0623,1/14/2018,11:20 PM,13.28,120.22,15,5,030 km S 61Â° W,Paluan (Occidental Mindoro),13.4158295,120.4626484,Paluan,Occidental Mindoro,MIMAROPA Region,30,S,61,W
+PHV-0624,1/7/2018,2:35 AM,4.05,126.29,55,5.1,178 km S 31Â° E,Sarangani(Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),178,S,31,E
+PHV-0625,1/6/2018,9:52 PM,3.5,126.96,32,5,270 km S 38Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),270,S,38,E
+PHV-0626,12/17/2017,10:32 PM,10.34,126.15,14,5.1,036 km N 12Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),36,N,12,E
+PHV-0627,12/1/2017,2:57 AM,7.74,124.77,1,5.1,010 km N 09Â° E,Wao (Lanao Del Sur),7.6382215,124.7241605,Wao,Lanao Del Sur,BARMM,10,N,9,E
+PHV-0628,11/30/2017,9:16 AM,7.28,126.94,27,5.1,041 km S 83Â° E,Caraga (Davao Oriental),7.328232,126.5653582,Caraga,Davao Oriental,Davao Region (Region XI),41,S,83,E
+PHV-0629,11/8/2017,3:23 PM,6.22,125.91,113,5.1,023 km N 82Â° E,Don Marcelino (Davao Occidental),6.1978508,125.6977653,Don Marcelino,Davao Occidental,Davao Region (Region XI),23,N,82,E
+PHV-0630,10/22/2017,10:21 PM,14.01,120.56,205,5.4,010 km S 70Â° W,Lian (Batangas),14.0369842,120.6528224,Lian,Batangas,Calabarzon (Region IV-A),10,S,70,W
+PHV-0631,10/21/2017,9:32 AM,4.21,127.2,69,5.3,234 km S 55Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),234,S,55,E
+PHV-0632,10/19/2017,3:06 PM,17.61,119.95,30,5.1,043 km N 85Â° W,Santa Catalina (Ilocos Sur),17.5888763,120.3633196,Santa Catalina,Ilocos Sur,Ilocos Region (Region I),43,N,85,W
+PHV-0633,9/24/2017,4:47 AM,7.66,124.68,2,5.4,010 km N 85 Â° W,Wao (Lanao Del Sur),7.6382215,124.7241605,Wao,Lanao Del Sur,BARMM,10,N,85,W
+PHV-0634,8/30/2017,6:08 AM,19.21,121.24,30,5.1,025 km S 70Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),25,S,70,W
+PHV-0635,8/23/2017,6:26 AM,10.96,124.65,6,5.1,007 km N 47Â° W,Albuera (Leyte),10.9166552,124.6943663,Albuera,Leyte,Eastern Visayas (Region VIII),7,N,47,W
+PHV-0636,8/11/2017,1:28 PM,13.95,120.49,178,6.3,020 km S 45Â° W,Nasugbu (Batangas),14.0736258,120.6320724,Nasugbu,Batangas,Calabarzon (Region IV-A),20,S,45,W
+PHV-0637,8/10/2017,8:43 AM,9.51,124.26,523,5.4,013 km S 19Â° W,Garcia Hernandez (Bohol),9.614319,124.2954003,Garcia Hernandez,Bohol,Central Visayas (Region VII),13,S,19,W
+PHV-0638,8/5/2017,8:30 AM,6.18,125.32,70,5.9,023 km N 09Â° E,Malapatan (Sarangani),5.9707512,125.2882717,Malapatan,Sarangani,SOCCSKSARGEN (Region XII),23,N,9,E
+PHV-0639,8/5/2017,3:39 PM,7.86,125.01,11,5,012 km S 60Â° W,Valencia City (Bukidnon),7.9028844,125.0898033,Valencia City,Bukidnon,Northern Mindanao (Region X),12,S,60,W
+PHV-0640,7/26/2017,3:51 AM,10.16,121.97,3,5,031 km S 08Â° E,Anini-y (Antique),10.4315482,121.9249048,Anini-y,Antique,Western Visayas (Region VI),31,S,8,E
+PHV-0641,7/10/2017,9:41 AM,11,124.73,3,5.8,013 km S 87Â° E,Ormoc City (Leyte),11.0010853,124.6060789,Ormoc City,Leyte,Eastern Visayas (Region VIII),13,S,87,E
+PHV-0642,7/6/2017,4:03 PM,11.11,124.69,2,6.5,015 km N 39Â° E,Ormoc City (Leyte),11.0010853,124.6060789,Ormoc City,Leyte,Eastern Visayas (Region VIII),15,N,39,E
+PHV-0643,6/26/2017,3:41 PM,10.3,126.28,10,5.2,038 km N 36Â° E,Burgos (Surigao Del Norte),10.0181311,126.0742822,Burgos,Surigao Del Norte,Caraga (Region XIII),38,N,36,E
+PHV-0644,6/15/2017,11:11 AM,19.72,122.52,171,5.1,093 km S 41Â° E,Uyugan (Batanes),20.3495326,121.9380527,Uyugan,Batanes,Cagayan Valley (Region II),93,S,41,E
+PHV-0645,6/9/2017,8:58 PM,5.49,125.14,22,5.2,038 km N 80Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),38,N,80,W
+PHV-0646,5/25/2017,10:27 PM,15.08,120.05,83,5.4,017 km N 46Â° W,San Marcelino (Zambales),14.97381,120.1562867,San Marcelino,Zambales,Central Luzon (Region III),17,N,46,W
+PHV-0647,5/20/2017,9:06 AM,9.4,124.18,565,5.6,023 km S 22Â° E,Lila (Bohol),9.5906941,124.0953479,Lila,Bohol,Central Visayas (Region VII),23,S,22,E
+PHV-0648,4/29/2017,4:23 AM,5.05,125.28,57,7.2,047 km S 26Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),47,S,26,W
+PHV-0649,4/23/2017,9:19 AM,9.18,126.36,20,5.1,021 km N 60Â° E,Tandag (Surigao Del Sur),9.0799833,126.1974606,Tandag,Surigao Del Sur,Caraga (Region XIII),21,N,60,E
+PHV-0650,4/16/2017,4:40 AM,7.75,124.67,1,5.3,015 km N 36Â° W,Wao (Lanao Del Sur),7.6382215,124.7241605,Wao,Lanao Del Sur,BARMM,15,N,36,W
+PHV-0651,4/14/2017,12:05 AM,5.12,128.11,33,5.2,281 km S 53Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),281,S,53,E
+PHV-0652,4/13/2017,4:01 AM,7.66,124.68,6,5.3,008 km N 80Â° W,Wao (Lanao Del Sur),7.6382215,124.7241605,Wao,Lanao Del Sur,BARMM,8,N,80,W
+PHV-0653,4/12/2017,5:20 AM,7.71,124.66,1,6,013 km N 56Â° W,Wao (Lanao Del Sur),7.6382215,124.7241605,Wao,Lanao Del Sur,BARMM,13,N,56,W
+PHV-0654,4/12/2017,1:41 AM,5.66,127.57,16,5,199 km S 56Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),199,S,56,E
+PHV-0655,4/10/2017,8:43 AM,13.11,125.49,17,5.4,074 km N 33Â° E,Palapag (Northern Samar),12.5455937,125.1149936,Palapag,Northern Samar,Eastern Visayas (Region VIII),74,N,33,E
+PHV-0656,4/10/2017,7:08 PM,5.57,127.58,41,5.1,205 km S 54Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),205,S,54,E
+PHV-0657,4/10/2017,6:38 PM,5.69,126.99,54,5.7,147 km S 43Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),147,S,43,E
+PHV-0658,4/8/2017,3:09 PM,13.68,120.92,9,6,008 km S 17Â° W,Mabini (Batangas),13.7480896,120.9407878,Mabini,Batangas,Calabarzon (Region IV-A),8,S,17,W
+PHV-0659,4/8/2017,3:07 PM,13.75,120.93,27,5.6,001 km S 53Â° W,Mabini (Batangas),13.7480896,120.9407878,Mabini,Batangas,Calabarzon (Region IV-A),1,S,53,W
+PHV-0660,4/4/2017,8:58 PM,13.68,120.93,7,5.5,007 km N 70Â° E,Tingloy (Batangas),13.6608216,120.8712711,Tingloy,Batangas,Calabarzon (Region IV-A),7,N,70,E
+PHV-0661,3/29/2017,11:30 AM,2.9,125.92,140,5.6,285 km S 11Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),285,S,11,E
+PHV-0662,3/5/2017,8:08 AM,9.76,125.38,13,5.9,013 km S 82Â° W,Surigao City,9.7905028,125.4935697,Surigao City,Surigao Del Norte,Caraga (Region XIII),13,S,82,W
+PHV-0663,2/26/2017,2:57 AM,10.6,127.06,33,5,123 km N 59Â° E,Burgos (Surigao del Norte),10.0181311,126.0742822,Burgos,Surigao del Norte,Caraga (Region XIII),123,N,59,E
+PHV-0664,2/14/2017,4:03 AM,9.79,125.4,17,5,010 km S 08Â° W,Surigao City (Surigao Del Norte),9.7905028,125.4935697,Surigao City,Surigao Del Norte,Caraga (Region XIII),10,S,8,W
+PHV-0665,2/10/2017,10:03 PM,9.8,125.35,10,6.7,016 km N 77Â° W,Surigao City,9.7905028,125.4935697,Surigao City,Surigao Del Norte,Caraga (Region XIII),16,N,77,W
+PHV-0666,1/21/2017,1:16 PM,2.53,128.23,91,5.6,444 km S 43Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),444,S,43,E
+PHV-0667,1/11/2017,2:24 PM,13.47,124.21,12,5.1,013 km S 08Â° W,Virac (Catanduanes),13.5803594,124.2312028,Virac,Catanduanes,Bicol Region (Region V),13,S,8,W
+PHV-0668,1/10/2017,2:13 PM,4.38,122.84,654,7.2,235 km S 26Â° E,Tongkil (Sulu),6.0710519,121.7848726,Tongkil,Sulu,BARMM,235,S,26,E
+PHV-0669,12/15/2016,3:30 PM,10.162,126.084,73.6,5.1,,Santa Monica (Philippines),10.0188427,126.0364378,Santa Monica,Surigao Del Norte,Caraga (Region XIII),,,,
+PHV-0670,11/1/2016,9:38 PM,6.28,126.38,18,28,053km S 39Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),53,S,39,E
+PHV-0671,10/15/2016,2:29 AM,9.06,125.4,26,5,011 km N 40Â° E,Nasipit (Agusan Del Norte),8.9884377,125.3408268,Nasipit,Agusan Del Norte,Caraga (Region XIII),11,N,40,E
+PHV-0672,10/14/2016,4:18 AM,4.42,126.39,20,5,151 km S 42Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),151,S,42,E
+PHV-0673,10/2/2016,9:40 PM,16.49,119.71,25,5.5,022 km N 61Â° W,Bolinao (Pangasinan),16.3886595,119.8932117,Bolinao,Pangasinan,Ilocos Region (Region I),22,N,61,W
+PHV-0674,9/24/2016,6:53 AM,6.59,126.5,38,6.5,051km S 38Â° E,Mati (Davao Oriental),6.9521657,126.2166758,Mati,Davao Oriental,Davao Region (Region XI),51,S,38,E
+PHV-0675,9/16/2016,3:50 PM,5.84,125.72,179,5.3,012 km S 68Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),12,S,68,E
+PHV-0676,9/11/2016,12:29 AM,5.3,127.02,50,5.4,169km S 68Â° E,Jose Abad Santos (Davao Occidental),5.9124655,125.6445932,Jose Abad Santos,Davao Occidental,Davao Region (Region XI),169,S,68,E
+PHV-0677,9/4/2016,10:38 AM,8.33,125.87,6,6,016km S 35Â° E,Talacogon (Agusan del Sur),8.4486711,125.7861565,Talacogon,Agusan del Sur,Caraga (Region XIII),16,S,35,E
+PHV-0678,9/2/2016,4:39 PM,6.4,123.77,1,5,037km S 59Â° W,Kalamansig (Sultan Kudarat),6.5545839,124.050599,Kalamansig,Sultan Kudarat,SOCCSKSARGEN (Region XII),37,S,59,W
+PHV-0679,8/15/2016,7:32 PM,10.93,122.12,29,5.3,008 km S 09Â° W,Valderrama (Antique),11.0018524,122.129408,Valderrama,Antique,Western Visayas (Region VI),8,S,9,W
+PHV-0680,8/13/2016,10:05 PM,11.59,124.34,5,5,007 km N 62Â° W,Naval (Biliran),11.56179,124.3965267,Naval,Biliran,Eastern Visayas (Region VIII),7,N,62,W
+PHV-0681,8/10/2016,12:06 PM,5.31,125.62,139,5.4,022 km S 51Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),22,S,51,E
+PHV-0682,8/10/2016,4:17 PM,5.53,125.3,51,5.3,022 km N 59Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),22,N,59,W
+PHV-0683,8/6/2016,5:08 PM,6.18,125.29,72,5.4,015 km N 62Â° E,General Santos City,6.1122217,125.1721893,General Santos City,South Cotabato,SOCCSKSARGEN (Region XII),15,N,62,E
+PHV-0684,7/27/2016,7:56 PM,11,124.62,5,5.2,002 km N 79Â° E,Ormoc City (Leyte),11.0010853,124.6060789,Ormoc City,Leyte,Eastern Visayas (Region VIII),2,N,79,E
+PHV-0685,7/26/2016,1:31 AM,9.63,125.47,9,5.2,007 km S 61Â° W,Sison (Surigao Del Norte),9.6589559,125.5269216,Sison,Surigao Del Norte,Caraga (Region XIII),7,S,61,W
+PHV-0686,7/9/2016,7:16 AM,8.49,125.69,57,5.3,009 km N 80Â° W,Talacogon (Agusan Del Sur),8.4486711,125.7861565,Talacogon,Agusan Del Sur,Caraga (Region XIII),9,N,80,W
+PHV-0687,6/25/2016,2:40 PM,6.45,126.25,41,5,029 km S 41Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),29,S,41,E
+PHV-0688,6/20/2016,2:20 AM,19.91,121.32,21,5.6,075 km S 51Â° W,Sabtang (Batanes),20.3347734,121.8722738,Sabtang,Batanes,Cagayan Valley (Region II),75,S,51,W
+PHV-0689,6/10/2016,3:54 AM,16.47,120.95,5,5.2,007 km S 48Â° W,Ambaguio (Nueva Vizcaya),16.5331234,121.0277675,Ambaguio,Nueva Vizcaya,Cagayan Valley (Region II),7,S,48,W
+PHV-0690,6/3/2016,7:50 PM,20.4,120.45,43,5.1,152 km S 73Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),152,S,73,W
+PHV-0691,4/26/2016,2:13 AM,20.9,121.19,5,5.3,069km N 80Â° W,Itbayat (Batanes),20.7878139,121.8414735,Itbayat,Batanes,Cagayan Valley (Region II),69,N,80,W
+PHV-0692,4/20/2016,1:17 AM,7.97,126.45,63,5,020 km N 01Â° W,Cateel (Davao Oriental),7.7901142,126.4537908,Cateel,Davao Oriental,Davao Region (Region XI),20,N,1,W
+PHV-0693,4/14/2016,2:21 AM,7.83,121.96,27,6,020 km N 83Â° W,Baliguian (Zamboanga Del Norte),7.8097453,122.1451356,Baliguian,Zamboanga Del Norte,Zamboanga Peninsula (Region IX),20,N,83,W
+PHV-0694,4/5/2016,4:29 PM,3.01,128.3,81,5.9,413 km S 49Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),413,S,49,E
+PHV-0695,3/16/2016,9:09 PM,4.69,124.98,44,5.6,099 km S 33Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),99,S,33,W
+PHV-0696,3/16/2016,8:04 PM,4.52,125.06,40,5,111 km S 24Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),111,S,24,W
+PHV-0697,3/12/2016,12:00 PM,18.19,126.13,41,5.5,049 km N 88Â° W,Laoag City,18.1973235,120.5935433,Laoag City,Ilocos Norte,Ilocos Region (Region I),49,N,88,W
+PHV-0698,3/4/2016,12:23 AM,3.59,126.19,96,5.1,219 km S 21Â°E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),219,S,21,E
+PHV-0699,2/28/2016,5:06 PM,5.18,125.34,188,5.6,031 km S 27Â°W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),31,S,27,W
+PHV-0700,2/5/2016,1:00 PM,13.79,122.29,10,5.2,011 km S 16Â° E,Lopez (Quezon),13.8825115,122.2611114,Lopez,Quezon,Calabarzon (Region IV-A),11,S,16,E
+PHV-0701,2/5/2016,6:41 AM,13.66,122.38,11,5,014 km S 47Â° W,Buenavista (Quezon),13.7376773,122.4673918,Buenavista,Quezon,Calabarzon (Region IV-A),14,S,47,W
+PHV-0702,1/29/2016,10:29 AM,19.31,121.17,89,5,079 km N 07Â° E,Claveria (Cagayan),18.6051605,121.080641,Claveria,Cagayan,Cagayan Valley (Region II),79,N,7,E
+PHV-0703,1/25/2016,5:17 PM,3.52,128.5,46,5,397 km S 58Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),397,S,58,E
+PHV-0704,1/14/2016,9:14 PM,9.52,126.36,11,5.5,037 km S 37Â° E,General Luna (Surigao del Norte),9.7825836,126.1563859,General Luna,Surigao del Norte,Caraga (Region XIII),37,S,37,E
+PHV-0705,1/12/2016,12:37 AM,3.33,127.36,29,6.4,313 km S 42Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),313,S,42,E
+PHV-0706,1/6/2016,4:36 AM,10.15,126.37,12,5.2,035 km N 66Â° E,Burgos (Surigao del Norte),10.0181311,126.0742822,Burgos,Surigao del Norte,Caraga (Region XIII),35,N,66,E
+PHV-0707,1/4/2016,10:36 PM,19.11,121.14,15,5,039 km S 62Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),39,S,62,W
+PHV-0708,12/27/2015,6:11 AM,10.09,126.31,60,5.2,030 km N 56Â° E,San Isidro (Surigao Del Norte),9.9365296,126.0869689,San Isidro,Surigao Del Norte,Caraga (Region XIII),30,N,56,E
+PHV-0709,12/20/2015,5:28 PM,13.1,124.49,108,5.3,033 km N 81Â° E,Prieto Diaz (Sorsogon),13.0404252,124.1935375,Prieto Diaz,Sorsogon,Bicol Region (Region V),33,N,81,E
+PHV-0710,12/17/2015,8:44 PM,17.74,120.53,47,5.2,008 km S 86Â° E,Lapog (San Juan) (Ilocos Sur),17.7451812,120.457271,San Juan,Ilocos Sur,Ilocos Region (Region I),8,S,86,E
+PHV-0711,11/25/2015,7:23 PM,4.34,125.78,120,5,125 km S 16Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),125,S,16,E
+PHV-0712,11/8/2015,3:40 AM,16.57,119.41,26,5.7,055 km N 69Â° W,Bolinao (Pangasinan),16.3886595,119.8932117,Bolinao,Pangasinan,Ilocos Region (Region I),55,N,69,W
+PHV-0713,11/7/2015,8:29 PM,5.16,125.61,126,5.2,034 km S 27Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),34,S,27,E
+PHV-0714,10/19/2015,9:50 PM,13.85,120.38,104,5.8,020 km N 45Â° E,Looc (Occidental Mindoro),13.7197591,120.2502443,Looc,Occidental Mindoro,MIMAROPA Region,20,N,45,E
+PHV-0715,9/27/2015,1:23 AM,5.14,124.15,480,5,107 km S 29Â° W,Kiamba (Sarangani),5.9879555,124.6241575,Kiamba,Sarangani,SOCCSKSARGEN (Region XII),107,S,29,W
+PHV-0716,9/17/2015,4:34 PM,5.37,126.12,8,5,072 km S 84Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),72,S,84,E
+PHV-0717,9/2/2015,9:18 AM,4.23,124.75,312,6.1,155 km S 31Â° W,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),155,S,31,W
+PHV-0718,8/9/2015,12:49 PM,13.42,120.14,24,5,036 km N 90Â° W,Paluan (Occidental Mindoro),13.4158295,120.4626484,Paluan,Occidental Mindoro,MIMAROPA Region,36,N,90,W
+PHV-0719,8/2/2015,9:08 PM,7.96,123.59,607,5,002 km N 13Â° E,Aurora (Zamboanga Del Sur),7.9486062,123.5859831,Aurora,Zamboanga Del Sur,Zamboanga Peninsula (Region IX),2,N,13,E
+PHV-0720,7/25/2015,4:41 PM,13.01,124.81,16,5.2,060 km N 18Â° E,Catarman (Northern Samar),12.499648,124.6364767,Catarman,Northern Samar,Eastern Visayas (Region VIII),60,N,18,E
+PHV-0721,7/18/2015,11:46 PM,18.86,120.92,18,5.3,033 km N 31Â° W,Claveria (Cagayan),18.6051605,121.080641,Claveria,Cagayan,Cagayan Valley (Region II),33,N,31,W
+PHV-0722,7/17/2015,10:20 PM,9.13,126.97,29,5,086 km N 87Â° E,Tandag ( Surigao del Sur),9.0799833,126.1974606,Tandag,Surigao del Sur,Caraga (Region XIII),86,N,87,E
+PHV-0723,7/17/2015,4:53 AM,9.12,127.08,1,5.1,096 km N 88Â° E,Tandag ( Surigao del Sur),9.0799833,126.1974606,Tandag,Surigao del Sur,Caraga (Region XIII),96,N,88,E
+PHV-0724,7/8/2015,8:01 PM,9.92,126.27,18,5,023 km S 63Â° E,Burgos (Surigao del Norte),10.0181311,126.0742822,Burgos,Surigao del Norte,Caraga (Region XIII),23,S,63,E
+PHV-0725,7/5/2015,8:56 PM,17.94,120.76,5,5.3,024 km S 60Â° E,Batac (Ilocos Norte),18.0555035,120.5645243,Batac,Ilocos Norte,Ilocos Region (Region I),24,S,60,E
+PHV-0726,7/3/2015,2:43 PM,10.31,126.38,26,6.1,047 km N 47Â° E,Burgos (Surigao del Norte),10.0181311,126.0742822,Burgos,Surigao del Norte,Caraga (Region XIII),47,N,47,E
+PHV-0727,6/16/2015,5:04 AM,4.27,125.87,130,5.8,136 km S 19Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),136,S,19,E
+PHV-0728,5/13/2015,11:55 PM,13.23,124.29,16,5.1,018 km N 76Â° E,Rapu-Rapu (Albay),13.1856583,124.1267772,Rapu-Rapu,Albay,Bicol Region (Region V),18,N,76,E
+PHV-0729,2/25/2015,9:31 AM,6.11,119.78,17,5.5,091 km S 76Â° W,Pangutaran (Sulu),6.3041267,120.5718076,Pangutaran,Sulu,BARMM,91,S,76,W
+PHV-0730,2/11/2015,12:09 AM,13.99,120.44,109,5,022 km S 65Â° W,Nasugbu (Batangas),14.0736258,120.6320724,Nasugbu,Batangas,Calabarzon (Region IV-A),22,S,65,W
+PHV-0731,2/10/2015,9:29 PM,11.42,126.66,40,5.7,109 km N 71Â° E,Mercedes (Eastern Samar),11.0986331,125.710348,Mercedes,Eastern Samar,Eastern Visayas (Region VIII),109,N,71,E
+PHV-0732,2/6/2015,4:03 PM,9.54,126.38,5,5.2,036 km N 36Â° E,Cortes (Surigao del Sur),9.2755786,126.1908659,Cortes,Surigao del Sur,Caraga (Region XIII),36,N,36,E
+PHV-0733,2/2/2015,11:13 PM,14.23,124.75,3,6.2,091 km N 40 Â° E,Virac (Catanduanes),13.5803594,124.2312028,Virac,Catanduanes,Bicol Region (Region V),91,N,40,E
+PHV-0734,1/26/2015,3:09 PM,9.81,122.26,20,5.1,018 km N 72Â° W,Sipalay (Negros Occidental),9.7491266,122.4040602,Sipalay,Negros Occidental,Western Visayas (Region VI),18,N,72,W
+PHV-0735,1/22/2015,10:49 PM,19.53,121.38,13,5.2,029 km N 18Â° W,Calayan (Cagayan),19.2612602,121.4756285,Calayan,Cagayan,Cagayan Valley (Region II),29,N,18,W
+PHV-0736,1/21/2015,4:33 AM,5.99,123.6,620,5.5,070 km S 69Â° W,Palimbang (Sultan Kudarat),6.2102983,124.1883549,Palimbang,Sultan Kudarat,SOCCSKSARGEN (Region XII),70,S,69,W
+PHV-0737,1/21/2015,1:20 PM,5.7,125.49,49,5.2,029 km N 04Â° E,Sarangani (Davao Occidental),5.4122469,125.4217427,Sarangani,Davao Occidental,Davao Region (Region XI),29,N,4,E
+PHV-0738,1/20/2015,11:02 AM,5.65,127.41,45,5,185 km S 53Â° E,Governor Generoso (Davao Oriental),6.6535259,126.0720099,Governor Generoso,Davao Oriental,Davao Region (Region XI),185,S,53,E
+PHV-0739,1/20/2015,1:19 AM,4.76,119.82,35,5.6,016 km S 11Â° W,Simunul (Tawi-tawi),4.8980374,119.8218352,Simunul,Tawi-tawi,BARMM,16,S,11,W
+PHV-0740,1/18/2015,8:27 AM,13.88,120.45,102,5,021 km N 75Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),21,N,75,W
+PHV-0741,1/17/2015,1:09 PM,13.93,120.46,118,5.3,019 km N 55Â° W,Calatagan (Batangas),13.8329908,120.6326233,Calatagan,Batangas,Calabarzon (Region IV-A),19,N,55,W
+PHV-0742,1/13/2015,11:33 PM,12.95,124.59,10,5,038 km N 41Â° E,Biri (Northern Samar),12.6816045,124.3618377,Biri,Northern Samar,Eastern Visayas (Region VIII),38,N,41,E
+PHV-0743,1/11/2015,3:32 AM,14.74,119.91,48,5.9,030 km S 39Â° W,San Antonio (Zambales),14.9488214,120.0889405,San Antonio,Zambales,Central Luzon (Region III),30,S,39,W
+PHV-0744,8/7/2014,,,,6,5,141 km East Southeast,"Sarangani, Davao Occidental",5.4122469,125.4217427,"Sarangani, Davao Occidental",Davao Occidental,Davao Region (Region XI),,,,
+PHV-0745,12/3/2013,,7.52,126.54,27,5.5,,Davao Oriental,7.166667,126.333333,Davao Oriental,Davao Oriental,Davao Region (Region XI),,,,
+PHV-0746,11/3/2013,,5.99,126.93,36,6.1,,Davao Oriental,7.166667,126.333333,Davao Oriental,Davao Oriental,Davao Region (Region XI),,,,
+PHV-0747,10/15/2013,,9.86,124.11,12,7.2,,Bohol,9.8807822,124.2064612,Bohol,Bohol,Central Visayas (Region VII),,,,
+PHV-0748,8/31/2013,,9.75,125.87,33,5.8,,"Burgos, Surigao del Norte",10.0181311,126.0742822,"Burgos, Surigao del Norte",Surigao del Norte,Central Visayas (Region VII),,,,
+PHV-0749,8/13/2013,,8.47,126.81,28,5.4,,"Boston, Davao Oriental",7.8703434,126.3764259,"Boston, Davao Oriental",Davao Oriental,Davao Region (Region XI),,,,
+PHV-0750,5/31/2013,,10.41,125.72,20,5.8,,"Hinatuan, Surigao del Sur",8.3656147,126.3358067,"Hinatuan, Surigao del Sur",Surigao del Sur,Caraga Region (Region XIII),,,,
+PHV-0751,5/4/2013,,12.27,124.23,40,5.7,,Samar,11.7982219,125.1690418,Samar,Samar (Western Samar),Eastern Visayas (Region VIII),,,,
+PHV-0752,3/5/2013,,7.19,126.64,48,5.2,,Davao Oriental,7.166667,126.333333,Davao Oriental,Davao Oriental,Davao Region (Region XI),,,,
+PHV-0753,12/15/2012,,6.15,126.83,60,6.1,,Davao Oriental,7.166667,126.333333,Davao Oriental,Davao Oriental,Davao Region (Region XI),,,,
+PHV-0754,11/11/2012,,5.6,126.3,36,6.8,,"Sarangani, Davao Occidental",5.4122469,125.4217427,"Sarangani, Davao Occidental",Davao Occidental,Davao Region (Region XI),,,,
+PHV-0755,8/31/2012,,14.76,119.92,10,7.6,,Eastern Samar Trench,11.04670075,126.5051313,Eastern Samar Trench,(Offshore/Pacific Ocean),East of Region VIII,,,,
+PHV-0756,8/14/2012,,13.06,123.16,28,5.2,,"Burial Pass, Masbate",12.95165023,123.2998235,"Burial Pass, Masbate",Masbate / Albay / Cam. Sur,Bicol Region (Region V),,,,
+PHV-0757,4/4/2012,,13.8,120.79,10,5,,Batangas,13.9146826,121.0867566,Batangas,Batangas,CALABARZON (Region IV-A),,,,
+PHV-0758,3/19/2012,,6.99,126.49,34,5.6,,Davao Oriental,7.166667,126.333333,Davao Oriental,Davao Oriental,Davao Region (Region XI),,,,
+PHV-0759,2/6/2012,,9.97,123.25,10,6.9,,Negros Oriental,9.75,123,Negros Oriental,Negros Oriental,Negros Island Region (NIR),,,,
+PHV-0760,12/26/2011,,9.28,126.28,51,5,,"Cortes, Surigao del Sur",9.2755786,126.1908659,"Cortes, Surigao del Sur",Surigao del Sur,Caraga Region (Region XIII),,,,
+PHV-0761,11/18/2011,,9.62,125.93,31,5.9,,Surigao del Norte,9.7022868,125.5464831,Surigao del Norte,Surigao del Norte,Caraga Region (Region XIII),,,,
+PHV-0762,10/11/2011,,13.81,120.05,48,5,,"Tagbac, Lubang",13.8217,120.1831,"Tagbak, Lubang",Occidental Mindoro,MIMAROPA Region (Region IV-B),,,,
+PHV-0763,7/25/2011,,14.95,120.04,35,5.9,,"Luzon, Philippines",15.5504104,120.7434436,Aliaga,Nueva Ecija,Central Luzon (Region III),,,,
+PHV-0764,4/21/2011,,12.72,125.18,35,6,,Eastern Samar,11.73,125.37,Eastern Samar,Eastern Samar,Eastern Visayas (Region VIII),,,,
+PHV-0765,3/20/2011,,18.99,121.25,27,6,43 km NNE,"Namuac, Cagaya",18.62033331,121.1640964,"Namuac, Cagayan",Cagayan,Cagayan Valley (Region II),,,,
+PHV-0766,2/26/2011,,18.72,121.29,10,6.1,10 km ESE,"Santa Ana, Cagayan Valley",18.4572501,122.1421667,"Santa Ana, Cagayan Valley",Cagayan,Cagayan Valley (Region II),,,,
+PHV-0767,11/5/2010,,12.86,122.85,21,5,28 km SSW,"San Rafael, Masbate",13.0973508,122.9600696,"San Rafael, Masbate",Masbate,Bicol Region (Region V),,,,
+PHV-0768,7/23/2010,,7.32,123.77,602,7.4,,"Moro Gulf, Mindanao",7.333402435,123.7830902,"Moro Gulf, Mindanao",,"Regions IX, XII, & BARMM",,,,
+PHV-0769,7/23/2010,,6.5,123.48,578,7.6,,"Moro Gulf, Mindanao",7.333402435,123.7830902,"Moro Gulf, Mindanao",,"Regions IX, XII, & BARMM",,,,
+PHV-0770,7/23/2010,,6.72,123.41,607,7.3,,"Moro Gulf, Mindanao",7.333402435,123.7830902,"Moro Gulf, Mindanao",,"Regions IX, XII, & BARMM",,,,
+PHV-0771,3/25/2010,,13.8,120.1,16,6,2 km SW,"Tagbak, Occidental Mindoro",13.8403096,120.0877672,"Tagbak, Occidental Mindoro",Occidental Mindoro,MIMAROPA (Region IV-B),,,,
