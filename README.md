@@ -11,20 +11,6 @@ This project provides end-to-end data pipelines and analytical workflows for ear
 
 ---
 
-## Repository Structure
-
-```
-pagsubay-datasci/
-├── data-preprocess/                   # Master aggregated CSV datasets & preprocessing notebooks
-├── Phivolc-past data and processes/   # Historical raw & processed PHIVOLCS data archives
-├── copy_of_ogataprototype.py          # Python script for Ogata ETAS statistical modeling
-├── Ogata-statisticalmodelearthquake.md # Technical specification for Ogata's statistical model
-├── PROJECT_KEYPOINTS.md               # Detailed technical report & analytical findings
-└── README.md                          # Project documentation
-```
-
----
-
 ## Core Dataset Summary
 
 - **Master File**: `data-preprocess/Phivolcs_Master_Aggregated_Fixed_FinalFinished.csv`
