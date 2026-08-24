@@ -37,7 +37,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-### Option 2: If you are in VS Code
+### Option 2: If you are in VS Code ^^
 1. Open the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `Cmd+Shift+P` on macOS).
 2. Type **Python: Create Environment...** and select it.
 3. Select **Venv**.
