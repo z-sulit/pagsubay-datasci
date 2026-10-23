@@ -1,0 +1,773 @@
+event_id,date,mag,latitude,longitude,Location,city,province,loc_latitude,loc_longitude,SOILDESC,AEZ,snap_dist_m,Site_Weight
+PHV-0001,2/15/2026,5.3,5.31,127.44,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0002,2/13/2026,5.6,3.95,128.62,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0003,2/13/2026,5.1,4.22,127.84,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0004,2/12/2026,5.3,20.6,119.99,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0005,1/28/2026,5.2,6.49,123.67,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0006,1/28/2026,5.9,6.52,123.69,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0007,1/28/2026,5.2,6.47,123.73,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0008,1/28/2026,5.1,6.43,123.67,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0009,1/28/2026,5.4,6.42,123.68,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0010,1/28/2026,5.2,6.49,123.67,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0011,1/21/2026,5.1,6.37,123.71,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0012,1/20/2026,5.2,6.34,123.7,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0013,1/13/2026,5.1,2.67,126.72,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0014,1/10/2026,5.2,3.34,126.96,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0015,1/10/2026,6.4,3.37,126.98,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0016,1/7/2026,5.4,7.17,127.06,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0017,1/7/2026,6.4,7.2,127.07,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0018,1/4/2026,5.3,5.0,127.48,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0019,1/1/2026,5.1,4.92,127.48,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0020,12/27/2025,6.6,24.65,122.04,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0021,12/22/2025,5.8,8.48,127.47,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0022,12/18/2025,5.5,20.15,121.32,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0023,11/25/2025,5.3,6.17,126.27,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0024,11/15/2025,5.4,3.62,126.77,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0025,11/3/2025,5.5,9.7,122.76,Candoni (Negros Occidental),Candoni,Negros Occidental,9.8306756,122.6429611,Bantay clay loam,Uplands,0.0,1.1
+PHV-0026,11/3/2025,5.3,4.82,125.49,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0027,10/20/2025,5.7,7.0,127.36,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0028,10/19/2025,5.2,6.95,127.36,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0029,10/18/2025,5.5,8.84,126.45,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0030,10/17/2025,6.0,9.69,126.22,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0031,10/14/2025,5.6,7.47,127.05,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0032,10/13/2025,5.8,10.96,123.94,City Of Bogo (Cebu),City Of Bogo,Cebu,11.0515546,124.0035463,Bolinao clay,Uplands,0.0,1.0
+PHV-0033,10/11/2025,5.5,7.23,126.91,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0034,10/11/2025,6.0,8.94,126.55,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0035,10/11/2025,5.1,15.24,120.23,Botolan (Zambales),Botolan,Zambales,15.2889971,120.0247358,Bancal clay,Lowlands,0.0,0.5
+PHV-0036,10/11/2025,6.0,8.94,126.55,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0037,10/11/2025,5.5,7.23,126.91,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0038,10/11/2025,5.1,15.24,120.23,Botolan (Zambales),Botolan,Zambales,15.2889971,120.0247358,Bancal clay,Lowlands,0.0,0.5
+PHV-0039,10/10/2025,7.4,7.22,126.97,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0040,10/10/2025,6.8,7.07,126.9,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0041,10/10/2025,5.2,7.07,127.12,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0042,10/10/2025,7.4,7.22,126.97,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0043,10/10/2025,5.8,7.03,126.99,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0044,10/10/2025,5.0,7.06,127.28,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0045,10/10/2025,5.2,7.07,127.12,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0046,10/10/2025,6.8,7.07,126.9,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0047,10/10/2025,5.8,7.03,126.99,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0048,10/7/2025,5.1,9.92,121.99,City Of Sipalay (Negros Occidental),City Of Sipalay,Negros Occidental,9.7491266,122.4040602,Obando sand,Lowlands,0.0,0.75
+PHV-0049,10/7/2025,5.1,9.92,121.99,City Of Sipalay (Negros Occidental),City Of Sipalay,Negros Occidental,9.7491266,122.4040602,Obando sand,Lowlands,0.0,0.75
+PHV-0050,10/3/2025,5.1,11.11,124.14,City Of Bogo (Cebu),City Of Bogo,Cebu,11.0515546,124.0035463,Bolinao clay,Uplands,0.0,1.0
+PHV-0051,10/3/2025,5.1,11.11,124.14,City Of Bogo (Cebu),City Of Bogo,Cebu,11.0515546,124.0035463,Bolinao clay,Uplands,0.0,1.0
+PHV-0052,10/1/2025,5.0,11.15,124.17,City Of Bogo (Cebu),City Of Bogo,Cebu,11.0515546,124.0035463,Bolinao clay,Uplands,0.0,1.0
+PHV-0053,9/30/2025,6.9,11.1,124.14,City Of Bogo (Cebu),City Of Bogo,Cebu,11.0515546,124.0035463,Bolinao clay,Uplands,0.0,1.0
+PHV-0054,9/19/2025,5.5,16.95,119.9,Luna (La Union),Luna,La Union,16.8529495,120.3775805,Beach sand,Lowlands,0.0,0.6
+PHV-0055,9/9/2025,5.3,9.93,125.57,Dinagat (Dinagat Islands),Dinagat,Dinagat Islands,10.161868,125.5531897,Dinagat clay loam,Highlands,0.0,1.1
+PHV-0056,9/7/2025,5.1,9.26,127.13,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0057,9/2/2025,5.1,19.09,120.5,Burgos (Ilocos Norte),Burgos,Ilocos Norte,18.5110086,120.6436311,Rock land,Uplands,0.0,1.3
+PHV-0058,8/12/2025,5.3,5.4,126.2,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0059,8/9/2025,5.3,6.08,126.72,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0060,7/26/2025,5.9,1.88,126.51,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0061,7/20/2025,5.5,8.32,127.6,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0062,7/20/2025,5.5,19.73,121.4,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0063,7/19/2025,5.2,19.97,121.21,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0064,7/15/2025,5.5,18.49,120.25,Pasuquin (Ilocos Norte),Pasuquin,Ilocos Norte,18.3339819,120.6194886,San Manuel sandy clay loam,Lowlands,0.0,0.6
+PHV-0065,7/14/2025,5.1,7.23,127.46,Caraga (Davao Oriental),Caraga,Davao Oriental,7.328232,126.5653582,Camasan sandy clay loam,Highlands,0.0,1.1
+PHV-0066,6/28/2025,5.1,2.68,126.77,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0067,6/28/2025,5.2,5.28,126.01,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0068,6/28/2025,6.1,5.09,126.22,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0069,6/24/2025,6.3,8.15,129.77,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0070,6/17/2025,5.4,8.09,126.73,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0071,6/17/2025,5.1,2.17,126.35,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0072,6/10/2025,5.1,13.67,120.52,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0073,5/27/2025,5.0,20.89,122.34,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0074,5/24/2025,5.2,16.88,120.08,Luna (La Union),Luna,La Union,16.8529495,120.3775805,Beach sand,Lowlands,0.0,0.6
+PHV-0075,5/17/2025,5.1,9.87,121.98,City Of Sipalay (Negros Occidental),City Of Sipalay,Negros Occidental,9.7491266,122.4040602,Obando sand,Lowlands,0.0,0.75
+PHV-0076,4/28/2025,5.8,19.74,120.96,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0077,4/28/2025,5.5,19.43,121.16,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0078,4/22/2025,6.3,4.49,127.87,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0079,4/20/2025,5.4,5.82,124.06,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0080,4/20/2025,5.1,5.84,124.09,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0081,4/20/2025,5.9,5.94,124.1,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0082,4/16/2025,5.7,5.73,124.15,Maitum (Sarangani),Maitum,Sarangani,6.0610443,124.4965878,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0083,4/9/2025,5.2,4.25,125.25,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0084,4/1/2025,5.0,13.63,120.55,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0085,3/17/2025,5.0,7.9,126.7,Cateel (Davao Oriental),Cateel,Davao Oriental,7.7901142,126.4537908,San Manuel silty clay loam,Lowlands,2.8943999430856167,0.6
+PHV-0086,3/12/2025,5.6,8.4,127.54,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0087,3/4/2025,5.0,6.71,125.21,Matanao (Davao Del Sur),Matanao,Davao Del Sur,6.709707,125.2170514,Miral clay loam,Uplands,0.0,1.1
+PHV-0088,2/15/2025,5.2,11.54,125.95,Hernani (Eastern Samar),Hernani,Eastern Samar,11.3232473,125.6190691,Hermani loam,Lowlands,278.41257235470607,0.85
+PHV-0089,2/14/2025,5.3,11.56,125.96,Hernani (Eastern Samar),Hernani,Eastern Samar,11.3232473,125.6190691,Hermani loam,Lowlands,278.41257235470607,0.85
+PHV-0090,2/6/2025,5.0,3.67,126.93,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0091,2/4/2025,5.9,2.98,128.45,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0092,2/2/2025,5.0,10.22,125.61,Libjo (Dinagat Islands),Libjo,Dinagat Islands,10.1941944,125.5316075,Bolinao clay (Steep phase),Uplands,0.0,1.0
+PHV-0093,1/23/2025,5.8,10.01,125.18,San Francisco (Southern Leyte),San Francisco,Southern Leyte,10.0563138,125.1580978,San Manuel silt loam,Lowlands,0.0,0.85
+PHV-0094,1/23/2025,5.4,7.69,122.12,Siocon (Zamboanga Del Norte),Siocon,Zamboanga Del Norte,7.7064072,122.1359108,San Manuel silt loam,Lowlands,0.0,0.85
+PHV-0095,1/22/2025,5.0,21.11,121.12,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0096,1/20/2025,5.5,13.93,120.44,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0097,1/13/2025,5.1,6.48,124.05,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0098,1/5/2025,5.2,6.5,126.69,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0099,12/30/2024,5.6,18.6,120.63,Bangui (Ilocos Norte),Bangui,Ilocos Norte,18.5367387,120.7657563,San Fernando clay,Lowlands,0.0,0.5
+PHV-0100,12/28/2024,5.6,9.56,126.42,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0101,12/26/2024,5.3,8.47,125.86,Talacogon (Agusan Del Sur),Talacogon,Agusan Del Sur,8.4486711,125.7861565,Butuan loam,Lowlands,0.0,0.85
+PHV-0102,12/20/2024,5.3,12.13,126.83,San Policarpo (Eastern Samar),San Policarpo,Eastern Samar,12.1797056,125.5072461,Catbalogan clay loam,Highlands,43.34234396360601,1.1
+PHV-0103,12/19/2024,5.0,17.66,119.42,Santa Catalina (Ilocos Sur),Santa Catalina,Ilocos Sur,17.5888763,120.3633196,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0104,12/4/2024,5.3,4.48,126.56,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0105,12/4/2024,5.7,18.52,120.73,Bangui (Ilocos Norte),Bangui,Ilocos Norte,18.5367387,120.7657563,San Fernando clay,Lowlands,0.0,0.5
+PHV-0106,11/28/2024,5.7,15.51,120.61,City Of Tarlac (Tarlac),City Of Tarlac,Tarlac,15.4861218,120.5893473,Luisita fine sandy loam,Lowlands,0.0,0.75
+PHV-0107,11/27/2024,5.0,9.0,126.5,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0108,11/19/2024,5.2,6.08,126.2,Don Marcelino (Davao Occidental),Don Marcelino,Davao Occidental,6.1978508,125.6977653,Malalag loam,Uplands,0.0,1.1
+PHV-0109,10/10/2024,5.1,1.98,126.93,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0110,10/2/2024,6.1,14.31,124.93,Bagamanoc (Catanduanes),Bagamanoc,Catanduanes,13.9396368,124.2878298,Bantog clay loam,Lowlands,0.0,0.6
+PHV-0111,9/29/2024,5.3,2.57,126.48,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0112,9/29/2024,5.1,10.49,124.37,Poro (Cebu),Poro,Cebu,10.628765,124.4073439,Faraon clay,Uplands,0.0,1.0
+PHV-0113,9/13/2024,5.1,4.11,126.88,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0114,9/10/2024,5.2,4.28,126.78,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0115,9/9/2024,5.0,10.99,125.93,Guiuan (Eastern Samar),Guiuan,Eastern Samar,11.0306685,125.7236686,Bolinao clay,Uplands,0.0,1.0
+PHV-0116,9/4/2024,5.3,14.95,122.63,Jomalig (Quezon),Jomalig,Quezon,14.6958792,122.3306656,Rizal clay,Highlands,0.0,1.0
+PHV-0117,9/2/2024,5.0,3.55,126.61,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0118,8/27/2024,5.0,12.52,123.61,Baleno (Masbate),Baleno,Masbate,12.4738762,123.4975215,Beach sand,Lowlands,0.0,0.6
+PHV-0119,8/19/2024,5.7,12.87,124.88,Pambujan (Northern Samar),Pambujan,Northern Samar,12.5639616,124.9282311,Bugko loamy sand,Lowlands,0.0,0.75
+PHV-0120,8/6/2024,5.2,7.81,127.32,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0121,8/3/2024,6.2,8.14,127.18,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0122,8/3/2024,5.4,7.95,127.07,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0123,8/3/2024,6.8,8.12,126.84,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0124,8/3/2024,5.0,8.03,127.09,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0125,7/11/2024,7.1,5.93,123.34,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0126,7/7/2024,5.0,12.38,124.63,Lope De Vega (Northern Samar),Lope De Vega,Northern Samar,12.2995428,124.6249992,Bayho clay loam,Highlands,0.0,1.1
+PHV-0127,7/6/2024,5.4,19.13,121.24,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0128,6/22/2024,5.1,14.05,125.13,Gigmoto (Catanduanes),Gigmoto,Catanduanes,13.7786693,124.3911728,Bantog clay loam,Lowlands,0.0,0.6
+PHV-0129,6/22/2024,5.1,8.48,127.27,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0130,6/16/2024,5.1,4.83,125.18,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0131,6/15/2024,5.9,3.1,126.99,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0132,6/13/2024,5.7,4.1,126.65,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0133,6/11/2024,5.1,9.49,119.63,Roxas (Palawan),Roxas,Palawan,10.3196268,119.3430042,Beach sand,Lowlands,0.0,0.6
+PHV-0134,5/18/2024,5.2,3.75,123.09,Kiamba (Sarangani),Kiamba,Sarangani,5.9879555,124.6241575,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0135,5/7/2024,5.1,11.37,125.81,Hernani (Eastern Samar),Hernani,Eastern Samar,11.3232473,125.6190691,Hermani loam,Lowlands,278.41257235470607,0.85
+PHV-0136,5/7/2024,5.0,5.83,124.64,Kiamba (Sarangani),Kiamba,Sarangani,5.9879555,124.6241575,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0137,5/3/2024,5.8,10.81,125.37,Abuyog (Leyte),Abuyog,Leyte,10.7467715,125.0120993,Hydrosol,Lowlands,578.5810423628776,0.3
+PHV-0138,4/25/2024,5.0,7.69,127.37,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0139,4/23/2024,5.3,20.29,121.27,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0140,4/17/2024,5.0,9.73,126.36,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0141,4/13/2024,5.3,2.39,126.62,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0142,4/11/2024,5.3,7.52,126.14,New Bataan (Davao De Oro),New Bataan,Davao De Oro,7.5480137,126.1371638,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0143,4/11/2024,5.1,11.95,126.1,Dolores (Eastern Samar),Dolores,Eastern Samar,12.0374468,125.4831175,San Manuel sandy loam,Lowlands,0.0,0.75
+PHV-0144,4/9/2024,6.5,2.52,127.19,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0145,4/3/2024,5.1,8.56,126.9,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0146,4/3/2024,7.5,23.8,121.7,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0147,4/1/2024,5.0,8.14,126.61,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0148,3/30/2024,5.4,2.29,126.84,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0149,3/8/2024,6.0,5.88,127.05,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0150,3/7/2024,5.0,7.88,127.14,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0151,3/1/2024,5.4,8.84,127.07,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0152,2/29/2024,5.4,8.81,126.97,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0153,2/29/2024,5.3,8.76,126.88,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0154,2/25/2024,5.0,12.12,125.08,Jipapad (Eastern Samar),Jipapad,Eastern Samar,12.2699395,125.2027157,Catbalogan clay loam,Highlands,0.0,1.1
+PHV-0155,2/12/2024,5.3,9.94,126.93,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0156,2/10/2024,5.8,8.69,125.55,Las Nieves (Agusan Del Norte),Las Nieves,Agusan Del Norte,8.7359578,125.6015136,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0157,2/10/2024,5.2,8.66,125.63,Esperanza (Agusan Del Sur),Esperanza,Agusan Del Sur,8.6788385,125.646773,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0158,2/7/2024,5.1,8.86,127.16,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0159,2/7/2024,5.0,8.83,127.19,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0160,2/7/2024,5.4,18.7,120.73,Pagudpud (Ilocos Norte),Pagudpud,Ilocos Norte,18.5593916,120.7869782,San Manuel loam,Lowlands,0.0,0.85
+PHV-0161,2/6/2024,5.2,8.89,126.47,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0162,2/3/2024,5.3,2.2,127.2,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0163,2/2/2024,5.3,8.18,127.18,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0164,1/29/2024,5.1,8.62,127.58,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0165,1/17/2024,5.7,8.4,126.61,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0166,1/15/2024,5.0,8.38,126.61,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0167,1/9/2024,6.7,4.45,126.42,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0168,1/3/2024,5.1,8.29,126.56,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0169,12/24/2023,5.3,8.95,127.03,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0170,12/23/2023,5.2,8.13,127.01,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0171,12/16/2023,5.0,8.92,127.43,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0172,12/12/2023,5.1,8.58,126.72,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0173,12/11/2023,5.2,8.8,127.48,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0174,12/8/2023,5.1,8.89,127.01,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0175,12/8/2023,5.2,8.81,127.09,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0176,12/6/2023,5.0,19.2,121.03,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0177,12/5/2023,5.2,2.53,127.82,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0178,12/5/2023,5.6,9.15,126.95,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0179,12/5/2023,5.7,9.06,126.91,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0180,12/5/2023,5.9,13.87,120.29,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0181,12/5/2023,5.0,8.49,127.24,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0182,12/5/2023,5.3,8.93,126.66,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0183,12/5/2023,5.8,9.14,126.92,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0184,12/4/2023,5.5,8.86,126.85,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0185,12/4/2023,6.8,8.96,126.91,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0186,12/4/2023,5.8,8.86,126.87,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0187,12/4/2023,5.2,8.56,127.0,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0188,12/4/2023,5.2,8.54,127.07,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0189,12/4/2023,5.1,8.89,126.77,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0190,12/4/2023,5.5,8.49,126.95,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0191,12/4/2023,5.6,8.67,127.05,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0192,12/4/2023,5.1,8.54,126.92,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0193,12/4/2023,5.1,8.63,126.99,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0194,12/4/2023,5.3,8.84,126.96,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0195,12/4/2023,5.0,8.45,127.37,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0196,12/4/2023,5.0,8.45,127.01,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0197,12/3/2023,5.2,8.39,127.06,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0198,12/3/2023,5.9,8.76,127.46,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0199,12/3/2023,5.4,8.49,126.89,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0200,12/3/2023,6.6,8.49,126.95,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0201,12/3/2023,5.4,8.66,126.87,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0202,12/3/2023,5.4,8.68,127.4,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0203,12/3/2023,5.0,8.4,126.84,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0204,12/3/2023,6.0,8.4,127.12,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0205,12/3/2023,5.2,8.48,127.17,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0206,12/3/2023,5.0,8.61,126.93,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0207,12/3/2023,6.3,8.51,127.43,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0208,12/3/2023,5.9,8.64,126.97,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0209,12/3/2023,6.1,8.42,126.9,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0210,12/3/2023,5.5,8.28,127.08,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0211,12/3/2023,5.1,8.51,127.12,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0212,12/3/2023,6.4,8.5,126.95,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0213,12/3/2023,5.0,8.27,127.05,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0214,12/2/2023,7.4,8.44,126.59,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0215,11/26/2023,5.1,13.55,120.62,Abra De Ilog (Occidental Mindoro),Abra De Ilog,Occidental Mindoro,13.4444905,120.7288218,Alaminos loam,Uplands,0.0,1.1
+PHV-0216,11/22/2023,6.1,2.01,126.97,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0217,11/20/2023,5.2,11.55,125.13,Calbiga (Samar),Calbiga,Samar,11.6274469,125.0170454,Catbalogan clay loam,Highlands,0.0,1.1
+PHV-0218,11/19/2023,5.0,10.22,125.38,Anahawan (Southern Leyte),Anahawan,Southern Leyte,10.2962342,124.9658046,Maasin clay,Uplands,0.0,1.0
+PHV-0219,11/17/2023,6.8,5.38,125.24,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0220,11/2/2023,5.6,11.54,126.3,Hernani (Eastern Samar),Hernani,Eastern Samar,11.3232473,125.6190691,Hermani loam,Lowlands,278.41257235470607,0.85
+PHV-0221,10/20/2023,5.9,7.35,126.38,New Bataan (Davao De Oro),New Bataan,Davao De Oro,7.5480137,126.1371638,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0222,10/13/2023,5.0,13.79,120.82,City Of Calaca (Batangas),City Of Calaca,Batangas,13.9338465,120.8140254,Taal loam,Highlands,0.0,1.1
+PHV-0223,10/4/2023,5.7,19.28,121.27,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0224,10/4/2023,6.4,5.26,126.2,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0225,9/26/2023,6.0,4.25,127.61,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0226,9/12/2023,6.3,19.27,121.15,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0227,9/8/2023,5.1,4.2,127.91,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0228,9/4/2023,5.3,2.49,126.67,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0229,8/29/2023,5.5,3.81,126.73,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0230,8/26/2023,5.0,6.29,124.73,Surallah (South Cotabato),Surallah,South Cotabato,6.3754689,124.7475942,Dadiangas loamy sand,Lowlands,0.0,0.75
+PHV-0231,8/24/2023,5.1,12.81,121.36,Bansud (Oriental Mindoro),Bansud,Oriental Mindoro,12.8640556,121.4555057,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0232,8/13/2023,5.4,20.51,121.54,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0233,8/9/2023,5.2,6.45,126.4,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0234,8/4/2023,5.1,21.85,121.91,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0235,8/4/2023,5.1,21.61,121.46,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0236,8/1/2023,5.3,19.33,121.22,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0237,7/20/2023,5.0,3.26,128.67,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0238,7/17/2023,5.3,5.77,124.18,Maitum (Sarangani),Maitum,Sarangani,6.0610443,124.4965878,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0239,7/10/2023,5.0,11.38,125.41,Llorente (Eastern Samar),Llorente,Eastern Samar,11.4123071,125.5455987,Bugko loamy sand,Lowlands,83.68488646757811,0.75
+PHV-0240,6/29/2023,5.1,10.34,127.15,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0241,6/19/2023,5.0,10.31,126.48,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0242,6/17/2023,5.5,19.31,121.14,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0243,6/15/2023,6.3,13.78,120.52,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0244,5/25/2023,5.0,12.24,123.82,Uson (Masbate),Uson,Masbate,12.2251109,123.78466,Sevilla clay,Uplands,0.0,1.0
+PHV-0245,5/25/2023,5.6,20.96,122.16,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0246,5/24/2023,5.2,5.7,124.26,Kiamba (Sarangani),Kiamba,Sarangani,5.9879555,124.6241575,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0247,5/23/2023,5.0,2.73,126.92,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0248,5/13/2023,5.0,10.14,126.22,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0249,5/7/2023,5.3,17.6,122.36,Maconacon (Isabela),Maconacon,Isabela,17.3871286,122.2379036,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0250,5/4/2023,5.5,17.66,122.38,Maconacon (Isabela),Maconacon,Isabela,17.3871286,122.2379036,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0251,4/29/2023,5.2,13.62,120.4,Looc (Occidental Mindoro),Looc,Occidental Mindoro,13.7197591,120.2502443,,,,
+PHV-0252,4/24/2023,5.1,9.25,125.57,Santiago (Agusan Del Norte),Santiago,Agusan Del Norte,9.2654938,125.5602995,Kitcharao silt loam,Lowlands,0.0,0.85
+PHV-0253,4/24/2023,5.2,14.27,118.74,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0254,4/23/2023,5.3,17.61,122.28,Maconacon (Isabela),Maconacon,Isabela,17.3871286,122.2379036,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0255,4/21/2023,5.8,2.78,126.87,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0256,4/14/2023,5.1,9.24,125.6,Santiago (Agusan Del Norte),Santiago,Agusan Del Norte,9.2654938,125.5602995,Kitcharao silt loam,Lowlands,0.0,0.85
+PHV-0257,4/12/2023,5.4,5.77,126.89,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0258,4/4/2023,6.2,13.9,125.77,Gigmoto (Catanduanes),Gigmoto,Catanduanes,13.7786693,124.3911728,Bantog clay loam,Lowlands,0.0,0.6
+PHV-0259,3/28/2023,5.1,18.61,120.28,Burgos (Ilocos Norte),Burgos,Ilocos Norte,18.5110086,120.6436311,Rock land,Uplands,0.0,1.3
+PHV-0260,3/23/2023,5.6,19.24,121.12,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0261,3/18/2023,5.0,5.85,127.1,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0262,3/16/2023,5.3,4.39,127.34,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0263,3/7/2023,5.6,7.51,126.24,New Bataan (Davao De Oro),New Bataan,Davao De Oro,7.5480137,126.1371638,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0264,3/7/2023,5.9,7.47,126.19,New Bataan (Davao De Oro),New Bataan,Davao De Oro,7.5480137,126.1371638,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0265,3/6/2023,5.3,7.45,126.24,New Bataan (Davao De Oro),New Bataan,Davao De Oro,7.5480137,126.1371638,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0266,3/6/2023,5.0,5.81,126.03,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0267,2/25/2023,5.0,2.91,126.05,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0268,2/24/2023,6.4,3.18,128.13,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0269,2/19/2023,5.0,8.99,126.15,City Of Tandag (Surigao Del Sur),City Of Tandag,Surigao Del Sur,9.0799833,126.1974606,Beach sand,Lowlands,0.0,0.6
+PHV-0270,2/16/2023,6.0,12.32,123.75,Batuan (Masbate),Batuan,Masbate,12.4216283,123.779537,Cataingan clay,Uplands,0.0,1.0
+PHV-0271,2/16/2023,5.0,15.06,119.79,San Felipe (Zambales),San Felipe,Zambales,15.0610588,120.0702767,Angeles sand,Lowlands,0.0,0.75
+PHV-0272,2/15/2023,5.0,12.28,123.8,Dimasalang (Masbate),Dimasalang,Masbate,12.1931384,123.8586018,Beach sand,Lowlands,123.58591130386951,0.6
+PHV-0273,2/11/2023,6.0,3.43,126.53,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0274,2/1/2023,6.0,7.66,126.07,Compostela (Davao De Oro),Compostela,Davao De Oro,7.6675008,126.0856272,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0275,1/30/2023,5.4,2.09,126.99,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0276,1/29/2023,5.0,5.58,125.21,Glan (Sarangani),Glan,Sarangani,5.8226991,125.2049049,Glan clay loam,Lowlands,0.0,0.6
+PHV-0277,1/28/2023,5.5,10.74,125.58,Homonhon Island (Guiuan) (Eastern Samar),Guiuan,Eastern Samar,10.7417513,125.722241,Bolinao clay,Uplands,0.0,1.0
+PHV-0278,1/26/2023,5.6,2.65,127.01,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0279,1/25/2023,5.1,3.81,128.63,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0280,1/24/2023,5.9,2.96,126.7,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0281,1/24/2023,5.3,2.22,126.67,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0282,1/24/2023,5.4,2.55,126.74,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0283,1/22/2023,5.2,2.95,126.67,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0284,1/18/2023,5.4,2.2,127.31,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0285,1/18/2023,7.0,2.86,127.04,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0286,1/15/2023,5.3,11.33,124.54,Leyte (Leyte),Leyte,Leyte,10.7841157,124.892321,Rough mountain land,Highlands,0.0,1.3
+PHV-0287,1/8/2023,5.0,7.49,126.51,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0288,12/29/2022,5.2,6.21,126.37,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0289,12/20/2022,5.0,7.82,124.74,Kalilangan (Bukidnon),Kalilangan,Bukidnon,7.7465169,124.7476141,Kidapawan clay loam,Uplands,0.0,1.1
+PHV-0290,12/19/2022,5.1,17.42,120.55,Pilar (Abra),Pilar,Abra,17.4150125,120.5954887,Bauang clay,Highlands,0.0,1.0
+PHV-0291,12/18/2022,5.2,15.69,119.17,Infanta (Pangasinan),Infanta,Pangasinan,15.8251315,119.9056689,Alaminos sandy loam,Uplands,0.0,1.1
+PHV-0292,12/16/2022,5.0,13.58,120.56,Paluan (Occidental Mindoro),Paluan,Occidental Mindoro,13.4158295,120.4626484,Beach sand,Lowlands,0.0,0.6
+PHV-0293,12/10/2022,5.6,6.36,126.18,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0294,12/9/2022,5.7,13.3,125.95,Mapanas (Northern Samar),Mapanas,Northern Samar,12.4752025,125.255472,Lugo clay loam,Uplands,0.0,1.1
+PHV-0295,12/7/2022,5.3,14.58,123.15,Tinaga Island (Vinzons) (Camarines Norte),Vinzons,Camarines Norte,14.4690392,122.9450671,,,,
+PHV-0296,11/27/2022,5.0,9.36,126.53,Cortes (Surigao Del Sur),Cortes,Surigao Del Sur,9.2755786,126.1908659,Malalag loam,Uplands,0.0,1.1
+PHV-0297,11/24/2022,5.1,18.44,120.71,Burgos (Ilocos Norte),Burgos,Ilocos Norte,18.5110086,120.6436311,Rock land,Uplands,0.0,1.3
+PHV-0298,11/8/2022,5.2,15.45,120.57,City Of Tarlac (Tarlac),City Of Tarlac,Tarlac,15.4861218,120.5893473,Luisita fine sandy loam,Lowlands,0.0,0.75
+PHV-0299,11/7/2022,5.0,19.09,121.14,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0300,11/6/2022,5.5,2.39,125.17,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0301,11/5/2022,5.1,4.12,126.21,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0302,11/2/2022,5.2,19.67,121.6,Babuyan Island (Calayan) (Cagayan),Calayan,Cagayan,19.5246385,121.9465479,,,,
+PHV-0303,10/25/2022,6.4,17.77,120.72,Lagayan (Abra),Lagayan,Abra,17.720826,120.7059017,Riverwash,Lowlands,0.0,0.6
+PHV-0304,10/25/2022,5.2,8.06,126.72,Lingig (Surigao Del Sur),Lingig,Surigao Del Sur,8.0383384,126.4122956,Hydrosol,Lowlands,0.0,0.3
+PHV-0305,10/24/2022,5.3,11.22,126.06,Mercedes (Eastern Samar),Mercedes,Eastern Samar,11.0986331,125.710348,Bolinao clay,Uplands,0.0,1.0
+PHV-0306,10/24/2022,5.3,7.02,125.49,City Of Davao (Davao Del Sur),City Of Davao,Davao Del Sur,7.0763343,125.6196674,Matina clay,Lowlands,0.0,0.5
+PHV-0307,10/23/2022,5.1,3.15,128.48,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0308,10/19/2022,5.4,6.7,125.13,Magsaysay (Davao Del Sur),Magsaysay,Davao Del Sur,6.7517369,125.1504638,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0309,10/3/2022,5.1,9.97,126.38,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0310,9/28/2022,5.3,9.34,126.83,Cortes (Surigao Del Sur),Cortes,Surigao Del Sur,9.2755786,126.1908659,Malalag loam,Uplands,0.0,1.1
+PHV-0311,9/25/2022,5.1,4.56,126.02,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0312,9/12/2022,5.7,6.29,127.81,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0313,9/10/2022,5.3,3.85,126.72,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0314,8/28/2022,5.2,17.43,120.49,Pilar (Abra),Pilar,Abra,17.4150125,120.5954887,Bauang clay,Highlands,0.0,1.0
+PHV-0315,8/20/2022,5.0,12.39,123.65,City Of Masbate (Masbate),City Of Masbate,Masbate,10.3167896,123.9070277,Mandawe clay loam,Lowlands,0.0,0.6
+PHV-0316,8/17/2022,5.0,9.68,125.92,Socorro (Surigao Del Norte),Socorro,Surigao Del Norte,9.6184003,125.9656786,Bolinao clay (Steep phase),Uplands,323.7649944368032,1.0
+PHV-0317,8/15/2022,5.5,6.71,125.14,Magsaysay (Davao Del Sur),Magsaysay,Davao Del Sur,6.7517369,125.1504638,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0318,8/13/2022,5.1,10.28,121.83,Anini-y (Antique),Anini-y,Antique,10.4315482,121.9249048,Patnongon sandy clay loam,Lowlands,634.9987905287139,0.6
+PHV-0319,8/13/2022,5.9,6.96,123.77,Datu Blah T. Sinsuat (Maguindanao),Datu Blah T. Sinsuat,Maguindanao,7.0678918,124.0189526,Faraon clay,Uplands,0.0,1.0
+PHV-0320,8/3/2022,5.6,7.11,127.03,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0321,8/2/2022,5.4,6.88,123.75,Lebak (Sultan Kudarat),Lebak,Sultan Kudarat,6.6336717,124.0657013,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0322,8/2/2022,5.1,11.33,125.48,General Macarthur (Eastern Samar),General Macarthur,Eastern Samar,11.2453437,125.5397546,Quingua clay loam,Lowlands,449.5186501023676,0.6
+PHV-0323,8/1/2022,5.1,17.43,120.62,Villaviciosa (Abra),Villaviciosa,Abra,17.4378456,120.6256845,Bauang clay,Highlands,0.0,1.0
+PHV-0324,7/28/2022,5.0,17.52,120.61,Tayum (Abra),Tayum,Abra,17.6180712,120.6535488,Bauang clay loam,Highlands,0.0,1.1
+PHV-0325,7/27/2022,5.0,16.25,122.93,Dinapigue (Isabela),Dinapigue,Isabela,16.5258231,122.2621516,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0326,7/27/2022,7.0,17.63,120.63,Tayum (Abra),Tayum,Abra,17.6180712,120.6535488,Bauang clay loam,Highlands,0.0,1.1
+PHV-0327,7/1/2022,6.0,19.07,121.29,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0328,6/28/2022,5.1,21.8,120.36,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0329,6/16/2022,5.1,17.24,119.85,City Of Candon (Ilocos Sur),City Of Candon,Ilocos Sur,17.1821251,120.4448371,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0330,6/8/2022,5.2,6.47,127.2,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0331,6/3/2022,5.6,8.92,126.74,Cagwait (Surigao Del Sur),Cagwait,Surigao Del Sur,8.9182742,126.2982546,Hydrosol,Lowlands,0.0,0.3
+PHV-0332,5/22/2022,6.1,13.93,120.49,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0333,5/17/2022,5.1,19.72,120.99,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0334,5/6/2022,5.2,6.37,127.36,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0335,5/6/2022,5.2,8.73,126.61,Marihatag (Surigao Del Sur),Marihatag,Surigao Del Sur,8.8005575,126.2985386,Bantog clay,Lowlands,419.4228140413397,0.5
+PHV-0336,5/6/2022,5.2,6.44,127.33,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0337,5/5/2022,5.7,6.2,127.34,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0338,5/5/2022,6.0,6.22,127.58,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0339,5/5/2022,5.2,6.31,127.47,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0340,4/28/2022,5.1,9.93,126.19,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0341,4/21/2022,6.1,6.88,127.21,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0342,4/20/2022,5.2,6.78,127.29,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0343,4/20/2022,5.5,6.23,127.45,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0344,4/20/2022,5.4,3.47,126.47,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0345,4/20/2022,5.0,6.27,127.51,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0346,4/19/2022,5.3,7.1,127.01,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0347,4/19/2022,6.2,7.11,127.04,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0348,4/11/2022,5.2,21.52,120.81,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0349,4/10/2022,5.0,21.59,121.14,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0350,4/9/2022,5.0,12.3,123.82,Dimasalang (Masbate),Dimasalang,Masbate,12.1931384,123.8586018,Beach sand,Lowlands,123.58591130386951,0.6
+PHV-0351,4/9/2022,5.2,21.35,121.12,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0352,4/8/2022,5.6,21.57,120.96,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0353,4/3/2022,5.4,9.17,127.03,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0354,4/3/2022,5.5,9.12,126.88,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0355,4/3/2022,5.6,9.16,126.88,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0356,4/1/2022,5.0,9.9,126.97,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0357,3/30/2022,5.0,15.05,119.6,Cabangan (Zambales),Cabangan,Zambales,15.1589463,120.0554631,Cabangan sandy loam,Lowlands,0.0,0.75
+PHV-0358,3/30/2022,5.0,14.12,119.09,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0359,3/26/2022,5.2,20.54,122.24,Basco (Batanes),Basco,Batanes,20.4490442,121.9683455,,,,
+PHV-0360,3/23/2022,5.1,19.19,122.19,Camiguin Island (Calayan) (Cagayan),Calayan,Cagayan,18.9083,121.9109,,,,
+PHV-0361,3/23/2022,6.7,23.43,121.57,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0362,3/21/2022,5.3,10.95,124.8,Burauen (Leyte),Burauen,Leyte,10.9748709,124.8932225,Pawing sandy loam,Lowlands,0.0,0.75
+PHV-0363,3/16/2022,5.0,13.99,119.24,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0364,3/16/2022,5.0,14.1,119.16,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0365,3/14/2022,6.4,14.05,119.11,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0366,3/14/2022,5.1,14.07,119.17,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0367,3/8/2022,5.6,2.67,125.7,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0368,2/26/2022,5.3,5.58,126.39,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0369,2/21/2022,5.3,13.55,120.67,Abra De Ilog (Occidental Mindoro),Abra De Ilog,Occidental Mindoro,13.4444905,120.7288218,Alaminos loam,Uplands,0.0,1.1
+PHV-0370,2/21/2022,5.7,5.77,126.63,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0371,2/21/2022,5.2,5.85,126.56,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0372,2/13/2022,5.4,19.26,121.04,Dalupiri Island (Calayan) (Cagayan),Calayan,Cagayan,19.0919968,121.2212188,,,,
+PHV-0373,2/12/2022,5.1,20.1,121.48,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0374,2/11/2022,5.1,5.87,124.38,Kiamba (Sarangani),Kiamba,Sarangani,5.9879555,124.6241575,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0375,1/30/2022,5.2,15.5,118.41,Bajo De Masinloc (Masinloc) (Zambales),Masinloc,Zambales,15.1167,117.7667,,,,
+PHV-0376,1/27/2022,5.2,3.0,127.54,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0377,1/23/2022,5.3,6.97,127.3,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0378,1/22/2022,6.1,3.41,126.67,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0379,1/22/2022,5.4,7.44,126.65,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0380,1/19/2022,5.2,21.12,122.21,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0381,12/26/2021,5.0,16.15,119.27,Agno (Pangasinan),Agno,Pangasinan,16.1156627,119.799026,Alaminos loam,Uplands,0.0,1.1
+PHV-0382,12/26/2021,5.3,2.14,126.32,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0383,12/22/2021,5.1,2.2,126.6,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0384,12/22/2021,5.0,2.13,126.37,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0385,12/21/2021,5.1,12.89,120.92,Sablayan (Occidental Mindoro),Sablayan,Occidental Mindoro,12.8470382,120.7799198,San Manuel sandy loam,Lowlands,0.0,0.75
+PHV-0386,12/15/2021,5.1,10.25,126.53,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0387,12/13/2021,5.5,13.63,120.53,Paluan (Occidental Mindoro),Paluan,Occidental Mindoro,13.4158295,120.4626484,Beach sand,Lowlands,0.0,0.6
+PHV-0388,12/5/2021,6.1,4.06,128.15,Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4426531,125.4757564,Malalag loam,Uplands,0.0,1.1
+PHV-0389,11/30/2021,5.2,6.68,126.12,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0390,11/27/2021,5.4,4.47,126.37,Balut Island (Municipality Of Sarangani) (Davao Occidental),Sarangani,Davao Occidental,5.4017256,125.3852859,Malalag loam,Uplands,0.0,1.1
+PHV-0391,11/20/2021,5.4,6.79,127.19,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0392,11/20/2021,5.2,6.83,127.17,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0393,10/28/2021,5.0,13.0,124.63,Catarman (Northern Samar),Catarman,Northern Samar,12.499648,124.6364767,San Manuel loam,Lowlands,0.0,0.85
+PHV-0394,10/8/2021,5.2,13.94,120.49,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0395,10/3/2021,5.3,12.84,120.86,Sablayan (Occidental Mindoro),Sablayan,Occidental Mindoro,12.8470382,120.7799198,San Manuel sandy loam,Lowlands,0.0,0.75
+PHV-0396,9/27/2021,5.7,13.82,120.35,Looc (Occidental Mindoro),Looc,Occidental Mindoro,13.7197591,120.2502443,,,,
+PHV-0397,9/2/2021,5.0,11.51,124.38,Biliran (Biliran),Biliran,Biliran,11.4665736,124.4740971,Hydrosol,Lowlands,0.0,0.3
+PHV-0398,8/27/2021,5.7,5.5,125.24,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0399,8/25/2021,5.0,7.21,122.88,Olutanga (Zamboanga Sibugay),Olutanga,Zamboanga Sibugay,7.310729,122.8451368,Faraon clay loam,Uplands,0.0,1.1
+PHV-0400,8/14/2021,5.0,10.02,126.15,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0401,8/14/2021,5.3,5.03,128.34,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0402,8/14/2021,5.2,6.21,127.44,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0403,8/13/2021,5.1,6.05,127.58,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0404,8/13/2021,5.8,13.66,120.57,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0405,8/13/2021,5.3,5.93,127.5,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0406,8/12/2021,5.6,6.1,127.65,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0407,8/12/2021,5.1,6.07,127.41,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0408,8/12/2021,7.1,6.3,126.87,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0409,7/24/2021,5.5,13.74,120.54,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0410,7/24/2021,6.6,13.71,120.57,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0411,7/21/2021,5.3,5.58,126.74,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0412,7/18/2021,5.4,6.26,126.43,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0413,7/10/2021,5.4,2.69,126.61,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0414,7/10/2021,6.2,2.52,126.63,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0415,7/8/2021,5.2,4.93,126.59,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0416,6/29/2021,5.0,3.99,125.86,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0417,6/27/2021,5.1,8.89,126.37,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0418,6/14/2021,5.2,7.67,124.86,Kadingilan (Bukidnon),Kadingilan,Bukidnon,7.6002419,124.9097879,Kidapawan clay loam,Uplands,0.0,1.1
+PHV-0419,6/14/2021,5.7,7.66,124.85,Kadingilan (Bukidnon),Kadingilan,Bukidnon,7.6002419,124.9097879,Kidapawan clay loam,Uplands,0.0,1.1
+PHV-0420,6/10/2021,5.1,5.77,126.17,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0421,6/8/2021,5.3,10.22,126.28,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0422,6/6/2021,5.1,10.16,126.3,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0423,5/23/2021,5.0,14.76,119.17,San Antonio (Zambales),San Antonio,Zambales,14.9488214,120.0889405,Angeles sand,Lowlands,0.0,0.75
+PHV-0424,5/23/2021,5.6,5.1,127.55,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0425,5/22/2021,5.2,5.51,126.84,Don Marcelino (Davao Occidental),Don Marcelino,Davao Occidental,6.1978508,125.6977653,Malalag loam,Uplands,0.0,1.1
+PHV-0426,5/13/2021,5.6,4.76,128.72,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0427,5/12/2021,5.8,13.52,120.65,Abra De Ilog (Occidental Mindoro),Abra De Ilog,Occidental Mindoro,13.4444905,120.7288218,Alaminos loam,Uplands,0.0,1.1
+PHV-0428,5/11/2021,5.3,5.46,126.58,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0429,5/6/2021,5.1,6.76,125.12,Magsaysay (Davao Del Sur),Magsaysay,Davao Del Sur,6.7517369,125.1504638,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0430,4/17/2021,5.4,3.3,126.77,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0431,4/14/2021,5.0,13.9,120.57,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0432,4/14/2021,5.1,5.44,127.0,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0433,4/10/2021,6.1,3.98,124.88,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0434,4/7/2021,5.1,5.74,126.68,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0435,4/1/2021,5.2,3.41,126.58,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0436,3/13/2021,5.0,4.33,126.89,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0437,3/11/2021,5.1,15.78,119.25,Santa Cruz (Zambales),Santa Cruz,Zambales,15.7626076,119.910005,Alaminos sandy loam,Uplands,0.0,1.1
+PHV-0438,2/24/2021,5.2,2.89,126.43,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0439,2/9/2021,5.0,11.9,120.71,San Jose (Occidental Mindoro),San Jose,Occidental Mindoro,12.3539835,121.0675039,Beach sand,Lowlands,0.0,0.6
+PHV-0440,2/8/2021,5.7,5.74,127.15,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0441,2/7/2021,6.1,6.75,125.11,Magsaysay (Davao Del Sur),Magsaysay,Davao Del Sur,6.7517369,125.1504638,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0442,2/5/2021,5.1,14.6,123.14,Tinaga Island (Vinzons) (Camarines Norte),Vinzons,Camarines Norte,14.4690392,122.9450671,,,,
+PHV-0443,2/4/2021,5.1,14.6,118.8,San Antonio (Zambales),San Antonio,Zambales,14.9488214,120.0889405,Angeles sand,Lowlands,0.0,0.75
+PHV-0444,2/4/2021,5.6,21.11,121.77,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0445,2/2/2021,5.2,3.62,126.57,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0446,1/24/2021,5.2,9.11,126.88,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0447,1/22/2021,5.0,5.12,127.61,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0448,1/21/2021,7.1,5.09,127.61,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0449,1/12/2021,5.1,19.0,120.55,Burgos (Ilocos Norte),Burgos,Ilocos Norte,18.5110086,120.6436311,Rock land,Uplands,0.0,1.3
+PHV-0450,12/30/2020,5.5,5.01,125.45,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0451,12/25/2020,5.2,13.36,122.31,San Francisco (Quezon),San Francisco,Quezon,13.3469108,122.5200663,Faraon clay,Uplands,0.0,1.0
+PHV-0452,12/25/2020,6.3,13.76,120.53,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0453,12/25/2020,5.2,4.91,125.97,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0454,12/16/2020,6.2,4.87,125.43,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0455,12/10/2020,6.3,24.84,122.01,Taiwan Region,Taiwan Region,,24.84,122.01,,,,
+PHV-0456,12/7/2020,5.4,13.04,124.52,Prieto Diaz (Sorsogon),Prieto Diaz,Sorsogon,13.0404252,124.1935375,Beach sand,Lowlands,0.0,0.6
+PHV-0457,11/16/2020,6.0,8.61,126.49,San Agustin (Surigao Del Sur),San Agustin,Surigao Del Sur,8.7432343,126.2212765,Bantog clay,Lowlands,452.11340058066736,0.5
+PHV-0458,11/15/2020,5.0,11.81,124.16,Pio V. Corpuz (Masbate),Pio V. Corpuz,Masbate,11.8837245,124.0489113,Faraon clay,Uplands,0.0,1.0
+PHV-0459,11/12/2020,5.3,10.15,126.1,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0460,11/5/2020,5.1,10.03,126.21,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0461,10/29/2020,5.0,13.75,120.86,Mabini (Batangas),Mabini,Batangas,13.7480896,120.9407878,Ibaan loam,Uplands,0.0,1.1
+PHV-0462,10/17/2020,5.4,13.58,120.11,Looc (Occidental Mindoro),Looc,Occidental Mindoro,13.7197591,120.2502443,,,,
+PHV-0463,10/13/2020,5.0,9.8,126.24,Dapa (Surigao Del Norte),Dapa,Surigao Del Norte,9.7577166,126.0528849,Bolinao clay,Uplands,0.0,1.0
+PHV-0464,10/5/2020,5.6,13.66,120.55,Looc (Occidental Mindoro),Looc,Occidental Mindoro,13.7197591,120.2502443,,,,
+PHV-0465,10/1/2020,5.3,9.23,126.59,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0466,9/24/2020,5.2,9.35,126.88,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0467,9/21/2020,5.7,9.26,127.02,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0468,9/21/2020,5.2,9.38,127.04,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0469,9/20/2020,5.0,6.6,125.66,Don Marcelino (Davao Occidental),Don Marcelino,Davao Occidental,6.1978508,125.6977653,Malalag loam,Uplands,0.0,1.1
+PHV-0470,9/9/2020,5.9,3.44,126.28,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0471,9/9/2020,5.5,3.79,126.74,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0472,9/6/2020,6.4,6.08,125.92,Don Marcelino (Davao Occidental),Don Marcelino,Davao Occidental,6.1978508,125.6977653,Malalag loam,Uplands,0.0,1.1
+PHV-0473,8/19/2020,5.1,11.86,124.07,Cataingan (Masbate),Cataingan,Masbate,11.9996467,123.9978457,Cataingan clay,Uplands,0.0,1.0
+PHV-0474,8/18/2020,6.6,11.98,124.01,Cataingan (Masbate),Cataingan,Masbate,11.9996467,123.9978457,Cataingan clay,Uplands,0.0,1.0
+PHV-0475,8/16/2020,5.1,6.4,123.64,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0476,8/16/2020,5.0,19.69,122.11,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0477,8/13/2020,5.4,19.98,121.24,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0478,8/2/2020,6.4,7.2,124.32,Cotabato City (Maguindanao),Cotabato City,Maguindanao,7.2237628,124.2467062,Tamontaka clay,Lowlands,0.0,0.5
+PHV-0479,7/31/2020,5.7,8.51,126.84,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0480,7/28/2020,5.8,8.89,126.57,Bayabas (Surigao Del Sur),Bayabas,Surigao Del Sur,8.9674102,126.2828165,Hydrosol,Lowlands,0.0,0.3
+PHV-0481,7/26/2020,5.6,6.35,126.93,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0482,6/26/2020,5.4,19.11,121.19,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0483,6/22/2020,5.0,17.21,119.93,Candon City (Ilocos Sur),Candon City,Ilocos Sur,17.2044187,120.4571038,Bantog clay,Lowlands,0.0,0.5
+PHV-0484,6/5/2020,5.1,12.74,121.07,Calintaan (Occidental Mindoro),Calintaan,Occidental Mindoro,12.5713842,120.9409823,Beach sand,Lowlands,0.0,0.6
+PHV-0485,6/4/2020,6.6,2.92,128.83,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0486,5/30/2020,5.6,3.66,126.53,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0487,5/28/2020,5.2,16.72,120.2,San Fernando(Capital) (La Union),Capital,La Union,-28.4485441,-65.789689,,,,
+PHV-0488,5/23/2020,5.1,15.57,121.52,San Luis (Aurora),San Luis,Aurora,15.7191175,121.5178817,Baler silty clay loam,Lowlands,0.0,0.6
+PHV-0489,5/20/2020,5.0,5.03,126.12,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0490,5/10/2020,5.4,14.03,120.22,Lubang (Occidental Mindoro),Lubang,Occidental Mindoro,13.8592951,120.1227812,,,,
+PHV-0491,4/27/2020,5.2,5.82,127.06,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0492,4/19/2020,5.1,3.92,126.12,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0493,4/15/2020,5.0,19.71,121.94,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0494,4/15/2020,5.1,11.42,125.14,Basey (Samar),Basey,Samar,11.2799579,125.0692113,Tingib clay loam,Lowlands,752.8525172841229,0.6
+PHV-0495,4/12/2020,5.1,2.42,126.95,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0496,4/11/2020,6.0,20.51,122.08,Basco (Batanes),Basco,Batanes,20.4490442,121.9683455,,,,
+PHV-0497,4/11/2020,5.1,5.61,126.6,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0498,3/26/2020,6.1,5.46,125.1,Glan (Sarangani),Glan,Sarangani,5.8226991,125.2049049,Glan clay loam,Lowlands,0.0,0.6
+PHV-0499,3/20/2020,5.0,14.78,124.23,Pandan (Catanduanes),Pandan,Catanduanes,14.0492274,124.1702111,Luisiana clay loam,Highlands,0.0,1.1
+PHV-0500,3/18/2020,5.4,2.83,127.62,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0501,3/13/2020,5.0,14.66,118.94,San Antonio (Zambales),San Antonio,Zambales,14.9488214,120.0889405,Angeles sand,Lowlands,0.0,0.75
+PHV-0502,3/2/2020,5.4,11.32,124.55,Leyte (Leyte),Leyte,Leyte,10.7841157,124.892321,Rough mountain land,Highlands,0.0,1.3
+PHV-0503,2/28/2020,5.5,3.88,126.01,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0504,2/20/2020,5.4,5.67,125.68,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0505,2/6/2020,6.1,5.28,126.56,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0506,1/12/2020,5.0,9.42,126.27,Cortes (Surigao Del Sur),Cortes,Surigao Del Sur,9.2755786,126.1908659,Malalag loam,Uplands,0.0,1.1
+PHV-0507,1/6/2020,5.0,5.45,125.52,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0508,1/6/2020,5.4,6.01,126.35,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0509,12/26/2019,5.4,3.64,126.72,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0510,12/18/2019,5.3,6.53,125.32,Padada (Davao Del Sur),Padada,Davao Del Sur,6.6388664,125.3419089,Cabangan clay loam,Lowlands,0.0,0.6
+PHV-0511,12/15/2019,6.9,6.76,125.13,Matanao (Davao Del Sur),Matanao,Davao Del Sur,6.709707,125.2170514,Miral clay loam,Uplands,0.0,1.1
+PHV-0512,12/15/2019,5.2,6.61,125.36,Matanao (Davao Del Sur),Matanao,Davao Del Sur,6.709707,125.2170514,Miral clay loam,Uplands,0.0,1.1
+PHV-0513,12/5/2019,5.6,5.24,127.0,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0514,11/18/2019,5.9,7.67,124.89,Kadingilan (Bukidnon),Kadingilan,Bukidnon,7.6002419,124.9097879,Kidapawan clay loam,Uplands,0.0,1.1
+PHV-0515,11/9/2019,5.0,4.78,127.82,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0516,11/8/2019,5.2,10.75,125.63,Guiuan (Eastern Samar),Guiuan,Eastern Samar,11.0306685,125.7236686,Bolinao clay,Uplands,0.0,1.0
+PHV-0517,11/7/2019,5.5,14.98,122.65,Jomalig (Quezon),Jomalig,Quezon,14.6958792,122.3306656,Rizal clay,Highlands,0.0,1.0
+PHV-0518,11/1/2019,5.0,6.8,125.11,Makilala (Cotabato),Makilala,Cotabato,6.9595701,125.0891183,Kidapawan sandy clay loam,Uplands,0.0,1.1
+PHV-0519,11/1/2019,5.5,2.73,126.82,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0520,10/31/2019,6.5,6.92,125.06,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0521,10/30/2019,5.0,6.86,125.06,Makilala (Cotabato),Makilala,Cotabato,6.9595701,125.0891183,Kidapawan sandy clay loam,Uplands,0.0,1.1
+PHV-0522,10/29/2019,5.4,7.03,125.0,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0523,10/29/2019,6.6,6.81,125.03,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0524,10/29/2019,6.1,6.86,125.01,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0525,10/19/2019,5.0,6.83,125.0,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0526,10/17/2019,5.2,6.83,124.83,Tulunan (North Cotabato),Tulunan,North Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0527,10/17/2019,5.3,4.55,126.42,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0528,10/17/2019,5.2,7.25,126.6,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0529,10/16/2019,5.5,6.76,125.01,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0530,10/16/2019,6.3,6.76,125.01,Tulunan (Cotabato),Tulunan,Cotabato,6.8300214,124.8736479,San Manuel loam,Lowlands,0.0,0.85
+PHV-0531,9/29/2019,5.3,5.43,126.63,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0532,9/29/2019,6.4,5.52,126.66,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0533,9/21/2019,5.0,14.1,124.59,Panganiban (Payo) (Catanduanes),Payo,Catanduanes,13.8781208,124.239801,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0534,9/18/2019,5.6,5.07,126.64,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0535,9/13/2019,5.3,15.1,122.23,Burdeos (Quezon),Burdeos,Quezon,14.8435644,121.9693383,Polillo sandy clay loam,Lowlands,0.0,0.6
+PHV-0536,9/10/2019,5.8,6.55,126.42,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0537,9/8/2019,5.0,5.61,125.74,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0538,9/5/2019,5.1,14.63,116.3,Palauig (Zambales),Palauig,Zambales,15.4336234,119.9107718,Beach sand,Lowlands,0.0,0.6
+PHV-0539,8/31/2019,5.2,7.47,126.76,Baganga (Davao Oriental),Baganga,Davao Oriental,7.5747096,126.5616073,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0540,8/3/2019,5.0,12.87,124.96,Pambujan (Northern Samar),Pambujan,Northern Samar,12.5639616,124.9282311,Bugko loamy sand,Lowlands,0.0,0.75
+PHV-0541,8/3/2019,5.6,6.02,126.03,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0542,7/27/2019,5.3,20.78,122.07,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0543,7/27/2019,5.9,21.07,121.96,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0544,7/27/2019,5.4,20.98,122.21,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0545,7/27/2019,5.8,20.89,121.84,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0546,7/13/2019,5.5,9.32,125.99,Carrascal (Surigao Del Sur),Carrascal,Surigao Del Sur,9.3688403,125.9495398,San Manuel silt loam,Lowlands,0.0,0.85
+PHV-0547,7/9/2019,5.6,6.83,125.02,Makilala (North Cotabato),Makilala,North Cotabato,6.9595701,125.0891183,Kidapawan sandy clay loam,Uplands,0.0,1.1
+PHV-0548,7/2/2019,5.9,9.19,124.32,Lila (Bohol),Lila,Bohol,9.5906941,124.0953479,Faraon clay,Uplands,0.0,1.0
+PHV-0549,6/30/2019,5.0,9.6,124.95,Limasawa (Southern Leyte),Limasawa,Southern Leyte,9.9251181,125.0740924,Faraon - Bolinao complex,Uplands,227.18291451137125,1.1
+PHV-0550,6/6/2019,5.4,6.39,124.38,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0551,6/1/2019,5.4,6.09,126.7,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0552,5/31/2019,6.2,6.15,126.7,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0553,5/12/2019,5.2,19.3,121.1,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0554,5/6/2019,5.4,18.7,120.84,Pagudpud (Ilocos Norte),Pagudpud,Ilocos Norte,18.5593916,120.7869782,San Manuel loam,Lowlands,0.0,0.85
+PHV-0555,5/5/2019,5.0,8.83,126.99,Marihatag (Surigao Del Sur),Marihatag,Surigao Del Sur,8.8005575,126.2985386,Bantog clay,Lowlands,419.4228140413397,0.5
+PHV-0556,5/4/2019,5.5,12.33,120.81,Rizal (Occidental Mindoro),Rizal,Occidental Mindoro,12.459039,120.9642214,San Manuel sandy loam,Lowlands,0.0,0.75
+PHV-0557,4/26/2019,5.5,9.79,126.74,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0558,4/26/2019,5.0,9.77,126.77,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0559,4/26/2019,5.5,9.78,126.79,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0560,4/23/2019,6.5,11.79,125.37,San Julian (Eastern Samar),San Julian,Eastern Samar,11.7549638,125.455276,Bolinao clay,Uplands,0.0,1.0
+PHV-0561,4/22/2019,6.1,15.02,120.34,Castillejos (Zambales),Castillejos,Zambales,14.9320671,120.2005402,Angeles sand,Lowlands,0.0,0.75
+PHV-0562,4/19/2019,5.3,5.19,126.96,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0563,4/15/2019,5.2,19.17,120.88,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0564,4/7/2019,5.2,11.69,125.85,Maydolong (Eastern Samar),Maydolong,Eastern Samar,11.5010171,125.5016828,Beach sand,Lowlands,173.10333712044869,0.6
+PHV-0565,4/1/2019,5.4,10.61,125.93,Loreto (Dinagat),Loreto,Dinagat,10.3595571,125.5788866,Dinagat clay loam,Highlands,0.0,1.1
+PHV-0566,3/16/2019,5.6,6.14,125.34,Alabel (Sarangani),Alabel,Sarangani,6.1027828,125.2920305,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0567,3/16/2019,5.2,13.6,120.63,Abra De Ilog (Occidental Mindoro),Abra De Ilog,Occidental Mindoro,13.4444905,120.7288218,Alaminos loam,Uplands,0.0,1.1
+PHV-0568,3/8/2019,6.2,10.37,126.13,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0569,3/6/2019,5.5,8.34,127.31,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0570,3/3/2019,5.3,18.63,120.37,Burgos (Ilocos Norte),Burgos,Ilocos Norte,18.5110086,120.6436311,Rock land,Uplands,0.0,1.3
+PHV-0571,3/1/2019,5.1,4.93,125.46,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0572,2/12/2019,5.1,4.59,126.19,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0573,2/10/2019,5.1,9.86,126.34,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0574,2/8/2019,5.9,9.79,126.59,General Luna (Surigao Del Norte),General Luna,Surigao Del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0575,2/6/2019,5.5,15.91,120.31,Aguilar (Pangasinan),Aguilar,Pangasinan,15.8890372,120.2384199,Alaminos loam,Uplands,0.0,1.1
+PHV-0576,2/6/2019,5.0,2.76,128.46,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0577,1/27/2019,5.1,11.51,125.95,Hernani (Eastern Samar),Hernani,Eastern Samar,11.3232473,125.6190691,Hermani loam,Lowlands,278.41257235470607,0.85
+PHV-0578,1/24/2019,5.5,19.17,121.25,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0579,1/22/2019,5.1,4.31,126.35,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0580,1/19/2019,5.0,2.96,129.06,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0581,1/16/2019,5.4,4.44,127.96,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0582,1/16/2019,6.0,5.95,126.87,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0583,1/7/2019,5.5,7.91,121.93,Baliguan (Zamboanga del Norte),Baliguan,Zamboanga del Norte,7.811685724,122.1464437,Pasonanca loam,Highlands,0.0,1.1
+PHV-0584,12/29/2018,7.2,5.48,127.05,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0585,12/29/2018,5.6,5.66,127.09,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0586,12/6/2018,5.3,6.62,125.7,Malita (Davao Occidental),Malita,Davao Occidental,6.4143745,125.6109051,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0587,11/6/2018,5.2,3.62,124.93,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0588,11/4/2018,6.0,7.81,124.06,Pualas (Lanao Del Sur),Pualas,Lanao Del Sur,7.8201575,124.0801292,Adtuyon La Castellana complex,Uplands,0.0,1.1
+PHV-0589,10/29/2018,5.1,8.55,126.92,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0590,10/29/2018,5.3,8.55,126.86,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0591,10/29/2018,5.1,8.51,127.05,Hinatuan (Surigao Del Sur),Hinatuan,Surigao Del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0592,10/28/2018,5.4,3.55,126.76,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0593,10/21/2018,5.4,5.04,126.49,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0594,10/16/2018,5.1,8.54,122.73,Jose Dalman (Ponot) (Zamboanga del Norte),Ponot,Zamboanga del Norte,8.381995021,123.05712,Paete clay loam,Highlands,0.0,1.1
+PHV-0595,9/27/2018,5.1,10.6,126.9,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0596,9/14/2018,5.1,3.19,128.41,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0597,9/10/2018,5.0,10.68,126.45,Burgos (Surigao del Norte),Burgos,Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0598,9/8/2018,6.4,7.13,126.53,Manay (Davao Oriental),Manay,Davao Oriental,7.2109327,126.5399142,Bolinao clay,Uplands,0.0,1.0
+PHV-0599,8/31/2018,5.2,13.59,120.69,Abra De Ilog (Occidental Mindoro),Abra De Ilog,Occidental Mindoro,13.4444905,120.7288218,Alaminos loam,Uplands,0.0,1.1
+PHV-0600,8/24/2018,5.2,11.05,126.5,Guiuan (Eastern Samar),Guiuan,Eastern Samar,11.0306685,125.7236686,Bolinao clay,Uplands,0.0,1.0
+PHV-0601,8/23/2018,5.1,2.8,126.88,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0602,8/21/2018,5.0,19.15,121.28,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0603,7/23/2018,5.1,4.81,124.88,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0604,7/11/2018,5.1,9.77,125.41,San Francisco (Anao-aon) (Surigao Del Norte),Anao-aon,Surigao Del Norte,9.7469793,125.3971106,Beach sand,Lowlands,0.0,0.6
+PHV-0605,7/3/2018,5.2,13.93,120.42,Nasugbu (Batangas),Nasugbu,Batangas,14.0736258,120.6320724,Taal sandy loam,Highlands,0.0,1.1
+PHV-0606,7/3/2018,5.6,5.8,125.21,Glan (Sarangani),Glan,Sarangani,5.8226991,125.2049049,Glan clay loam,Lowlands,0.0,0.6
+PHV-0607,6/17/2018,5.2,14.97,119.56,San Felipe (Zambales),San Felipe,Zambales,15.0610588,120.0702767,Angeles sand,Lowlands,0.0,0.75
+PHV-0608,6/17/2018,5.4,6.07,125.75,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0609,6/13/2018,5.2,6.51,126.33,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0610,6/1/2018,5.0,7.32,123.9,Balabagan (Lanao del Sur),Balabagan,Lanao del Sur,7.5093206,124.127834,Malabang sandy loam,Uplands,0.0,1.1
+PHV-0611,5/13/2018,5.1,5.44,125.45,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0612,5/12/2018,5.4,6.03,125.75,Malita (Davao Occidental),Malita,Davao Occidental,6.4143745,125.6109051,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0613,5/11/2018,5.9,6.69,124.14,South Upi (Maguindanao),South Upi,Maguindanao,6.8549414,124.1439996,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0614,5/11/2018,5.0,5.47,126.67,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0615,5/10/2018,5.7,10.12,125.53,Libjo (Dinagat Islands),Libjo,Dinagat Islands,10.1941944,125.5316075,Bolinao clay (Steep phase),Uplands,0.0,1.0
+PHV-0616,5/5/2018,6.0,14.43,123.96,Pandan (Catanduanes),Pandan,Catanduanes,14.0492274,124.1702111,Luisiana clay loam,Highlands,0.0,1.1
+PHV-0617,4/16/2018,5.4,17.98,122.27,Gonzaga (Cagayan),Gonzaga,Cagayan,18.2612024,121.9966488,Umingan sandy clay loam,Lowlands,0.0,0.6
+PHV-0618,4/5/2018,6.0,6.71,126.9,Tarragona (Davao Oriental),Tarragona,Davao Oriental,7.0497523,126.4489837,Bolinao clay,Uplands,0.0,1.0
+PHV-0619,4/3/2018,5.5,3.1,127.96,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0620,2/26/2018,5.0,13.35,121.55,"Naujan 
+			(Oriental Mindoro)",Naujan,Oriental Mindoro,13.324239,121.3030659,Calumpang clay,Lowlands,0.0,0.5
+PHV-0621,2/24/2018,5.4,19.71,120.34,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0622,1/14/2018,5.2,13.26,120.29,Paluan (Occidental Mindoro),Paluan,Occidental Mindoro,13.4158295,120.4626484,Beach sand,Lowlands,0.0,0.6
+PHV-0623,1/14/2018,5.0,13.28,120.22,Paluan (Occidental Mindoro),Paluan,Occidental Mindoro,13.4158295,120.4626484,Beach sand,Lowlands,0.0,0.6
+PHV-0624,1/7/2018,5.1,4.05,126.29,Sarangani(Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0625,1/6/2018,5.0,3.5,126.96,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0626,12/17/2017,5.1,10.34,126.15,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0627,12/1/2017,5.1,7.74,124.77,Wao (Lanao Del Sur),Wao,Lanao Del Sur,7.6382215,124.7241605,Adtuyon clay loam,Uplands,0.0,1.1
+PHV-0628,11/30/2017,5.1,7.28,126.94,Caraga (Davao Oriental),Caraga,Davao Oriental,7.328232,126.5653582,Camasan sandy clay loam,Highlands,0.0,1.1
+PHV-0629,11/8/2017,5.1,6.22,125.91,Don Marcelino (Davao Occidental),Don Marcelino,Davao Occidental,6.1978508,125.6977653,Malalag loam,Uplands,0.0,1.1
+PHV-0630,10/22/2017,5.4,14.01,120.56,Lian (Batangas),Lian,Batangas,14.0369842,120.6528224,Calumpang clay,Lowlands,0.0,0.5
+PHV-0631,10/21/2017,5.3,4.21,127.2,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0632,10/19/2017,5.1,17.61,119.95,Santa Catalina (Ilocos Sur),Santa Catalina,Ilocos Sur,17.5888763,120.3633196,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0633,9/24/2017,5.4,7.66,124.68,Wao (Lanao Del Sur),Wao,Lanao Del Sur,7.6382215,124.7241605,Adtuyon clay loam,Uplands,0.0,1.1
+PHV-0634,8/30/2017,5.1,19.21,121.24,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0635,8/23/2017,5.1,10.96,124.65,Albuera (Leyte),Albuera,Leyte,10.9166552,124.6943663,Umingan clay loam,Lowlands,0.0,0.6
+PHV-0636,8/11/2017,6.3,13.95,120.49,Nasugbu (Batangas),Nasugbu,Batangas,14.0736258,120.6320724,Taal sandy loam,Highlands,0.0,1.1
+PHV-0637,8/10/2017,5.4,9.51,124.26,Garcia Hernandez (Bohol),Garcia Hernandez,Bohol,9.614319,124.2954003,Faraon clay,Uplands,0.0,1.0
+PHV-0638,8/5/2017,5.9,6.18,125.32,Malapatan (Sarangani),Malapatan,Sarangani,5.9707512,125.2882717,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0639,8/5/2017,5.0,7.86,125.01,Valencia City (Bukidnon),Valencia City,Bukidnon,7.9028844,125.0898033,Maapag clay,Lowlands,0.0,0.5
+PHV-0640,7/26/2017,5.0,10.16,121.97,Anini-y (Antique),Anini-y,Antique,10.4315482,121.9249048,Patnongon sandy clay loam,Lowlands,634.9987905287139,0.6
+PHV-0641,7/10/2017,5.8,11.0,124.73,Ormoc City (Leyte),Ormoc City,Leyte,11.0010853,124.6060789,Umingan clay loam,Lowlands,0.0,0.6
+PHV-0642,7/6/2017,6.5,11.11,124.69,Ormoc City (Leyte),Ormoc City,Leyte,11.0010853,124.6060789,Umingan clay loam,Lowlands,0.0,0.6
+PHV-0643,6/26/2017,5.2,10.3,126.28,Burgos (Surigao Del Norte),Burgos,Surigao Del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0644,6/15/2017,5.1,19.72,122.52,Uyugan (Batanes),Uyugan,Batanes,20.3495326,121.9380527,,,,
+PHV-0645,6/9/2017,5.2,5.49,125.14,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0646,5/25/2017,5.4,15.08,120.05,San Marcelino (Zambales),San Marcelino,Zambales,14.97381,120.1562867,Angeles sand,Lowlands,0.0,0.75
+PHV-0647,5/20/2017,5.6,9.4,124.18,Lila (Bohol),Lila,Bohol,9.5906941,124.0953479,Faraon clay,Uplands,0.0,1.0
+PHV-0648,4/29/2017,7.2,5.05,125.28,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0649,4/23/2017,5.1,9.18,126.36,Tandag (Surigao Del Sur),Tandag,Surigao Del Sur,9.0799833,126.1974606,Beach sand,Lowlands,0.0,0.6
+PHV-0650,4/16/2017,5.3,7.75,124.67,Wao (Lanao Del Sur),Wao,Lanao Del Sur,7.6382215,124.7241605,Adtuyon clay loam,Uplands,0.0,1.1
+PHV-0651,4/14/2017,5.2,5.12,128.11,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0652,4/13/2017,5.3,7.66,124.68,Wao (Lanao Del Sur),Wao,Lanao Del Sur,7.6382215,124.7241605,Adtuyon clay loam,Uplands,0.0,1.1
+PHV-0653,4/12/2017,6.0,7.71,124.66,Wao (Lanao Del Sur),Wao,Lanao Del Sur,7.6382215,124.7241605,Adtuyon clay loam,Uplands,0.0,1.1
+PHV-0654,4/12/2017,5.0,5.66,127.57,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0655,4/10/2017,5.4,13.11,125.49,Palapag (Northern Samar),Palapag,Northern Samar,12.5455937,125.1149936,Palapag clay loam,Lowlands,0.0,0.6
+PHV-0656,4/10/2017,5.1,5.57,127.58,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0657,4/10/2017,5.7,5.69,126.99,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0658,4/8/2017,6.0,13.68,120.92,Mabini (Batangas),Mabini,Batangas,13.7480896,120.9407878,Ibaan loam,Uplands,0.0,1.1
+PHV-0659,4/8/2017,5.6,13.75,120.93,Mabini (Batangas),Mabini,Batangas,13.7480896,120.9407878,Ibaan loam,Uplands,0.0,1.1
+PHV-0660,4/4/2017,5.5,13.68,120.93,Tingloy (Batangas),Tingloy,Batangas,13.6608216,120.8712711,Sibul clay loam,Uplands,0.0,1.1
+PHV-0661,3/29/2017,5.6,2.9,125.92,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0662,3/5/2017,5.9,9.76,125.38,Surigao City,Surigao City,Surigao Del Norte,9.7905028,125.4935697,Surigao clay loam,Highlands,0.0,1.1
+PHV-0663,2/26/2017,5.0,10.6,127.06,Burgos (Surigao del Norte),Burgos,Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0664,2/14/2017,5.0,9.79,125.4,Surigao City (Surigao Del Norte),Surigao City,Surigao Del Norte,9.7905028,125.4935697,Surigao clay loam,Highlands,0.0,1.1
+PHV-0665,2/10/2017,6.7,9.8,125.35,Surigao City,Surigao City,Surigao Del Norte,9.7905028,125.4935697,Surigao clay loam,Highlands,0.0,1.1
+PHV-0666,1/21/2017,5.6,2.53,128.23,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0667,1/11/2017,5.1,13.47,124.21,Virac (Catanduanes),Virac,Catanduanes,13.5803594,124.2312028,Virac loam,Lowlands,0.0,0.85
+PHV-0668,1/10/2017,7.2,4.38,122.84,Tongkil (Sulu),Tongkil,Sulu,6.0710519,121.7848726,,,,
+PHV-0669,12/15/2016,5.1,10.162,126.084,Santa Monica (Philippines),Santa Monica,Surigao Del Norte,10.0188427,126.0364378,Bolinao clay,Uplands,0.0,1.0
+PHV-0670,11/1/2016,28.0,6.28,126.38,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0671,10/15/2016,5.0,9.06,125.4,Nasipit (Agusan Del Norte),Nasipit,Agusan Del Norte,8.9884377,125.3408268,Isabela loam,Lowlands,0.0,0.85
+PHV-0672,10/14/2016,5.0,4.42,126.39,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0673,10/2/2016,5.5,16.49,119.71,Bolinao (Pangasinan),Bolinao,Pangasinan,16.3886595,119.8932117,Bolinao clay loam,Uplands,0.0,1.1
+PHV-0674,9/24/2016,6.5,6.59,126.5,Mati (Davao Oriental),Mati,Davao Oriental,6.9521657,126.2166758,Bolinao clay,Uplands,0.0,1.0
+PHV-0675,9/16/2016,5.3,5.84,125.72,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0676,9/11/2016,5.4,5.3,127.02,Jose Abad Santos (Davao Occidental),Jose Abad Santos,Davao Occidental,5.9124655,125.6445932,Malalag loam,Uplands,0.0,1.1
+PHV-0677,9/4/2016,6.0,8.33,125.87,Talacogon (Agusan del Sur),Talacogon,Agusan del Sur,8.4486711,125.7861565,Butuan loam,Lowlands,0.0,0.85
+PHV-0678,9/2/2016,5.0,6.4,123.77,Kalamansig (Sultan Kudarat),Kalamansig,Sultan Kudarat,6.5545839,124.050599,Umingan silt loam,Lowlands,0.0,0.85
+PHV-0679,8/15/2016,5.3,10.93,122.12,Valderrama (Antique),Valderrama,Antique,11.0018524,122.129408,Alimodian sandy clay,Highlands,0.0,1.0
+PHV-0680,8/13/2016,5.0,11.59,124.34,Naval (Biliran),Naval,Biliran,11.56179,124.3965267,Beach sand,Lowlands,0.0,0.6
+PHV-0681,8/10/2016,5.4,5.31,125.62,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0682,8/10/2016,5.3,5.53,125.3,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0683,8/6/2016,5.4,6.18,125.29,General Santos City,General Santos City,South Cotabato,6.1122217,125.1721893,Dadiangas sandy loam,Lowlands,0.0,0.75
+PHV-0684,7/27/2016,5.2,11.0,124.62,Ormoc City (Leyte),Ormoc City,Leyte,11.0010853,124.6060789,Umingan clay loam,Lowlands,0.0,0.6
+PHV-0685,7/26/2016,5.2,9.63,125.47,Sison (Surigao Del Norte),Sison,Surigao Del Norte,9.6589559,125.5269216,Bad-as sandy loam,Highlands,0.0,1.1
+PHV-0686,7/9/2016,5.3,8.49,125.69,Talacogon (Agusan Del Sur),Talacogon,Agusan Del Sur,8.4486711,125.7861565,Butuan loam,Lowlands,0.0,0.85
+PHV-0687,6/25/2016,5.0,6.45,126.25,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0688,6/20/2016,5.6,19.91,121.32,Sabtang (Batanes),Sabtang,Batanes,20.3347734,121.8722738,,,,
+PHV-0689,6/10/2016,5.2,16.47,120.95,Ambaguio (Nueva Vizcaya),Ambaguio,Nueva Vizcaya,16.5331234,121.0277675,Guimbalaon clay loam  gravelly phase,Uplands,0.0,1.1
+PHV-0690,6/3/2016,5.1,20.4,120.45,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0691,4/26/2016,5.3,20.9,121.19,Itbayat (Batanes),Itbayat,Batanes,20.7878139,121.8414735,,,,
+PHV-0692,4/20/2016,5.0,7.97,126.45,Cateel (Davao Oriental),Cateel,Davao Oriental,7.7901142,126.4537908,San Manuel silty clay loam,Lowlands,2.8943999430856167,0.6
+PHV-0693,4/14/2016,6.0,7.83,121.96,Baliguian (Zamboanga Del Norte),Baliguian,Zamboanga Del Norte,7.8097453,122.1451356,Pasonanca loam,Highlands,0.0,1.1
+PHV-0694,4/5/2016,5.9,3.01,128.3,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0695,3/16/2016,5.6,4.69,124.98,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0696,3/16/2016,5.0,4.52,125.06,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0697,3/12/2016,5.5,18.19,126.13,Laoag City,Laoag City,Ilocos Norte,18.1973235,120.5935433,San Manuel loam,Lowlands,0.0,0.85
+PHV-0698,3/4/2016,5.1,3.59,126.19,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0699,2/28/2016,5.6,5.18,125.34,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0700,2/5/2016,5.2,13.79,122.29,Lopez (Quezon),Lopez,Quezon,13.8825115,122.2611114,Bauang clay loam,Highlands,0.0,1.1
+PHV-0701,2/5/2016,5.0,13.66,122.38,Buenavista (Quezon),Buenavista,Quezon,13.7376773,122.4673918,Polillo sandy clay loam,Lowlands,0.0,0.6
+PHV-0702,1/29/2016,5.0,19.31,121.17,Claveria (Cagayan),Claveria,Cagayan,18.6051605,121.080641,Alaminos clay loam,Uplands,0.0,1.1
+PHV-0703,1/25/2016,5.0,3.52,128.5,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0704,1/14/2016,5.5,9.52,126.36,General Luna (Surigao del Norte),General Luna,Surigao del Norte,9.7825836,126.1563859,Bolinao clay,Uplands,367.1433894261436,1.0
+PHV-0705,1/12/2016,6.4,3.33,127.36,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0706,1/6/2016,5.2,10.15,126.37,Burgos (Surigao del Norte),Burgos,Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0707,1/4/2016,5.0,19.11,121.14,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0708,12/27/2015,5.2,10.09,126.31,San Isidro (Surigao Del Norte),San Isidro,Surigao Del Norte,9.9365296,126.0869689,Bolinao clay,Uplands,0.0,1.0
+PHV-0709,12/20/2015,5.3,13.1,124.49,Prieto Diaz (Sorsogon),Prieto Diaz,Sorsogon,13.0404252,124.1935375,Beach sand,Lowlands,0.0,0.6
+PHV-0710,12/17/2015,5.2,17.74,120.53,Lapog (San Juan) (Ilocos Sur),San Juan,Ilocos Sur,17.7451812,120.457271,San Manuel clay loam,Lowlands,0.0,0.6
+PHV-0711,11/25/2015,5.0,4.34,125.78,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0712,11/8/2015,5.7,16.57,119.41,Bolinao (Pangasinan),Bolinao,Pangasinan,16.3886595,119.8932117,Bolinao clay loam,Uplands,0.0,1.1
+PHV-0713,11/7/2015,5.2,5.16,125.61,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0714,10/19/2015,5.8,13.85,120.38,Looc (Occidental Mindoro),Looc,Occidental Mindoro,13.7197591,120.2502443,,,,
+PHV-0715,9/27/2015,5.0,5.14,124.15,Kiamba (Sarangani),Kiamba,Sarangani,5.9879555,124.6241575,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0716,9/17/2015,5.0,5.37,126.12,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0717,9/2/2015,6.1,4.23,124.75,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0718,8/9/2015,5.0,13.42,120.14,Paluan (Occidental Mindoro),Paluan,Occidental Mindoro,13.4158295,120.4626484,Beach sand,Lowlands,0.0,0.6
+PHV-0719,8/2/2015,5.0,7.96,123.59,Aurora (Zamboanga Del Sur),Aurora,Zamboanga Del Sur,7.9486062,123.5859831,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0720,7/25/2015,5.2,13.01,124.81,Catarman (Northern Samar),Catarman,Northern Samar,12.499648,124.6364767,San Manuel loam,Lowlands,0.0,0.85
+PHV-0721,7/18/2015,5.3,18.86,120.92,Claveria (Cagayan),Claveria,Cagayan,18.6051605,121.080641,Alaminos clay loam,Uplands,0.0,1.1
+PHV-0722,7/17/2015,5.0,9.13,126.97,Tandag ( Surigao del Sur),Tandag,Surigao del Sur,9.0799833,126.1974606,Beach sand,Lowlands,0.0,0.6
+PHV-0723,7/17/2015,5.1,9.12,127.08,Tandag ( Surigao del Sur),Tandag,Surigao del Sur,9.0799833,126.1974606,Beach sand,Lowlands,0.0,0.6
+PHV-0724,7/8/2015,5.0,9.92,126.27,Burgos (Surigao del Norte),Burgos,Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0725,7/5/2015,5.3,17.94,120.76,Batac (Ilocos Norte),Batac,Ilocos Norte,18.0555035,120.5645243,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0726,7/3/2015,6.1,10.31,126.38,Burgos (Surigao del Norte),Burgos,Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0727,6/16/2015,5.8,4.27,125.87,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0728,5/13/2015,5.1,13.23,124.29,Rapu-Rapu (Albay),Rapu-Rapu,Albay,13.1856583,124.1267772,Beach sand,Lowlands,0.0,0.6
+PHV-0729,2/25/2015,5.5,6.11,119.78,Pangutaran (Sulu),Pangutaran,Sulu,6.3041267,120.5718076,,,,
+PHV-0730,2/11/2015,5.0,13.99,120.44,Nasugbu (Batangas),Nasugbu,Batangas,14.0736258,120.6320724,Taal sandy loam,Highlands,0.0,1.1
+PHV-0731,2/10/2015,5.7,11.42,126.66,Mercedes (Eastern Samar),Mercedes,Eastern Samar,11.0986331,125.710348,Bolinao clay,Uplands,0.0,1.0
+PHV-0732,2/6/2015,5.2,9.54,126.38,Cortes (Surigao del Sur),Cortes,Surigao del Sur,9.2755786,126.1908659,Malalag loam,Uplands,0.0,1.1
+PHV-0733,2/2/2015,6.2,14.23,124.75,Virac (Catanduanes),Virac,Catanduanes,13.5803594,124.2312028,Virac loam,Lowlands,0.0,0.85
+PHV-0734,1/26/2015,5.1,9.81,122.26,Sipalay (Negros Occidental),Sipalay,Negros Occidental,9.7491266,122.4040602,Obando sand,Lowlands,0.0,0.75
+PHV-0735,1/22/2015,5.2,19.53,121.38,Calayan (Cagayan),Calayan,Cagayan,19.2612602,121.4756285,,,,
+PHV-0736,1/21/2015,5.5,5.99,123.6,Palimbang (Sultan Kudarat),Palimbang,Sultan Kudarat,6.2102983,124.1883549,Quingua clay loam,Lowlands,0.0,0.6
+PHV-0737,1/21/2015,5.2,5.7,125.49,Sarangani (Davao Occidental),Sarangani,Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0738,1/20/2015,5.0,5.65,127.41,Governor Generoso (Davao Oriental),Governor Generoso,Davao Oriental,6.6535259,126.0720099,San Manuel silty clay loam,Lowlands,0.0,0.6
+PHV-0739,1/20/2015,5.6,4.76,119.82,Simunul (Tawi-tawi),Simunul,Tawi-tawi,4.8980374,119.8218352,,,,
+PHV-0740,1/18/2015,5.0,13.88,120.45,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0741,1/17/2015,5.3,13.93,120.46,Calatagan (Batangas),Calatagan,Batangas,13.8329908,120.6326233,Sibul clay,Uplands,0.0,1.0
+PHV-0742,1/13/2015,5.0,12.95,124.59,Biri (Northern Samar),Biri,Northern Samar,12.6816045,124.3618377,Bolinao clay,Uplands,0.0,1.0
+PHV-0743,1/11/2015,5.9,14.74,119.91,San Antonio (Zambales),San Antonio,Zambales,14.9488214,120.0889405,Angeles sand,Lowlands,0.0,0.75
+PHV-0744,8/7/2014,5.0,,,"Sarangani, Davao Occidental","Sarangani, Davao Occidental",Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0745,12/3/2013,5.5,7.52,126.54,Davao Oriental,Davao Oriental,Davao Oriental,7.166667,126.333333,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0746,11/3/2013,6.1,5.99,126.93,Davao Oriental,Davao Oriental,Davao Oriental,7.166667,126.333333,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0747,10/15/2013,7.2,9.86,124.11,Bohol,Bohol,Bohol,9.8807822,124.2064612,Ubay clay,Uplands,0.0,1.0
+PHV-0748,8/31/2013,5.8,9.75,125.87,"Burgos, Surigao del Norte","Burgos, Surigao del Norte",Surigao del Norte,10.0181311,126.0742822,Bolinao clay,Uplands,101.05944087272053,1.0
+PHV-0749,8/13/2013,5.4,8.47,126.81,"Boston, Davao Oriental","Boston, Davao Oriental",Davao Oriental,7.8703434,126.3764259,San Manuel silty clay loam,Lowlands,285.3818576606444,0.6
+PHV-0750,5/31/2013,5.8,10.41,125.72,"Hinatuan, Surigao del Sur","Hinatuan, Surigao del Sur",Surigao del Sur,8.3656147,126.3358067,Hydrosol,Lowlands,493.5556073041525,0.3
+PHV-0751,5/4/2013,5.7,12.27,124.23,Samar,Samar,Samar (Western Samar),11.7982219,125.1690418,Faraon clay,Uplands,0.0,1.0
+PHV-0752,3/5/2013,5.2,7.19,126.64,Davao Oriental,Davao Oriental,Davao Oriental,7.166667,126.333333,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0753,12/15/2012,6.1,6.15,126.83,Davao Oriental,Davao Oriental,Davao Oriental,7.166667,126.333333,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0754,11/11/2012,6.8,5.6,126.3,"Sarangani, Davao Occidental","Sarangani, Davao Occidental",Davao Occidental,5.4122469,125.4217427,Malalag loam,Uplands,0.0,1.1
+PHV-0755,8/31/2012,7.6,14.76,119.92,Eastern Samar Trench,Eastern Samar Trench,(Offshore/Pacific Ocean),11.04670075,126.5051313,,,,
+PHV-0756,8/14/2012,5.2,13.06,123.16,"Burial Pass, Masbate","Burial Pass, Masbate",Masbate / Albay / Cam. Sur,12.95165023,123.2998235,Sevilla clay,Uplands,6479.611647761881,1.0
+PHV-0757,4/4/2012,5.0,13.8,120.79,Batangas,Batangas,Batangas,13.9146826,121.0867566,Ibaan loam,Uplands,0.0,1.1
+PHV-0758,3/19/2012,5.6,6.99,126.49,Davao Oriental,Davao Oriental,Davao Oriental,7.166667,126.333333,Mountain soil (undifferentiated),Highlands,0.0,1.3
+PHV-0759,2/6/2012,6.9,9.97,123.25,Negros Oriental,Negros Oriental,Negros Oriental,9.75,123.0,Rough mountain land,Highlands,0.0,1.3
+PHV-0760,12/26/2011,5.0,9.28,126.28,"Cortes, Surigao del Sur","Cortes, Surigao del Sur",Surigao del Sur,9.2755786,126.1908659,Malalag loam,Uplands,0.0,1.1
+PHV-0761,11/18/2011,5.9,9.62,125.93,Surigao del Norte,Surigao del Norte,Surigao del Norte,9.7022868,125.5464831,Sison clay loam,Highlands,0.0,1.1
+PHV-0762,10/11/2011,5.0,13.81,120.05,"Tagbac, Lubang","Tagbak, Lubang",Occidental Mindoro,13.8217,120.1831,,,,
+PHV-0763,7/25/2011,5.9,14.95,120.04,"Luzon, Philippines",Aliaga,Nueva Ecija,15.5504104,120.7434436,Zaragosa clay,Lowlands,0.0,0.5
+PHV-0764,4/21/2011,6.0,12.72,125.18,Eastern Samar,Eastern Samar,Eastern Samar,11.73,125.37,Catbalogan clay loam,Highlands,0.0,1.1
+PHV-0765,3/20/2011,6.0,18.99,121.25,"Namuac, Cagaya","Namuac, Cagayan",Cagayan,18.62033331,121.1640964,San Manuel sandy loam,Lowlands,20.35609815210925,0.75
+PHV-0766,2/26/2011,6.1,18.72,121.29,"Santa Ana, Cagayan Valley","Santa Ana, Cagayan Valley",Cagayan,18.4572501,122.1421667,Quingua silt loam,Lowlands,0.0,0.85
+PHV-0767,11/5/2010,5.0,12.86,122.85,"San Rafael, Masbate","San Rafael, Masbate",Masbate,13.0973508,122.9600696,Sevilla clay,Uplands,0.0,1.0
+PHV-0768,7/23/2010,7.4,7.32,123.77,"Moro Gulf, Mindanao","Moro Gulf, Mindanao",,7.333402435,123.7830902,,,,
+PHV-0769,7/23/2010,7.6,6.5,123.48,"Moro Gulf, Mindanao","Moro Gulf, Mindanao",,7.333402435,123.7830902,,,,
+PHV-0770,7/23/2010,7.3,6.72,123.41,"Moro Gulf, Mindanao","Moro Gulf, Mindanao",,7.333402435,123.7830902,,,,
+PHV-0771,3/25/2010,6.0,13.8,120.1,"Tagbak, Occidental Mindoro","Tagbak, Occidental Mindoro",Occidental Mindoro,13.8403096,120.0877672,,,,
